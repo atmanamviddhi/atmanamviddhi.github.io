@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Story - Raggyi Maladevi | Day 1"
-header-img: ""
+header-img: "/Sanskrit-Stories/s2.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-03-27
 ---
 
-[Sanskrit Story Raggyi Maladevi](https://github.com/programmercave0/Learning-Sanskrit/blob/main/Sanskrit-Stories/s2.jpeg) (Open image in new tab)
+[Sanskrit Story Raggyi Maladevi]({{ site.url }}/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
