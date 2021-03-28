@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Story - Raggyi Maladevi | Day 1"
-header-img: "/Sanskrit-Stories/s2.jpeg"
+header-img: "/asset/Sanskrit-Stories/s2.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-03-27
 ---
 
-[Sanskrit Story Raggyi Maladevi]({{ site.url }}/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
+[Sanskrit Story Raggyi Maladevi]({{ site.url }}/asset/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
@@ -41,7 +41,7 @@ Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.p
 
 
 ### Few Sankrit Sentences 
-|Sanskrit Sentence                                          | English Meaning     |     
+|Sanskrit Sentence                                          | English Meaning     |
 |:---------------------------------------------------------:|:-------------------:|
 | तान् एव | those very persons |
 | अत एव | for this very reason | 
