@@ -13,7 +13,7 @@ Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
 
 | Sanskrit Word | English Meaning | 
-|--------------|---------------: |
+|:--------------:|:---------------:|
 | अतः | therefore / hence / so |
 | अल्पेन | for little \[instr.\] / easily |
 | एव | really |
@@ -36,7 +36,7 @@ Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.p
 | मया | by me |
 | उक्त्वा | having spoken / having said | 
 | अद्य | today | 
-{:.table .th .td}
+{:.table-customised}
 
 
 
@@ -44,7 +44,7 @@ Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.p
 ### Few Sankrit Sentences 
 
 | Sanskrit Sentence | English Meaning |
-|-------------------|---------------: |
+|:-------------------:|:---------------:|
 | तान् एव | those very persons |
 | अत एव | for this very reason | 
 | एवम् एव | just |
@@ -115,7 +115,7 @@ Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.p
 | गत्वा शयनं करोतु | Go and sleep | 
 | तत्र गत्वा किं करोति? | What are you going to do there? | 
 | इदानीं गत्वा किञ्चित् पठतु | Go and read now. | 
-{:.table .th .td}
+{:.table-customised}
 
 Note - All meanings are from the above mentioned website. If there is any mistake, do inform. 
 
