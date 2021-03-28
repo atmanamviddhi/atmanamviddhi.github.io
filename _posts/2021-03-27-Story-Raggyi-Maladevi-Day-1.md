@@ -6,7 +6,7 @@ tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-03-27
 ---
 
-[Sanskrit Story Raggyi Maladevi]({{ site.url }}/asset/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
+![Sanskrit Story Raggyi Maladevi]({{ site.url }}/asset/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
