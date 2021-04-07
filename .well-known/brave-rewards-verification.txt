@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: atmanamviddhi.github.io
+Token: 9c0b315d2c9875ad3333d9e427ec08cd6abf142e1d3a818bd3e5c68df8438684
