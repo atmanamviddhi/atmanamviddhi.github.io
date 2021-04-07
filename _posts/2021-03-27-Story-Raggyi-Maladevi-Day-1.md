@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Story - Raggyi Maladevi | Day 1"
+title: "Vocabulary - Raggyi Maladevi | Story 1"
 header-img: "/asset/Sanskrit-Stories/s2.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-03-27
@@ -10,7 +10,7 @@ date: 2021-03-27
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
-Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
+Meanings from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -37,8 +37,6 @@ Meanings scrapped from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.p
 | उक्त्वा | having spoken / having said | 
 | अद्य | today | 
 {:.table-customised}
-
-
 
 
 ### Few Sankrit Sentences 
