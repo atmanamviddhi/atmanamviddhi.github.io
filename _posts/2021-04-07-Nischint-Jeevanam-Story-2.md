@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vocabulary - Nischint Jeevanam | Story 2"
+title: "Vocabulary - निश्चिन्तं जीवनम् | Story 2"
 header-img: "/asset/Sanskrit-Stories/s1.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-07

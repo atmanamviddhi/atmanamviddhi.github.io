@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vocabulary - Raggyi Maladevi | Story 1"
+title: "Vocabulary - राज्ञी मालादेवी | Story 1"
 header-img: "/asset/Sanskrit-Stories/s2.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-03-27

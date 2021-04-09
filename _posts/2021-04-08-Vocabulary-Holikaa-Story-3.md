@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vocabulary - Holikaa | Story 3"
+title: "Vocabulary - होलिका | Story 3"
 header-img: "/asset/Sanskrit-Stories/s3.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-08
