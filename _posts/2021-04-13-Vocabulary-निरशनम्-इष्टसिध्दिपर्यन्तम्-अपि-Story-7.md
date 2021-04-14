@@ -6,7 +6,7 @@ tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-13
 ---
 
-![Sanskrit Story Vastavikam Suuratvam]({{ site.url }}/asset/Sanskrit-Stories/s7.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s7.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
