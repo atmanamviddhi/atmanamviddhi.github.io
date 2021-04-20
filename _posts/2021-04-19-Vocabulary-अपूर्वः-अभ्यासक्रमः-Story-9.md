@@ -30,3 +30,5 @@ Meanings from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0
 |:-------------------:|:---------------:|
 | साहाय्यार्थं सर्वाः विविधाः द्वनिमुद्रिकाः आनेतुम् अहं शक्नोमि | To help, I could bring all kinds of CDs. |
 {:.table-customised}
+
+Note - All meanings are from the above mentioned website. If there is any mistake, do inform.
