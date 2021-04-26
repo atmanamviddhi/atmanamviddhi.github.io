@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vocabulary - प्रशस्तः मार्गः | Story 11</title>
+				<description></description>
+				<pubDate>Mon, 26 Apr 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/04/26/Vocabulary-%E0%A4%AA-%E0%A4%B0%E0%A4%B6%E0%A4%B8-%E0%A4%A4%E0%A4%83-%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%97%E0%A4%83-Story-11</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/26/Vocabulary-%E0%A4%AA-%E0%A4%B0%E0%A4%B6%E0%A4%B8-%E0%A4%A4%E0%A4%83-%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%97%E0%A4%83-Story-11</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - विनयः महात्मनः | Story 10</title>
 				<description></description>
 				<pubDate>Tue, 20 Apr 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Wed, 07 Apr 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/04/07/Nischint-Jeevanam-Story-2</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/07/Nischint-Jeevanam-Story-2</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - राज्ञी मालादेवी | Story 1</title>
-				<description></description>
-				<pubDate>Sat, 27 Mar 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/03/27/Story-Raggyi-Maladevi-Day-1</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/03/27/Story-Raggyi-Maladevi-Day-1</guid>
 			</item>
 		
 	</channel>

@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000//blog/2021/04/26/Vocabulary-%E0%A4%AA-%E0%A4%B0%E0%A4%B6%E0%A4%B8-%E0%A4%A4%E0%A4%83-%E0%A4%AE%E0%A4%BE%E0%A4%B0-%E0%A4%97%E0%A4%83-Story-11</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000//blog/2021/04/20/Vocabulary-%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%AF%E0%A4%83-%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A4%A8%E0%A4%83-Story-10</loc>
     </url>
     
@@ -83,6 +87,14 @@
     
     <url>
         <loc>http://localhost:4000//page2/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000//page3/</loc>
     </url>
     
     
