@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vocabulary - जनादरपात्रता कथम् ? | Story 13</title>
+				<description></description>
+				<pubDate>Wed, 28 Apr 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/04/28/Vocabulary-%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%A6%E0%A4%B0%E0%A4%AA%E0%A4%BE%E0%A4%A4-%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A4%A5%E0%A4%AE-Story-13</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/28/Vocabulary-%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%A6%E0%A4%B0%E0%A4%AA%E0%A4%BE%E0%A4%A4-%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A4%A5%E0%A4%AE-Story-13</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - जयस्य कारणम् | Story 12</title>
 				<description></description>
 				<pubDate>Tue, 27 Apr 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Fri, 09 Apr 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/04/09/Vocabulary-%E0%A4%AC%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A4%B2%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95-%E0%A4%B7%E0%A4%BE-Story-4</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/09/Vocabulary-%E0%A4%AC%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A4%B2%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95-%E0%A4%B7%E0%A4%BE-Story-4</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - होलिका | Story 3</title>
-				<description></description>
-				<pubDate>Thu, 08 Apr 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/04/08/Vocabulary-Holikaa-Story-3</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/08/Vocabulary-Holikaa-Story-3</guid>
 			</item>
 		
 	</channel>
