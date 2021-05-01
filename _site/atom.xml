@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vocabulary - वनस्पतयः ‍शान्तिः | Story 14</title>
+				<description></description>
+				<pubDate>Sat, 01 May 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/05/01/Vocabulary-%E0%A4%B5%E0%A4%A8%E0%A4%B8-%E0%A4%AA%E0%A4%A4%E0%A4%AF%E0%A4%83%E0%A4%A8-%E0%A4%A4%E0%A4%BF%E0%A4%83-Story-14</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/01/Vocabulary-%E0%A4%B5%E0%A4%A8%E0%A4%B8-%E0%A4%AA%E0%A4%A4%E0%A4%AF%E0%A4%83%E0%A4%A8-%E0%A4%A4%E0%A4%BF%E0%A4%83-Story-14</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - जनादरपात्रता कथम् ? | Story 13</title>
 				<description></description>
 				<pubDate>Wed, 28 Apr 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Sun, 11 Apr 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/04/11/Vocabulary-%E0%A4%B8%E0%A4%AE%E0%A4%AF%E0%A5%8B%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%AF%E0%A5%81%E0%A4%95-%E0%A4%A4%E0%A4%BF-Story-5</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/11/Vocabulary-%E0%A4%B8%E0%A4%AE%E0%A4%AF%E0%A5%8B%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A4%BE-%E0%A4%AF%E0%A5%81%E0%A4%95-%E0%A4%A4%E0%A4%BF-Story-5</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - बलाबलपरीक्षा | Story 4</title>
-				<description></description>
-				<pubDate>Fri, 09 Apr 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/04/09/Vocabulary-%E0%A4%AC%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A4%B2%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95-%E0%A4%B7%E0%A4%BE-Story-4</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/09/Vocabulary-%E0%A4%AC%E0%A4%B2%E0%A4%BE%E0%A4%AC%E0%A4%B2%E0%A4%AA%E0%A4%B0%E0%A5%80%E0%A4%95-%E0%A4%B7%E0%A4%BE-Story-4</guid>
 			</item>
 		
 	</channel>
