@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vocabulary - तल्लीनता | Story 17</title>
+				<description></description>
+				<pubDate>Sat, 15 May 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/05/15/Vocabulary-%E0%A4%A4%E0%A4%B2-%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%A4%E0%A4%BE-Story-17</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/15/Vocabulary-%E0%A4%A4%E0%A4%B2-%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%A4%E0%A4%BE-Story-17</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - मन्दस्मितता कुतः न ? | Story 16</title>
 				<description></description>
 				<pubDate>Sat, 08 May 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Wed, 14 Apr 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/04/14/Vocabulary-%E0%A4%95%E0%A4%BF%E0%A4%82-%E0%A4%B5-%E0%A4%AF%E0%A4%B0-%E0%A4%A5%E0%A4%AF%E0%A4%AF%E0%A5%87%E0%A4%A8-%E0%A4%86%E0%A4%A1%E0%A4%AE-%E0%A4%AC%E0%A4%B0%E0%A5%87%E0%A4%A3-%E0%A4%B5%E0%A4%BE-Story-8</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/14/Vocabulary-%E0%A4%95%E0%A4%BF%E0%A4%82-%E0%A4%B5-%E0%A4%AF%E0%A4%B0-%E0%A4%A5%E0%A4%AF%E0%A4%AF%E0%A5%87%E0%A4%A8-%E0%A4%86%E0%A4%A1%E0%A4%AE-%E0%A4%AC%E0%A4%B0%E0%A5%87%E0%A4%A3-%E0%A4%B5%E0%A4%BE-Story-8</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - निरशनम् इष्टसिध्दिपर्यन्तम् अपि | Story 7</title>
-				<description></description>
-				<pubDate>Tue, 13 Apr 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/04/13/Vocabulary-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%B6%E0%A4%A8%E0%A4%AE-%E0%A4%87%E0%A4%B7-%E0%A4%9F%E0%A4%B8%E0%A4%BF%E0%A4%A7-%E0%A4%A6%E0%A4%BF%E0%A4%AA%E0%A4%B0-%E0%A4%AF%E0%A4%A8-%E0%A4%A4%E0%A4%AE-%E0%A4%85%E0%A4%AA%E0%A4%BF-Story-7</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/13/Vocabulary-%E0%A4%A8%E0%A4%BF%E0%A4%B0%E0%A4%B6%E0%A4%A8%E0%A4%AE-%E0%A4%87%E0%A4%B7-%E0%A4%9F%E0%A4%B8%E0%A4%BF%E0%A4%A7-%E0%A4%A6%E0%A4%BF%E0%A4%AA%E0%A4%B0-%E0%A4%AF%E0%A4%A8-%E0%A4%A4%E0%A4%AE-%E0%A4%85%E0%A4%AA%E0%A4%BF-Story-7</guid>
 			</item>
 		
 	</channel>
