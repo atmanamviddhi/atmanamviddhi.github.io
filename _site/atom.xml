@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Vocabulary - विशिष्टः कृषिकः | Story 19</title>
+				<description></description>
+				<pubDate>Sun, 23 May 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/05/23/Vocabulary-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7-%E0%A4%9F%E0%A4%83-%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A4%83-Story-19</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/23/Vocabulary-%E0%A4%B5%E0%A4%BF%E0%A4%B6%E0%A4%BF%E0%A4%B7-%E0%A4%9F%E0%A4%83-%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%BF%E0%A4%95%E0%A4%83-Story-19</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - वस्त्रस्य उपयोगः | Story 18</title>
 				<description></description>
 				<pubDate>Tue, 18 May 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Tue, 20 Apr 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/04/20/Vocabulary-%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%AF%E0%A4%83-%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A4%A8%E0%A4%83-Story-10</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/20/Vocabulary-%E0%A4%B5%E0%A4%BF%E0%A4%A8%E0%A4%AF%E0%A4%83-%E0%A4%AE%E0%A4%B9%E0%A4%BE%E0%A4%A4-%E0%A4%AE%E0%A4%A8%E0%A4%83-Story-10</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - अपूर्वः अभ्यासक्रमः | Story 9</title>
-				<description></description>
-				<pubDate>Mon, 19 Apr 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/04/19/Vocabulary-%E0%A4%85%E0%A4%AA%E0%A5%82%E0%A4%B0-%E0%A4%B5%E0%A4%83-%E0%A4%85%E0%A4%AD-%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%95-%E0%A4%B0%E0%A4%AE%E0%A4%83-Story-9</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/19/Vocabulary-%E0%A4%85%E0%A4%AA%E0%A5%82%E0%A4%B0-%E0%A4%B5%E0%A4%83-%E0%A4%85%E0%A4%AD-%E0%A4%AF%E0%A4%BE%E0%A4%B8%E0%A4%95-%E0%A4%B0%E0%A4%AE%E0%A4%83-Story-9</guid>
 			</item>
 		
 	</channel>
