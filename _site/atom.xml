@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Excerpt from &quot;Śvetāśvatara Upaniṣad&quot;</title>
+				<description>Excerpt from Śvetāśvatara Upaniṣad translation by Śwāmi Tyāgīśānanda</description>
+				<pubDate>Sat, 29 May 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/05/29/Notes-from-%C5%9Avet%C4%81%C5%9Bvatara-Upani%E1%B9%A3ad</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/29/Notes-from-%C5%9Avet%C4%81%C5%9Bvatara-Upani%E1%B9%A3ad</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - भूतस्य घण्टा | Story 22</title>
 				<description></description>
 				<pubDate>Fri, 28 May 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Sat, 01 May 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/05/01/Vocabulary-%E0%A4%B5%E0%A4%A8%E0%A4%B8-%E0%A4%AA%E0%A4%A4%E0%A4%AF%E0%A4%83%E0%A4%A8-%E0%A4%A4%E0%A4%BF%E0%A4%83-Story-14</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/01/Vocabulary-%E0%A4%B5%E0%A4%A8%E0%A4%B8-%E0%A4%AA%E0%A4%A4%E0%A4%AF%E0%A4%83%E0%A4%A8-%E0%A4%A4%E0%A4%BF%E0%A4%83-Story-14</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - जनादरपात्रता कथम् ? | Story 13</title>
-				<description></description>
-				<pubDate>Wed, 28 Apr 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/04/28/Vocabulary-%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%A6%E0%A4%B0%E0%A4%AA%E0%A4%BE%E0%A4%A4-%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A4%A5%E0%A4%AE-Story-13</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/04/28/Vocabulary-%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%A6%E0%A4%B0%E0%A4%AA%E0%A4%BE%E0%A4%A4-%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%95%E0%A4%A5%E0%A4%AE-Story-13</guid>
 			</item>
 		
 	</channel>

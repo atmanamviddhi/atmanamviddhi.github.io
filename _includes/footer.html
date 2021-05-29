@@ -1,13 +1,11 @@
 <div class="container">
-	<!---Buy me a coffee -->
-	<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="botman1001" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+    <!---Buy me a coffee -->
+    <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="botman1001" data-description="Support me on Buy me a coffee!" data-message="" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 <div class="row">
            
-<div id="content" class="content">
-<div class="col-lg-8 col-lg-offset-4 col-md-10">
-    <h1>Recent Posts</h1>
+  <!--  <h1>Recent Posts</h1> -->
     <!--<ul class="category recent-posts">       -->
-        {% for post in site.posts limit:5  %}
+         <!--{% for post in site.posts limit:5  %}
         {% unless post.draft %}
 
         {% if post.menutitle %}
@@ -27,19 +25,19 @@
         </li>
         {% endunless %}
         {% endfor %}
-	</div>
+    </div> -->
 </ul>
 
 <div class="col-lg-8 col-lg-offset-4 col-md-10">
-
-	<a href="{{ site.url }}" class="fa fa-home"></a>
-	<a href="https://www.facebook.com/{{ site.facebook_username }}" class="fa fa-facebook"></a>
-	<a href="https://www.instagram.com/{{ site.instagram_username }}" class="fa fa-instagram"></a>
-	<a href="{{ "/atom.xml" | prepend: site.baseurl }}" class="fa fa-rss"></a>
-	</div>
+    <h3> Follow us : </h3>
+    <a href="{{ site.url }}" class="fa fa-home"></a>
+    <a href="https://www.facebook.com/{{ site.facebook_username }}" class="fa fa-facebook"></a>
+    <a href="https://www.instagram.com/{{ site.instagram_username }}" class="fa fa-instagram"></a>
+    <a href="{{ "/atom.xml" | prepend: site.baseurl }}" class="fa fa-rss"></a>
+</div>
     
-	          
-	
+              
+    
 <!--
 <div class="scrolling-wrapper-flexbox">
   <div class="card"><a href="https://www.facebook.com/{{ site.facebook_username }}">Facebook</a></div>
@@ -59,13 +57,13 @@
                     
                       <li>  <a href="https://www.facebook.com/{{ site.facebook_username }}">Facebook</a></li>
                     
-		   
+           
        <li>                 <a href="https://github.com/{{ site.github_username }}">Github</a></li>
                     
-		  
+          
                     <li>    <a href="https://www.instagram.com/{{ site.instagram_username }}">Instagram</a></li>
                  
-		   
+           
                       <li>  <a href="https://t.me/{{ site.telegtam_username }}">Telegram</a></li>
                     
                    
@@ -73,9 +71,9 @@
                     
 </div>-->
 
-	
+    
 
-	
+    
 
 
 
@@ -85,8 +83,8 @@
 </div> 
 
 
-	</div>
-	<!-- jQuery -->
+    </div>
+    <!-- jQuery -->
 <!--
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 -->
@@ -107,5 +105,5 @@
         processEscapes: true
     }
   });
-</script>	
+</script>   
 -->
