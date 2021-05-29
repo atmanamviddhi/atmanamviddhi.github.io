@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Excerpt from \"Śvetāśvatara Upaniṣad\""
-subtitle: "Excerpt from Śvetāśvatara Upaniṣad translation by Śwāmi Tyāgīśānanda"
+title: "Excerpts from \"Śvetāśvatara Upaniṣad\""
+subtitle: "Excerpts from Śvetāśvatara Upaniṣad translation by Śwāmi Tyāgīśānanda"
 tags:  [Shaivism, Upanishad, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts]
 date: 2021-05-29
 ---
 
-Excerpt from **Śvetāśvatara Upaniṣad** translation by Śwāmi Tyāgīśānanda
+Excerpts from **Śvetāśvatara Upaniṣad** translation by Śwāmi Tyāgīśānanda
 
 **ते ध्यानयोगानुगता अपश्यन् <br />
 देवात्मशक्तिं स्वगुणैर्निगूढाम् ।<br />
