@@ -8,8 +8,10 @@ date: 2021-05-29
 
 Excerpt from **Śvetāśvatara Upaniṣad** translation by Śwāmi Tyāgīśānanda
 
-**ते ध्यानयोगानुगता अपश्यन् देवात्मशक्तिं स्वगुणैर्निगूढाम् ।<br />
-यः कारणानि निखिलानि तानि कालात्मयुक्तान्यधितिष्ठत्येकः ॥१-३॥**
+**ते ध्यानयोगानुगता अपश्यन् <br />
+देवात्मशक्तिं स्वगुणैर्निगूढाम् ।<br />
+यः कारणानि निखिलानि तानि <br />
+कालात्मयुक्तान्यधितिष्ठत्येकः ॥१-३॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -29,8 +31,10 @@ Excerpt from **Śvetāśvatara Upaniṣad** translation by Śwāmi Tyāgīśāna
 
 Practising the method of meditation, they realized that Being who is the God of religion, the Self of philosophy and the Energy of science ; who exists as the self-luminous power in everyone; who is the source of the intellect, emotions and will; who is one without a second; who presides over all the causes enumerated above, beginning with time and ending with the individual soul; and who had been incomprehensible because of the limitations of their own intellect. (1.3)
 
-**यथैव बिम्बं मृदयोपलिप्तं तेजोमयं भ्राजते तत् सुधान्तम् ।<br />
-तद्वाऽऽत्मतत्त्वं प्रसमीक्ष्य देही एकः कृतार्थो भवते वीतशोकः ॥२-१४॥**
+**यथैव बिम्बं मृदयोपलिप्तं तेजोमयं <br />
+भ्राजते तत् सुधान्तम् ।<br />
+तद्वाऽऽत्मतत्त्वं प्रसमीक्ष्य देही <br />
+एकः कृतार्थो भवते वीतशोकः ॥२-१४॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -51,8 +55,10 @@ Practising the method of meditation, they realized that Being who is the God of 
 
 Just as the same metal disc, which was stained by dust before, shines brilliantly when cleaned, so the embodied being, seeing the truth of Ātman, realizes oneness, attains the goal, and becomes sorrowless. (2.14)
 
-**एको हि रुद्रो न द्वितीयाय तस्थुर्य इमाँल्लोकानीशत ईशनीभिः ।<br />
-प्रत्यङ् जनास्तिष्ठति सञ्चुकोचान्तकाले संसृज्य विश्वा भुवनानि गोपाः ॥३-२॥**
+**एको हि रुद्रो न द्वितीयाय तस्थुर्य <br />
+इमाँल्लोकानीशत ईशनीभिः ।<br />
+प्रत्यङ् जनास्तिष्ठति सञ्चुकोचान्तकाले <br />
+संसृज्य विश्वा भुवनानि गोपाः ॥३-२॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -72,8 +78,10 @@ Just as the same metal disc, which was stained by dust before, shines brilliantl
 
 He who protects and controls the worlds by His own powers, He - Rudra - is indeed one only. There is no one beside Him who can make Him the second. O men, He is present inside the hearts of all beings. After projecting and maintaining all the worlds, He finally withdraws them into Himself. (3.2)
 
-**यस्मात् परं नापरमस्ति किञ्चिद्यस्मान्नणीयो न ज्यायोऽस्ति कश्चित् । <br />
-वृक्ष इव स्तब्धो दिवि तिष्ठत्येकस्तेनेदं पूर्णं पुरुषेण सर्वम् ॥३-९॥**
+**यस्मात् परं नापरमस्ति <br />
+किञ्चिद्यस्मान्नणीयो न ज्यायोऽस्ति कश्चित् । <br />
+वृक्ष इव स्तब्धो दिवि <br />
+तिष्ठत्येकस्तेनेदं पूर्णं पुरुषेण सर्वम् ॥३-९॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -89,8 +97,10 @@ He who protects and controls the worlds by His own powers, He - Rudra - is indee
 
 There is naught higher than or different from Him; naught greater or more minute than Him. Rooted in His own glory He stands like a tree, one without a second and immovable. By that Being the whole universe is filled. (3.9)
 
-**पुरुष एवेदः सर्वं यद् भूतं यच्च भव्यम् ।<br />
-उतामृतत्वस्येशानो यदन्नेनातिरोहति ॥३-१५॥**
+**पुरुष एवेदः सर्वं यद् <br />
+भूतं यच्च भव्यम् ।<br />
+उतामृतत्वस्येशानो <br />
+यदन्नेनातिरोहति ॥३-१५॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -103,8 +113,10 @@ There is naught higher than or different from Him; naught greater or more minute
 
 That which is, that which was, and that which is yet to be - all this is nothing but this Infinite Being. Though He grows beyond His own nature into the form of the objective universe, He still remains the lord of immortality. (3.15)
 
-**य एकोऽवर्णो बहुधा शक्तियोगाद् वर्णाननेकान् निहितार्थो दधाति । <br />
-विचैति चान्ते विश्वमादौ च देवः स नो बुद्धया शुभया संयुनक्तु ॥४-१॥**
+**य एकोऽवर्णो बहुधा शक्तियोगाद् <br />
+वर्णाननेकान् निहितार्थो दधाति । <br />
+विचैति चान्ते विश्वमादौ च <br />
+देवः स नो बुद्धया शुभया संयुनक्तु ॥४-१॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -120,8 +132,10 @@ That which is, that which was, and that which is yet to be - all this is nothing
 
 May that Divine Being, who, though Himself colourless, gives rise to various colours in different ways with the help of His own power, for His own inscrutable purpose, and who dissolves the whole world in Himself in the end, may He endow us with good thoughts! (4.1)
 
-**यदाऽतमस्तान्न दिवा न रात्रिः न सन्नचासच्छिव एव केवलः ।<br />
-तदक्षरं तत् सवितुर्वरेण्यं प्रज्ञा च तस्मात् प्रसृता पुराणी ॥४-१८॥**
+**यदाऽतमस्तान्न दिवा न रात्रिः न <br />
+सन्नचासच्छिव एव केवलः ।<br />
+तदक्षरं तत् सवितुर्वरेण्यं प्रज्ञा च <br />
+तस्मात् प्रसृता पुराणी ॥४-१८॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
@@ -139,8 +153,10 @@ May that Divine Being, who, though Himself colourless, gives rise to various col
 
 When ignorance is dispelled, there is neither day nor night, neither being nor non-being. There is only that Auspicious One who is imperishable, and who is worthy of being adored by the creator. From Him has proceeded the ancient wisdom. (4.18)
 
-**न तत्र सूर्यो भाति न चन्द्रतारकं नेमा विद्युतो भान्ति कुतोऽयमग्निः । <br />
-तमेव भान्तमनुभाति सर्वं तस्य भासा सर्वमिदं विभाति ॥६-१४॥**
+**न तत्र सूर्यो भाति न चन्द्रतारकं <br />
+नेमा विद्युतो भान्ति कुतोऽयमग्निः । <br />
+तमेव भान्तमनुभाति सर्वं <br />
+तस्य भासा सर्वमिदं विभाति ॥६-१४॥**
 
 | Sanskrit Word | English Meaning | 
 |:--------------:|:---------------:|
