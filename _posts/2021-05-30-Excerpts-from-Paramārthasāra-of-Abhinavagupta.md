@@ -186,3 +186,11 @@ Advaitātma-vibodhas tena kathaṃ spṛśyatāṃ nāma.
 The group of emotions like intoxication, joy etc. rises out of delusion caused by the viewpoint of diversity. How can it touch a person having the revelation of the monistic self? (72)
 
 A yogin, who sees only his self in each and every phenomenon, does not come under the effects of emotions like pleasure, pain etc. Even if such emotions appear in him, these can not touch his inner self shining beyond all diverstiy of mental and physical existence.
+
+Note : English meanings from [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
+
+<h3>Amazon Affiliate Link:</h3>
+
+<a target="_blank"  href="https://www.amazon.in/gp/product/8190448900/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8190448900&linkCode=as2&tag=0106d-21&linkId=b8cd6b4d3837e4ccc288f1f519f44ce0"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8190448900&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
+<a target="_blank"  href="https://www.amazon.in/gp/product/0983783357/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0983783357&linkCode=as2&tag=0106d-21&linkId=5a618e04487357225f8fdb2387467abc"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0983783357&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
+<a target="_blank"  href="https://www.amazon.in/gp/product/0415836956/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0415836956&linkCode=as2&tag=0106d-21&linkId=48455e243a3436ab70a639c8c28a73a9"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=0415836956&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>

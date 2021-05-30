@@ -171,5 +171,5 @@ When ignorance is dispelled, there is neither day nor night, neither being nor n
 
 The sun does not shine there ; neither the moon, nor the stars. There these lightnings shine not, - how then this fire ? Because He shines, everything shines after Him. By His light all this shines. (6.14)
 
-**Amazon Affiliate Link:**
+<h3>Amazon Affiliate Link:</h3>
 <a target="_blank" href="https://www.amazon.in/gp/product/8171205046/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8171205046&linkCode=as2&tag=0106d-21&linkId=5f84dd4c4f71a8276ac8891f10d9eda2">Svetasvatara Upanishad Including Original Passages, Constructed Text (anvaya) with a Literal Word by Word Translation</a>
