@@ -4,6 +4,16 @@
 <div class="row">
            
   <!--  <h1>Recent Posts</h1> -->
+<!--
+  {% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <span class="site-tag">
+    <a href="/blog/#{{ tag | first | slugify }}"
+        style="font-size: {{ tag }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag }})
+    </a>
+</span>
+{% endfor %} -->
     <!--<ul class="category recent-posts">       -->
          <!--{% for post in site.posts limit:5  %}
         {% unless post.draft %}
