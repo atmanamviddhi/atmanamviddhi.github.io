@@ -23,6 +23,8 @@ Excerpts from **Stavacintāmaṇi of Bhaṭṭa Nārāyaṇa** translation by Bo
 
 By which physical activity You are not attained? Which word that does not express You? What meditation is there by which You are not meditated on? What's more, O Lord, what is that where You are not? (21)
 
+---
+
 **नमो निःशेषधीपत्रि- \
 मालालयमयात्मने । \
 नाथाय स्थाणवे तुभ्यं \
@@ -37,6 +39,8 @@ By which physical activity You are not attained? Which word that does not expres
 {:.table-customised}
 
 Salutations to the imperishable Lord Sthāṇu, whose sacred thread is the serpent Vāsuki, and whose very Self is the resting place of all the mental fluctuations of all living beings. (23)
+
+---
 
 **या या दिक्तत्र न क्वासि \
 सर्वः कालो भवन्मयः ।\
@@ -55,6 +59,8 @@ Salutations to the imperishable Lord Sthāṇu, whose sacred thread is the serpe
 
 Where is that place in which You are not (present) ? Time exists only in the identity with You; thus, although already attained, tell me - O Lord when the state of identity with You will be attained. (56)
 
+---
+
 **विसृष्टानेकसद्वीज- \
 गर्भं त्रैलोक्यनाटकम् । \
 प्रस्ताव्य हर संहर्तुं \
@@ -70,6 +76,8 @@ Where is that place in which You are not (present) ? Time exists only in the ide
 
 O Hara, which poet but You is capable of withdrawing the drama of the three worlds that has been introduced and which possesses in its womb multitude of shining seeds? (59)
 
+---
+
 **विधिरादिस्तथान्तोऽसि \
 विश्वस्य परमेश्वर । \
 धर्मग्रामः प्रवृत्तो \
@@ -81,6 +89,8 @@ O Hara, which poet but You is capable of withdrawing the drama of the three worl
 {:.table-customised}
 
 You Parameśvara are the injunction itself, its originator, and also its fruit; otherwise from where would this collection of beings come if not from You. (70)
+
+---
 
 **नाथ स्वप्नेऽपि यत्कुर्यां \
 ब्रूयां व साध्वसाधु वा ।\
@@ -95,6 +105,8 @@ You Parameśvara are the injunction itself, its originator, and also its fruit; 
 {:.table-customised}
 
 Whatever good or bad I may do or say, even in a dream – O Lord – it is because of enthusiasm (derived from) my identity with You that I remain here, in all these activities, full of bliss. (103)
+
+---
 
 Note : English meanings from [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
 

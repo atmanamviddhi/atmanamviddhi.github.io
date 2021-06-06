@@ -7,6 +7,14 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Supreme Dwell in the Heart of All Beings</title>
+				<description>Here are few verses to remind us that The Supreme reside in our heart.</description>
+				<pubDate>Sun, 06 Jun 2021 00:00:00 +0530</pubDate>
+				<link>http://localhost:4000/blog/2021/06/06/Supreme-Dwells-in-the-Heart-of-All-Beings</link>
+				<guid isPermaLink="true">http://localhost:4000/blog/2021/06/06/Supreme-Dwells-in-the-Heart-of-All-Beings</guid>
+			</item>
+		
+			<item>
 				<title>Vocabulary - मनसः सुस्थितिः | Story 23</title>
 				<description></description>
 				<pubDate>Sat, 05 Jun 2021 00:00:00 +0530</pubDate>
@@ -76,14 +84,6 @@
 				<pubDate>Tue, 18 May 2021 00:00:00 +0530</pubDate>
 				<link>http://localhost:4000/blog/2021/05/18/Vocabulary-%E0%A4%B5%E0%A4%B8-%E0%A4%A4-%E0%A4%B0%E0%A4%B8-%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%83-Story-18</link>
 				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/18/Vocabulary-%E0%A4%B5%E0%A4%B8-%E0%A4%A4-%E0%A4%B0%E0%A4%B8-%E0%A4%AF-%E0%A4%89%E0%A4%AA%E0%A4%AF%E0%A5%8B%E0%A4%97%E0%A4%83-Story-18</guid>
-			</item>
-		
-			<item>
-				<title>Vocabulary - तल्लीनता | Story 17</title>
-				<description></description>
-				<pubDate>Sat, 15 May 2021 00:00:00 +0530</pubDate>
-				<link>http://localhost:4000/blog/2021/05/15/Vocabulary-%E0%A4%A4%E0%A4%B2-%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%A4%E0%A4%BE-Story-17</link>
-				<guid isPermaLink="true">http://localhost:4000/blog/2021/05/15/Vocabulary-%E0%A4%A4%E0%A4%B2-%E0%A4%B2%E0%A5%80%E0%A4%A8%E0%A4%A4%E0%A4%BE-Story-17</guid>
 			</item>
 		
 	</channel>
