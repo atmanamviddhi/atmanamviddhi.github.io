@@ -19,6 +19,13 @@ plugins_dir:
 paginate: 5
 #paginate_path: '/page:num'
 
+# Name of repository, for use with Staticman
+repository: "atmanamviddhi/atmanamviddhi.github.io"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  branch: "master"
+
 
 
   
@@ -28,7 +35,7 @@ comments: true
 url: https://atmanamviddhi.github.io
 
  
-facebook_username: "atmanamviddhi"
+facebook_username: "atmanam.viddhi"
 github_username: "atmanamviddhi"
 instagram_username: "atmanam.viddhi"
 
