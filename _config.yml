@@ -3,7 +3,10 @@ description:
 keywords: 
 language: "en" # default language of the blog. Language codes: http://www.w3schools.com/tags/ref_language_codes.asp
 
-markdown: kramdown
+markdown:         kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
 #kramdown:
  # syntax_highlighter_opts:
   #  disable: false
@@ -27,7 +30,7 @@ staticman:
   branch: "master"
 
 
-
+staticman_url : https://my-blog-commets.herokuapp.com/v2/entry/atmanamviddhi/atmanamviddhi.github.io/master/comments
   
 comments: true
   
