@@ -45,6 +45,9 @@ layout: default
                         
   
                          <br/>
+                         {% if site.comments == true %}
+                            {% include comments.html %}
+                        {% endif %}
  
                         </div>
               
