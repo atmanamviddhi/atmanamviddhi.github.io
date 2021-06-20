@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - वास्तविकं शूरत्वम् | Story 6"
-header-img: "/asset/Sanskrit-Stories/s6.jpeg"
+header-img: "/assets/Sanskrit-Stories/s6.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-12
 ---
 
-![Sanskrit Story Vastavikam Suuratvam]({{ site.url }}/asset/Sanskrit-Stories/s6.jpeg){:class="img-responsive"}
+![Sanskrit Story Vastavikam Suuratvam]({{ site.url }}/assets/Sanskrit-Stories/s6.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

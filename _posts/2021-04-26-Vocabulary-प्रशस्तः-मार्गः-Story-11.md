@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - प्रशस्तः मार्गः | Story 11"
-header-img: "/asset/Sanskrit-Stories/s11.jpeg"
+header-img: "/assets/Sanskrit-Stories/s11.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-26
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s11.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s11.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

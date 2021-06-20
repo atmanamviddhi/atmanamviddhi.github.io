@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - समयोचिता युक्ति | Story 5"
-header-img: "/asset/Sanskrit-Stories/s5.jpeg"
+header-img: "/assets/Sanskrit-Stories/s5.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-11
 ---
 
-![Sanskrit Story Holikaa]({{ site.url }}/asset/Sanskrit-Stories/s5.jpeg){:class="img-responsive"}
+![Sanskrit Story Holikaa]({{ site.url }}/assets/Sanskrit-Stories/s5.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

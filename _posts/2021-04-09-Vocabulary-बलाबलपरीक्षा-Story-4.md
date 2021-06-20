@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - बलाबलपरीक्षा | Story 4"
-header-img: "/asset/Sanskrit-Stories/s4.jpeg"
+header-img: "/assets/Sanskrit-Stories/s4.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-09
 ---
 
-![Sanskrit Story Holikaa]({{ site.url }}/asset/Sanskrit-Stories/s4.jpeg){:class="img-responsive"}
+![Sanskrit Story Holikaa]({{ site.url }}/assets/Sanskrit-Stories/s4.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

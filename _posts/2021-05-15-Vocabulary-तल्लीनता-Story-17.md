@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - तल्लीनता | Story 17"
-header-img: "/asset/Sanskrit-Stories/s17.jpeg"
+header-img: "/assets/Sanskrit-Stories/s17.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-15
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s17.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s17.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

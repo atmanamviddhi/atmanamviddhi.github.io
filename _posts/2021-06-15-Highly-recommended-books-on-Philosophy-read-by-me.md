@@ -2,12 +2,12 @@
 layout: post
 title: "Highly recommended books on Philosophy read by me!"
 subtitle: ""
-header-img: "/asset/rishimuni.jpeg"
+header-img: "/assets/rishimuni.jpeg"
 tags:  [Books]
 date: 2021-06-15
 ---
 
-![Heart]({{ site.url }}/asset/rishimuni.jpeg){:class="img-responsive"}
+![Heart]({{ site.url }}/assets/rishimuni.jpeg){:class="img-responsive"}
 
 
 

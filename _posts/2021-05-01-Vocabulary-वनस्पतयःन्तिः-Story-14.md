@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - वनस्पतयः ‍शान्तिः | Story 14"
-header-img: "/asset/Sanskrit-Stories/s14.jpeg"
+header-img: "/assets/Sanskrit-Stories/s14.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-01
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s14.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s14.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - विशिष्टः कृषिकः | Story 19"
-header-img: "/asset/Sanskrit-Stories/s19.jpeg"
+header-img: "/assets/Sanskrit-Stories/s19.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-23
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s19.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s19.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

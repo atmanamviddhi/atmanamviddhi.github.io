@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - मन्दस्मितता कुतः न ? | Story 16"
-header-img: "/asset/Sanskrit-Stories/s16.jpeg"
+header-img: "/assets/Sanskrit-Stories/s16.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-08
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s16.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s16.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

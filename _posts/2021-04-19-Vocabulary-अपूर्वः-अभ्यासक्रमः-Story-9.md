@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - अपूर्वः अभ्यासक्रमः | Story 9"
-header-img: "/asset/Sanskrit-Stories/s9.jpeg"
+header-img: "/assets/Sanskrit-Stories/s9.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-19
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s9.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s9.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
@@ -20,7 +20,7 @@ Meanings from - [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0
 | सुमधुर | very soothing or gentle speech |
 | श्लाघ्य | appreciable |
 | कदापि | at any time |
-| ध्वनिमुद्रिका | audio cassette |
+| ध्वनिमुद्रिका | audio cassetste |
 {:.table-customised}
 
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - रजतदर्पणः | Story 15"
-header-img: "/asset/Sanskrit-Stories/s15.jpeg"
+header-img: "/assets/Sanskrit-Stories/s15.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-02
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s15.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s15.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

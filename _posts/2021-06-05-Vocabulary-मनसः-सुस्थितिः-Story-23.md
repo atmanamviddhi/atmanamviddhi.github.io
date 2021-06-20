@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - मनसः सुस्थितिः | Story 23"
-header-img: "/asset/Sanskrit-Stories/s23.jpeg"
+header-img: "/assets/Sanskrit-Stories/s23.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-06-05
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s23.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s23.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - जनादरपात्रता कथम् ? | Story 13"
-header-img: "/asset/Sanskrit-Stories/s13.jpeg"
+header-img: "/assets/Sanskrit-Stories/s13.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-28
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s13.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s13.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

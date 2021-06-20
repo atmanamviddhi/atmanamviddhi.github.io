@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - निरशनम् इष्टसिध्दिपर्यन्तम् अपि | Story 7"
-header-img: "/asset/Sanskrit-Stories/s7.jpeg"
+header-img: "/assets/Sanskrit-Stories/s7.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-13
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s7.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s7.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

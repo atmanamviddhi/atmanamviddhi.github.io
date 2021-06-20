@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - निश्चिन्तं जीवनम् | Story 2"
-header-img: "/asset/Sanskrit-Stories/s1.jpeg"
+header-img: "/assets/Sanskrit-Stories/s1.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-04-07
 ---
 
-![Sanskrit Story Nischint Jeevanam]({{ site.url }}/asset/Sanskrit-Stories/s1.jpeg){:class="img-responsive"}
+![Sanskrit Story Nischint Jeevanam]({{ site.url }}/assets/Sanskrit-Stories/s1.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

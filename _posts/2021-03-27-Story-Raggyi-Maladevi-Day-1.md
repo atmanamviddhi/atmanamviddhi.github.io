@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - राज्ञी मालादेवी | Story 1"
-header-img: "/asset/Sanskrit-Stories/s2.jpeg"
+header-img: "/assets/Sanskrit-Stories/s2.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-03-27
 ---
 
-![Sanskrit Story Raggyi Maladevi]({{ site.url }}/asset/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
+![Sanskrit Story Raggyi Maladevi]({{ site.url }}/assets/Sanskrit-Stories/s2.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

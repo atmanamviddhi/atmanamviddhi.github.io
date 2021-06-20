@@ -2,14 +2,14 @@
 layout: post
 title: "Supreme Dwell in the Heart of All Beings"
 subtitle: "Here are few verses to remind us that The Supreme reside in our heart."
-header-img: "/asset/IResideInHeart.jpg"
+header-img: "/assets/IResideInHeart.jpg"
 tags:  [Shaivism, Verses, Upanishad, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts]
 date: 2021-06-06
 ---
 
 Here are few verses to remind us that **The Supreme reside in our heart**.
 
-![Heart]({{ site.url }}/asset/IResideInHeart.jpg){:class="img-responsive"}
+![Heart]({{ site.url }}/assets/IResideInHeart.jpg){:class="img-responsive"}
 
 ---
 

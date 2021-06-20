@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - सूत्रद्वयम् | Story 21"
-header-img: "/asset/Sanskrit-Stories/s21.jpeg"
+header-img: "/assets/Sanskrit-Stories/s21.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-27
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s21.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s21.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 

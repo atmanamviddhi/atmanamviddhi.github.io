@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Vocabulary - उदारमनस्कता | Story 20"
-header-img: "/asset/Sanskrit-Stories/s20.jpeg"
+header-img: "/assets/Sanskrit-Stories/s20.jpeg"
 tags:  [Sanskrit, Sanskrit-Stories, Sanskrit-Vocabulary]
 date: 2021-05-24
 ---
 
-![Sanskrit Story]({{ site.url }}/asset/Sanskrit-Stories/s20.jpeg){:class="img-responsive"}
+![Sanskrit Story]({{ site.url }}/assets/Sanskrit-Stories/s20.jpeg){:class="img-responsive"}
 
 Image from Telegram Channel - [kathaaH कथाः](https://t.me/kathaaH)
 
