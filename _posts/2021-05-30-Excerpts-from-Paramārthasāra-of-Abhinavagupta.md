@@ -209,6 +209,8 @@ A yogin, who sees only his self in each and every phenomenon, does not come unde
 
 Note : English meanings from [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
 
+**Download** [PDF](https://archive.org/details/EssenceOfTheExactRealityOrParamarthasaraOfAbhinavaguptaB.N.Pandit/page/61/mode/2up){:target="_blank"}
+
 <h3>Amazon Affiliate Link:</h3>
 
 <a target="_blank"  href="https://www.amazon.in/gp/product/8190448900/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8190448900&linkCode=as2&tag=0106d-21&linkId=b8cd6b4d3837e4ccc288f1f519f44ce0"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8190448900&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>

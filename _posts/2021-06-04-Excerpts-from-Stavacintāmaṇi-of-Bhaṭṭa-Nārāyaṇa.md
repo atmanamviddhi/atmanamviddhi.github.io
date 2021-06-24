@@ -110,6 +110,8 @@ Whatever good or bad I may do or say, even in a dream – O Lord – it is becau
 
 Note : English meanings from [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
 
+**Download** [PDF](https://archive.org/details/StavacintamaniOfBhattaNarayanaWithTheCommentaryByKsemarajaBorisMarjonivic){:target="_blank"}
+
 <h3>Amazon Affiliate Link:</h3>
 <a target="_blank"  href="https://www.amazon.in/gp/product/8186569987/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8186569987&linkCode=as2&tag=0106d-21&linkId=4697cf53811d4c582692c0dc490b2ba2"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8186569987&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
 

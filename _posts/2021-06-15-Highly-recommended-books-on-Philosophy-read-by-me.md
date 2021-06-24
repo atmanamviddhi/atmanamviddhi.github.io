@@ -57,7 +57,7 @@ date: 2021-06-15
 
 - **Light On Tantra In Kashmir Shaivism : Abhinavagupta's Tantraloka Chapter One** - <a target="_blank" href="https://www.amazon.in/gp/product/B0754VNJKM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B0754VNJKM&linkCode=as2&tag=0106d-21&linkId=5ff5e896cc4e4e0995061e332d400875">Buy on Amazon</a>,  [PDF](https://archive.org/details/lightontantrainkashmirshaivismchapteroneofabhinavaguptastantralokaswamilakshmanjoo_202001){:target="_blank"}
 
-- **Shivastotravali of Acharya Utpaladeva** - <a target="_blank" href="https://www.amazon.in/gp/product/8124604673/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8124604673&linkCode=as2&tag=0106d-21&linkId=2f9c0538fb0bfe5d471c7aed674f68b7">Buy on Amazon</a>,  [PDF](https://archive.org/details/sahajvicharshivastotravaliofacharyautpaldevahinditranslationlaxmanjoo3_202003_801_j/mode/2up){:target="_blank"}
+- **Shivastotravali of Acharya Utpaladeva** - <a target="_blank" href="https://www.amazon.in/gp/product/8124604673/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8124604673&linkCode=as2&tag=0106d-21&linkId=2f9c0538fb0bfe5d471c7aed674f68b7">Buy on Amazon</a>,  [PDF](https://tuxdoc.com/download/sahaj-vichar-iii-shiva-stotravali-of-acharya-utpaldeva-english-translation-dinan_pdf){:target="_blank"}
 
 - **शिवदृष्टिः** सम्पादकः डॉ० राधेश्याम चतुर्वेदी - [PDF](https://archive.org/details/ShivaDrishtiRadheshyamChaturvedi){:target="_blank"}
 

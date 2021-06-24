@@ -187,5 +187,9 @@ The sun does not shine there ; neither the moon, nor the stars. There these ligh
 
 ---
 
+Note : English meanings from [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
+
+**Download** [PDF](https://estudantedavedanta.net/Svetasvatara_Upanishad%20-%20Swami%20Tyagisananda%20(1949)%20%5bSanskrit-English%5d.pdf){:target="\_blank"}
+
 <h3>Amazon Affiliate Link:</h3>
 <a target="_blank"  href="https://www.amazon.in/gp/product/8175051035/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8175051035&linkCode=as2&tag=0106d-21&linkId=ed7a4f8f6eb4e0b424620c25a11777fc"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8175051035&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>

@@ -1,16 +1,28 @@
 comments:
-  allowedFields     : ['name', 'email', 'url', 'message']
-  branch            : "master"
-  commitMessage     : "New comment by {fields.name}"
-  filename          : "comment-{@timestamp}"
-  format            : "yaml"
-  moderation        : true
-  path              : "_data/comments/{options.slug}"
-  requiredFields    : ['name', 'email', 'message']
-  transforms:
-    email           : md5
+  allowedFields: ["name", "email", "url", "message", "replying_to"]
+
+  branch: master
+
+  commitMessage: New comment by {fields.name}
+
+  filename: comment-{@timestamp}
+
+  format: yml
+
   generatedFields:
     date:
-      type          : "date"
+      type: date
       options:
-        format      : "iso8601"
+        format: iso8601
+
+  moderation: true
+
+  path: _data/comments/{options.slug}
+
+  requiredFields: [name, email, message]
+
+  transforms:
+    email: md5
+
+  reCaptcha:
+    enabled: false

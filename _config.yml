@@ -32,9 +32,15 @@ staticman:
 
 staticman_url : https://my-blog-commets.herokuapp.com/v2/entry/atmanamviddhi/atmanamviddhi.github.io/master/comments
   
-comments: true
+
+comments:
+  provider: staticman_v2
+  staticman:
+    branch: master
+    endpoint: https://my-blog-commets.herokuapp.com/v2/entry/atmanamviddhi/atmanamviddhi.github.io/
   
-  
+
+comments_locked: false
 url: https://atmanamviddhi.github.io
 
  

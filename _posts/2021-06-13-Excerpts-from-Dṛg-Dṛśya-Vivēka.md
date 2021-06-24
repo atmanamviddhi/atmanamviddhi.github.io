@@ -134,5 +134,9 @@ It is because the fallacious presentation of Consciousness located in the Buddhi
 
 ---
 
+Note : English meanings from [Learnsanskrit.cc](https://www.learnsanskrit.cc/index.php?mode=0)
+
+**Download** [PDF](https://archive.org/details/drgdrsyaviveka030903mbp){:target="_blank"}
+
 <h3>Amazon Affiliate Link:</h3>
 <a target="_blank"  href="https://www.amazon.in/gp/product/B081D7ZPPM/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B081D7ZPPM&linkCode=as2&tag=0106d-21&linkId=ebbf0db473324c8609faf201a1414d19"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=B081D7ZPPM&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
