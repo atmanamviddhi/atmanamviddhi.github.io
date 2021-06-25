@@ -1,13 +1,13 @@
 comments:
   allowedFields: ["name", "email", "url", "message", "replying_to"]
-
+  requiredFields: ["name", "email", "message"]
   branch: master
 
   commitMessage: New comment by {fields.name}
 
   filename: comment-{@timestamp}
 
-  format: yml
+  format: yaml
 
   generatedFields:
     date:
@@ -19,7 +19,7 @@ comments:
 
   path: _data/comments/{options.slug}
 
-  requiredFields: [name, email, message]
+  
 
   transforms:
     email: md5
