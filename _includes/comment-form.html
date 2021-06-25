@@ -34,8 +34,7 @@
           <!-- with options[redirect], our visitor will come back to our website when submitting a review -->
           <input name="options[redirect]" type="hidden" value="{{site.url}}{{site.baseurl}}{{ page.url }}" />
           <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
-         <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
-          <input type="hidden" id="comment-parent" name="fields[replying_to]" value="">
+          <input type="hidden" id="comment-replying-to" name="options[parent]" value>
           <input type="hidden" id="comment-post-id" name="options[slug]" value="{{ page.slug }}">
 
           <button type="submit" id="comment-form-submit">Submit comment</button>
@@ -44,4 +43,4 @@
       <!-- End new comment form -->
     {% else %}
       <p><em>Comments are closed. If you have a question concerning the content of this page, please feel free to <a href="/contact/">contact me</a>.</em></p>
-    {% endunless %}
+{% endunless %}
