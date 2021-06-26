@@ -1,105 +1,117 @@
-/* ==========================================================================
-   Comments
-   ========================================================================== */
 
-.comment {
-  display: flex;
-
-  + .comment {
-    margin-top: 2em;
-  }
-
-  &.child {
-    margin-left: 40px;
-
-    @include breakpoint($md-up) {
-      margin-left: 80px;
-    }
-  }
+#comment-section, #comment-section * {
+  box-sizing: border-box;
 }
 
-.comment__avatar {
-  $avatar-size: 30px;
 
-  flex-shrink: 0;
-  margin-right: 10px;
-  width: $avatar-size;
-  height: $avatar-size;
-  background-color: #e3e3e3;
-
-  @include breakpoint($md-up) {
-    margin-right: 20px;
-    width: (2 * $avatar-size);
-    height: (2 * $avatar-size);
-  }
-
-  img {
-    width: $avatar-size;
-    height: $avatar-size;
-
-    @include breakpoint($md-up) {
-      width: (2 * $avatar-size);
-      height: (2 * $avatar-size);
-    }
-  }
+//
+// Staticman existing comments
+//
+.comments {
 }
-
-.comment__main {
-  min-width: calc(100% - 40px); // fix overflowing code blocks (message width - avatar size)
-
-  @include breakpoint($md-up) {
-    min-width: calc(100% - 80px); // fix overflowing code blocks (message width - avatar size)
-  }
+.comment__new {
+    padding: 0px 0px 14px 0px;
 }
-
+.comment__author {
+    color: $grey-color;
+}
+.comment__admin_tag {
+    background-color: rgb(187, 255, 187);
+    border-radius: 3px;
+    padding: 3px;
+}
+.comment__date {
+    font-size: $small-font-size;
+}
+.comment__body {
+    font-size: $comment-font-size;
+}
 .comment__meta {
-  margin-bottom: 1em;
-  padding-bottom: 0.25em;
-  font-family: $monospace-font;
-  font-size: ms(-1);
-  border-bottom: 2px solid;
-
-  a {
-    color: inherit;
-  }
+    text-align: left;
+    color: $grey-color;
+    font-size: $small-font-size;
+}
+.comments__existing {
+    padding: 8px 0px 0px 0px;
+}
+.comment {
+    border-top: 0px solid $grey-color-light;
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 1em;
+}
+.comment.child {
+    margin-left: 3em;
+}
+.comment__reply-link {
+    color: $grey-color;
+    font-size: $small-font-size;
+    cursor: pointer;
 }
 
-.comment__message {
-  font-size: ms(-1);
-
-  > *:last-child {
-    margin-bottom: 0;
-  }
-
-  img {
-    max-width: 100%;
-  }
+//
+// Pop-up modal window for Staticman comments
+//
+.show-modal {
+    overflow: hidden;
+    position: relative;
+}
+.show-modal:before {
+    position: absolute;
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    background-color: rgba(255, 255, 255, 0.85);
+}
+.show-modal .modal {
+    display: block;
+}
+.mdl-card {
+    min-height: 200px;
+    overflow: hidden;
+    z-index: 1;
+    position: relative;
+    background: #fff;
+    box-sizing: border-box;
+}
+.modal {
+    display: none;
+    position: fixed;
+    width: 330px;
+    top: 50%;
+    left: 50%;
+    margin-left: -150px;
+    margin-top: -150px;
+    min-height: 0;
+    z-index: 9999;
+    box-shadow: 0 2px 2px 2px rgba(0,0,0,.14);
+    padding: 16px;
+    border-radius: 2px;
+    background: white;
+}
+.mdl-shadow--16dp {
+    box-shadow: 0 16px 24px 2px rgba(0,0,0,.14),0 6px 30px 5px rgba(0,0,0,.12),0 8px 10px -5px rgba(0,0,0,.2);
+}
+.mdl-card__supporting-text {
+    overflow: hidden;
+    padding: 16px;
+    width: 90%;
+}
+.modal-title {
+    margin-bottom: 0px;
 }
 
-.comment__reply {
-  margin-top: 0.5em;
-  font-family: $monospace-font;
-  font-size: ms(-2);
-}
-
-.comment__form {
-  @include margin-bottom(2);
-
-  .title {
-    @include margin-top(2);
-
-    &:before {
-      @include margin-bottom(1);
-      content: '';
-      display: block;
-      width: 2em;
-      height: 0.125em;
-      background-color: #000;
+.disabled {
+    input,
+    button,
+    textarea,
+    label {
+        pointer-events: none;
+        cursor: not-allowed;
+        filter: alpha(opacity=65);
+        box-shadow: none;
+        opacity: 0.65;
     }
-  }
-}
-
-#cancel-comment-reply-link {
-  margin-left: 1em;
-  color: $danger-color;
 }

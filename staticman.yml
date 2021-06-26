@@ -1,5 +1,5 @@
 comments:
-  allowedFields: ["name", "email", "url", "message"]
+  allowedFields: ["name", "email", "url", "message", "replying_to_uid"]
   requiredFields: ["name", "email", "message"]
   branch: master
 
