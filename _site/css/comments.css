@@ -3,6 +3,9 @@
   box-sizing: border-box;
 }
 
+$base-font-size:    18px !default;
+$comment-font-size: 17px !default;
+
 
 //
 // Staticman existing comments

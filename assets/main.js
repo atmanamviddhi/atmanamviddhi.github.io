@@ -1,58 +1,55 @@
 // Static comments
-// from: https://github.com/eduardoboucas/popcorn/blob/gh-pages/js/main.js
-(function ($) {
-  var $comments = $('.js-comments');
+    $("#comment-form").submit(function() {
+        var form = this;
 
-  $('.js-form').submit(function () {
-    var form = this;
+        $(form).addClass("disabled");
+        $("#comment-form-submit").html(
+        'Sending...'
+        );
 
-
-    $("#comment-form-submit").html(
-      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Sending...'
-    );
-    $(form).addClass('disabled');
-
-    $.ajax({
-      type: $(this).attr('method'),
-      url:  $(this).attr('action'),
-      data: $(this).serialize(),
-      contentType: 'application/x-www-form-urlencoded',
-      success: function (data) {
-        showModal('Comment submitted', 'Thanks! Your comment is <a href="https://github.com/travisdowns/travisdowns.github.io/pulls">pending</a>. It will appear when approved.');
-
-        $("#comment-form-submit")
-          .html("Submit");
-
-        $(form)[0].reset();
-        $(form).removeClass('disabled');
-        if (window.grecaptcha) {
-          grecaptcha.reset();
+        $.ajax({
+        type: $(this).attr("method"),
+        url: $(this).attr("action"),
+        data: $(this).serialize(),
+        contentType: "application/x-www-form-urlencoded",
+        success: function(data) {
+            $("#comment-form-submit")
+            .html("Submitted")
+            .addClass("btn--disabled");
+            $("#respond .js-notice")
+            .removeClass("danger")
+            .addClass("success");
+            $("#respond form").hide()[0].reset();
+            showAlert(
+                '<strong>Thanks for your comment!</strong><br>'
+            );
+        },
+        error: function(err) {
+            console.log(err);
+            $("#comment-form-submit").html("Submit Comment");
+            $("#respond .js-notice")
+            .removeClass("success")
+            .addClass("danger");
+            showAlert(
+                "<strong>Sorry, there was an error with your submission.</strong><br>Please make sure all required fields have been completed and try again."
+            );
+            $(form).removeClass("disabled");
         }
-      },
-      error: function (err) {
-        console.log(err);
-        var ecode = (err.responseJSON || {}).errorCode || "unknown";
-        showModal('Error', 'An error occured.<br>[' + ecode + ']');
-        $("#comment-form-submit").html("Submit")
-        $(form).removeClass('disabled');
-        if (window.grecaptcha) {
-          grecaptcha.reset();
-        }
-      }
+        });
+
+        return false;
     });
-    return false;
-  });
 
-  $('.js-close-modal').click(function () {
-    $('body').removeClass('show-modal');
-  });
+function showAlert(message) {
+    $("#respond .js-notice").removeClass("hidden");
+    $("#respond .js-notice-text").html(message);
+}
 
-  function showModal(title, message) {
-    $('.js-modal-title').text(title);
-    $('.js-modal-text').html(message);
-    $('body').addClass('show-modal');
-  }
-})(jQuery);
+function hideAlert() {
+    $("#respond .js-notice").addClass("hidden");
+    $("#respond .js-notice-text").html("");
+}
+
 
 // Staticman comment replies, from https://github.com/mmistakes/made-mistakes-jekyll
 // modified from Wordpress https://core.svn.wordpress.org/trunk/wp-includes/js/comment-reply.js
