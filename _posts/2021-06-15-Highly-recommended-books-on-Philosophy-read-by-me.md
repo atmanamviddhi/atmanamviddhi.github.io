@@ -75,6 +75,8 @@ date: 2021-06-15
 
 - **Dṛg-Dṛśya Vivēka** translation Swami Nikhilananda - <a target="_blank" href="https://www.amazon.in/gp/product/8175050276/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8175050276&linkCode=as2&tag=0106d-21&linkId=27fe9e577ca89591718c8caba43f13ed">Buy on Amazon</a>,  [PDF](https://archive.org/details/drgdrsyaviveka030903mbp){:target="_blank"}
 
+- **Laghu-yoga-vasistha** translation by K. Narayanasvami Aiyar - <a target="_blank" href="https://www.amazon.in/gp/product/1975614976/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1975614976&linkCode=as2&tag=0106d-21&linkId=f81bb1d7bbdf6c7cf705b21805835181">Buy on Amazon</a>,  [PDF](https://selfdefinition.org/yoga/Laghu-Yoga-Vasishta-trans-1896-Narayanaswamy-Aiyer.pdf){:target="_blank"},  [Read online](https://www.wisdomlib.org/hinduism/book/laghu-yoga-vasistha){:target="_blank"}
+
 ---
 
 <h3> Swami Vivekananda </h3>
@@ -107,8 +109,12 @@ date: 2021-06-15
 
 - **The Kybalion - A Study of the Hermetic Philosophy of Ancient Egypt and Greece** - <a target="_blank" href="https://www.amazon.in/gp/product/0143131680/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0143131680&linkCode=as2&tag=0106d-21&linkId=35b60e840af2883b3b46ac46cac719f7">Buy on Amazon</a>,  [PDF](http://www.yogebooks.com/english/atkinson/1908kybalion.pdf){:target="_blank"}
 
+- **The Celestine Prophecy** - <a target="_blank" href="https://www.amazon.in/gp/product/0553409026/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0553409026&linkCode=as2&tag=0106d-21&linkId=b5c886cd9e788ecb1ffb2af792ef047a">Buy on Amazon</a>,  [PDF](https://www.apnamba.com/Ebooks-pdf/James%20Redfield%20-%20The%20Celestine%20Prophecy.pdf){:target="_blank"}
+
 ---
 
 <h3>Papers</h3>
 
 - **Tantric Alchemy of the Soul: A Philosophical Analysis and Synthesis of Jung and Kashmir Shaivism** [PDF](https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1074&context=ojur){:target="_blank"}
+
+- **Abhinavagupta on Reflection (Pratibimba) in the Tantrāloka** [PDF](https://www.academia.edu/40463274/Abhinavagupta_on_Reflection_Pratibimba_in_the_Tantr%C4%81loka){:target="_blank"}
