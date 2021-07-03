@@ -40,3 +40,10 @@ The second, ***Maiya Mala***, is the **Impurity of Delusion** that develops from
 ***Kārmika mala*** is the maculation due to the *karman*, because of which the individual acts driven by his own personal desires to achieve his own personal ends. Because of these three maculations the individual is devoid of energy, he is, as Kṣemarāja says, *śaktidaridra*, that is he has lost the perfect powers of action and knowledge and is subject to transmigration: the universal Consciousness (*Cit*) has assumed the aspect of *jīva*, the limited soul.
 
 -- *Excerpt from Vivaraṇa, Verse 3, Bhāvopahāra of Cakrapāṇinātha with the Vivaraṇaof Ramyadevabhaṭṭa, tr. E. Garzilli*
+
+---
+
+Download pdf - [Shri Shiva Rahasya](https://archive.org/details/ShriShivaRahasya){:target="_blank"},  [Bhāvopahāra of Cakrapāṇinātha](https://archive.org/details/TheBhavopaharaOfCakrapaniNathaEnricaGarzilli/page/47/mode/2up){:target="_blank"}
+
+<h3>Amazon Affiliate Link:</h3>
+<a target="_blank"  href="https://www.amazon.in/gp/product/8120804074/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8120804074&linkCode=as2&tag=0106d-21&linkId=a22bcb72e2d1ad383b4e4b179c57a9ad"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8120804074&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
