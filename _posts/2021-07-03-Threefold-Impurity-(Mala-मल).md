@@ -29,7 +29,7 @@ The second, ***Maiya Mala***, is the **Impurity of Delusion** that develops from
 
 ***Karma mala***. It is the *vasanas* or impressions of actions done by the *jnanendriyas* and *Karmendriyas* under the influence of *antah-karana*. It is a limiting condition brought about by the individual by his *karma* and its *vasanas*.
 
--- *Notes by Jaidev Singh, Sutra 1.1, Siva Sutras - The Yoga of Supreme Identity* 
+-- *Notes by Jaideva Singh, Sutra 1.1, Siva Sutras - The Yoga of Supreme Identity* 
 
 ---
 
