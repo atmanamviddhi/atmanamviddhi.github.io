@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Threefold Impurity (Mala मल)"
-subtitle: "Here are excerpt from various texts regarding Threefold Impurity (Mala मल)"
+subtitle: "Here are excerpt from various texts on Threefold Impurity (Mala मल)"
 header-img: ""
 tags:  [Shaivism, Verses, Kashmir-Shaivism, Book-Excerpts]
 date: 2021-07-03
 ---
 
-Here are excerpt from various texts regarding **Threefold Impurity (_Mala मल_)**
+Here are excerpt from various texts on **Threefold Impurity (_Mala मल_)**
 
 Now there is another great secret to be known. The Soul, being made of Spirit, nay, being the Supreme Spirit Itself and Identical with Me, is eternally happy, all-wise and free. Yet as he descends at My Divine Command into this Material World, as he must in order to participate in My Creation, he passes through the dark veil of Maya, My Cosmic Magic. In the course of his descent, he becomes tainted by the Threefold Impurity called *Mala*. (165)
 
