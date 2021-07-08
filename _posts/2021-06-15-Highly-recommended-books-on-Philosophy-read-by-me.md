@@ -61,6 +61,10 @@ date: 2021-06-15
 
 - **शिवदृष्टिः** सम्पादकः डॉ० राधेश्याम चतुर्वेदी - [PDF](https://archive.org/details/ShivaDrishtiRadheshyamChaturvedi){:target="_blank"}
 
+- **Lallā-Vākyāni or The Wise Sayings of Lal Ded** - <a target="_blank" href="https://www.amazon.in/gp/product/1846647010/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=1846647010&linkCode=as2&tag=0106d-21&linkId=35fd1bbad60383ee24895ee0871113ff">Buy on Amazon</a>,  [PDF](https://archive.org/details/lallavakyani014969mbp){:target="_blank"}
+
+- **Bhāvopahāra of Cakrapāṇinātha with the Vivaraṇaof Ramyadevabhaṭṭa** tr. E. Garzilli - [PDF](https://archive.org/details/TheBhavopaharaOfCakrapaniNathaEnricaGarzilli/page/47/mode/2up){:target="_blank"}
+
 ---
 
 <h3> Advaita Vedanta </h3>
