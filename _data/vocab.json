@@ -1,0 +1,70 @@
+{
+	"dictionary":[
+		{
+			"letter":"k",
+			"words": [
+				{
+					"sanskrit_word" : "केचन",
+					"eng_transliteration":"kecan",
+					"eng_meaning": "some",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "केचन न समर्थाः",
+							"sentence_eng_transliteration": "kecana na samarthāḥ",
+							"sentence_eng_meaning" : "Some are not efficient",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "केचन जनाः स्वार्थिनः",
+							"sentence_eng_transliteration": "kecana janāḥ svārthinaḥ",
+							"sentence_eng_meaning" : "Some people are selfish",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "करोति",
+					"eng_transliteration":"करोति",
+					"eng_meaning": "do",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "रोदनं करोति",
+							"sentence_eng_transliteration": "rodanaṃ karoti",
+							"sentence_eng_meaning" : "cry",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "निश्चयं करोति",
+							"sentence_eng_transliteration": "niścayaṃ karoti",
+							"sentence_eng_meaning" : "decide",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"t",
+			"words":[
+				{
+					"sanskrit_word" : "तावन्त",
+					"eng_transliteration":"",
+					"eng_meaning": "so much",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति|",
+							"sentence_eng_transliteration": "--",
+							"sentence_eng_meaning" : "There are not that many classrooms in that floor.",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		}
+	]
+}
