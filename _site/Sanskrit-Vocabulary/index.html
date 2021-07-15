@@ -87,6 +87,12 @@
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
  <script src="/assets/main.js"></script>
 
+ <!-- Data table for sanskrit table-->
+ <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.25/css/jquery.dataTables.css">
+  
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.js"></script>
+
+
 <!-- Footer Horizonatl social follow bar
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
   
@@ -244,44 +250,52 @@
 	| Word | Transliteration | Meaning |
 	|:---:|:---|:---|
 	 -->
-
-	
-	<table class="table-customised" style="width:100%">
-		<tbody>
+<body>
+	<button id="hide">Hide</button>
+<button id="show">Show</button>
+	<table class="table-customised" id="table_id" class="display" style="width:100%">
+		<thead>
 			<tr>
-				<td>
+				<th>
 					<div class="td_head">letter</div>
-				</td>
+				</th>
 
-				<td>
+				<th>
 					<div class="td_head">words</div>
-				</td>
+				</th>
 				<!-- <th style="text-align:center">Word</th>
 				<th style="text-align:center">Transliteration</th>
 				<th style="text-align:center">Meaning</th> -->
 			</tr>
+		</thead>
+		<tbody>
+			
 			
 			<tr>
 				<td class="td_row_even">
 					<div class="td_row_even"> k </div>
 				</td>
 				<td class="td_row_even">
-					<table class="table-customised" style="width:100%">
-						<tbody>
+					<table class="table-customised" id="table_id" class="display" style="width:100%">
+						<thead>
 							<tr>
-								<td>
+								<th>
 									<div class="td_head">sanskrit_word</div>
-								</td>
-								<td>
+								</th>
+								<th>
 									<div class="td_head">eng_transliteration</div>
-								</td>
-								<td>
+								</th>
+								<th>
 									<div class="td_head">eng_meaning</div>
-								</td>
-								<td>
-									<div class="td_head">sentences</div>
-								</td>
+								</th>
+								<!-- <th>
+									<div class="td_head">sentences
+									</div>
+								</th> -->
 							</tr>
+						</thead>
+						<tbody>
+							
 							
 							<tr>
 								<td >
@@ -297,19 +311,22 @@
 								</td>
 
 								<td>
-									<table class="table-customised" style="width:100%">
-										<tbody>
+									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
+										<thead>
 											<tr>
-												<td>
+												<th>
 													<div class="td_head">sanskrit_sentence</div>
-												</td>
-												<td>
+												</th>
+												<th>
 													<div class="td_head">sentence_eng_transliteration</div>
-												</td>
-												<td>
+												</th>
+												<th>
 													<div class="td_head">sentence_eng_meaning</div>
-												</td>
+												</th>
 											</tr>
+										</thead>
+										<tbody>
+											
 
 											
 											<tr>
@@ -359,19 +376,22 @@
 								</td>
 
 								<td>
-									<table class="table-customised" style="width:100%">
-										<tbody>
+									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
+										<thead>
 											<tr>
-												<td>
+												<th>
 													<div class="td_head">sanskrit_sentence</div>
-												</td>
-												<td>
+												</th>
+												<th>
 													<div class="td_head">sentence_eng_transliteration</div>
-												</td>
-												<td>
+												</th>
+												<th>
 													<div class="td_head">sentence_eng_meaning</div>
-												</td>
+												</th>
 											</tr>
+										</thead>
+										<tbody>
+											
 
 											
 											<tr>
@@ -412,30 +432,34 @@
 				</td>
 			</tr>
 			<tr class="blank_row">
-    <td colspan="3"></td>
-</tr>
+    			<td colspan="3"></td>
+			</tr>
 			
 			<tr>
 				<td class="td_row_even">
 					<div class="td_row_even"> t </div>
 				</td>
 				<td class="td_row_even">
-					<table class="table-customised" style="width:100%">
-						<tbody>
+					<table class="table-customised" id="table_id" class="display" style="width:100%">
+						<thead>
 							<tr>
-								<td>
+								<th>
 									<div class="td_head">sanskrit_word</div>
-								</td>
-								<td>
+								</th>
+								<th>
 									<div class="td_head">eng_transliteration</div>
-								</td>
-								<td>
+								</th>
+								<th>
 									<div class="td_head">eng_meaning</div>
-								</td>
-								<td>
-									<div class="td_head">sentences</div>
-								</td>
+								</th>
+								<!-- <th>
+									<div class="td_head">sentences
+									</div>
+								</th> -->
 							</tr>
+						</thead>
+						<tbody>
+							
 							
 							<tr>
 								<td >
@@ -451,19 +475,22 @@
 								</td>
 
 								<td>
-									<table class="table-customised" style="width:100%">
-										<tbody>
+									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
+										<thead>
 											<tr>
-												<td>
+												<th>
 													<div class="td_head">sanskrit_sentence</div>
-												</td>
-												<td>
+												</th>
+												<th>
 													<div class="td_head">sentence_eng_transliteration</div>
-												</td>
-												<td>
+												</th>
+												<th>
 													<div class="td_head">sentence_eng_meaning</div>
-												</td>
+												</th>
 											</tr>
+										</thead>
+										<tbody>
+											
 
 											
 											<tr>
@@ -490,11 +517,14 @@
 				</td>
 			</tr>
 			<tr class="blank_row">
-    <td colspan="3"></td>
-</tr>
+    			<td colspan="3"></td>
+			</tr>
 			
 		</tbody>
 	</table>
+</body>
+
+
 	
 	
 				

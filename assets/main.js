@@ -154,3 +154,45 @@ var addComment = {
     return document.getElementById( id );
   }
 };
+
+//datatable for sanskrit
+
+$(document).ready( function () {
+    $('#table_id').DataTable();
+} );
+
+$(document).ready(function(){
+    $("#hide").click(function(){
+        $(".table-customised-sanskrit-sentence").hide();
+    });
+    $("#show").click(function(){
+        $(".table-customised-sanskrit-sentence").show();
+    });
+});
+
+//For sanskrit table
+
+//   $('.minimize-sanskrit-sentence').click(function(){
+
+//   $(this).nextUntil('minimize-sanskrit-sentence').slideToggle(1000);
+//   });
+
+//   $("#button").click(function(){
+//     if($(this).html() == "-"){
+//         $(this).html("+");
+//     }
+//     else{
+//         $(this).html("-");
+//     }
+//     $("#box").slideToggle();
+// });
+
+// <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
+
+// $( "button" ).click(function() {
+//   $( "sanskrit-sentence-block" ).slideToggle( "slow" );
+// });
+
+// $('.header').click(function(){
+//      $(this).toggleClass('expand').nextUntil('tr.header').slideToggle(100);
+// });
