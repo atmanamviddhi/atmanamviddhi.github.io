@@ -157,10 +157,6 @@ var addComment = {
 
 //datatable for sanskrit
 
-$(document).ready( function () {
-    $('#table_id').DataTable();
-} );
-
 $(document).ready(function(){
     $("#show").click(function(){
         $(".table-customised-sanskrit-sentence").show();
@@ -170,6 +166,22 @@ $(document).ready(function(){
     });
     
 });
+
+$(function () {
+     var $win = $(window);
+
+     $win.scroll(function () {
+         if ($win.height() + $win.scrollTop() == $(document).height()) {
+          // When the user is at the bottom of the page, get the footer height
+             var footer = $('#footer').height();
+             // set footer height as number of px from bottom
+             $('.panel').css('bottom', footer);
+         } else {
+          // When the user is not at the bottom, set bottom back to 0px
+             $('.panel').css('bottom', '0px');
+         }
+     });
+ });
 
 //For sanskrit table
 

@@ -8,10 +8,14 @@ description:
 <div class="container">
 <div class="post">	
 	<body>
+		
+
+	<div class="panel">
 		<button id="hide">Hide</button>
 		<button id="show">Show</button>
+	</div>
 		<table class="table-customised">
-			<thead>
+			<!-- <thead>
 				<tr>
 					<th>
 						<div>sanskrit word</div>
@@ -23,26 +27,26 @@ description:
 						<div>eng meaning</div>
 					</th>
 				</tr>
-			</thead>
+			</thead> -->
 			<tbody>		
 				{% for obj in site.data.vocab.dictionary %}			
 				{% for word in obj.words %}
 				<tr>
-					<td >
-						<div > {{word.sanskrit_word}} </div>
+					<td>
+						<div class="word_head"> {{word.sanskrit_word}} </div>
 					</td>
 
 					<td>
-						<div> {{word.eng_transliteration}} </div>
+						<div class="word_head"> {{word.eng_transliteration}} </div>
 					</td>
 
 					<td>
-						<div> {{word.eng_meaning}} </div>
+						<div class="word_head"> {{word.eng_meaning}} </div>
 					</td>
 
-					<td>
+					<!-- <td>
 						<table class="table-customised-sanskrit-sentence">
-							<thead>
+							<!-- <thead>
 								<tr>
 									<th>
 										<div>sanskrit sentence</div>
@@ -54,11 +58,11 @@ description:
 										<div>eng meaning</div>
 									</th>
 								</tr>
-							</thead>
-							<tbody>
+							</thead> -->
+							<!-- <tbody>
 								{% for sentence in word.sentences %}
 								<tr>
-									<td>
+									<td >
 										<div>{{sentence.sanskrit_sentence}}</div>
 									</td>
 
@@ -73,8 +77,25 @@ description:
 								{% endfor %}
 							</tbody>
 						</table>
-					</td>			
+					</td> -->			
 				</tr>
+				{% for sentence in word.sentences %}
+								<tr class="table-customised-sanskrit-sentence">
+									<td >
+										<div>{{sentence.sanskrit_sentence}}</div>
+									</td>
+
+									<td>
+										<div>{{sentence.sentence_eng_transliteration}}</div>
+									</td>
+
+									<td>
+										<div>{{sentence.sentence_eng_meaning}}</div>
+									</td>
+								</tr>
+								{% endfor %}
+								
+				
 				{% endfor %}
 				<tr class="blank_row">
 	    			<td colspan="3"></td>
