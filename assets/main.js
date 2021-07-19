@@ -162,12 +162,13 @@ $(document).ready( function () {
 } );
 
 $(document).ready(function(){
-    $("#hide").click(function(){
-        $(".table-customised-sanskrit-sentence").hide();
-    });
     $("#show").click(function(){
         $(".table-customised-sanskrit-sentence").show();
     });
+    $("#hide").click(function(){
+        $(".table-customised-sanskrit-sentence").hide();
+    });
+    
 });
 
 //For sanskrit table

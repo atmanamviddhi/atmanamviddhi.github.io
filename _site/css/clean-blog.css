@@ -542,7 +542,7 @@ table, tr, td, th {
   
 }
 .table-customised {
-	width: auto;
+	width: 100%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -555,10 +555,13 @@ table, tr, td, th {
 .table-customised th{
     border:1px solid #000000;
     text-align: center;
+    word-break: break-all;
+     padding:2px;font-weight:700
 }
 
 .table-customised td{
     border:1px solid #000000;
+    word-break: break-all; 
 }
 
 .table-customised tr:nth-child(even) {
@@ -566,7 +569,7 @@ table, tr, td, th {
 }
 
 .table-customised-sanskrit-sentence {
-	width: auto;
+	width: 100%;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -574,27 +577,27 @@ table, tr, td, th {
   border-spacing: 0;
   border:1px;
   padding: 2px, 10000px;
+  display: none;
 }
 
 .table-customised-sanskrit-sentence th{
     border:1px solid #000000;
     text-align: center;
+    word-break: break-all;
+    padding:2px;
+    font-weight:700;
+
 }
 
 .table-customised-sanskrit-sentence td{
     border:1px solid #000000;
+    word-break: break-all;
 }
-
-.table-customised-sanskrit-sentence tr:nth-child(even) {
-            background-color: #E6E6FA;
-}
-
-.td_head{padding:2px;font-weight:700}
 
 .blank_row
 {
-    height: 10px !important; /* overwrites any other rules */
-    background-color: #FFFFFF;
+    height: 20px !important; /* overwrites any other rules */
+    background-color: #009e9e;
 }
 
 tr.header

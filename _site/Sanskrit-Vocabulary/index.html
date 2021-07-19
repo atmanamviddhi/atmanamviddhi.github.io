@@ -69,6 +69,11 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
 <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
@@ -84,7 +89,6 @@
 
    <!--Tags design-->
  <link rel="stylesheet" href="/css/tags.css">
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
  <script src="/assets/main.js"></script>
 
  <!-- Data table for sanskrit table-->
@@ -218,315 +222,219 @@
 			
 			<div class="container">
 			
-				<!-- <table>
-	    <tr>
-	      <th>Letter</th>    
-	      <th>Sanskrit Word</th>
-	      <th>Transliteration</th>
-	      <th>Meaning</th>      
-	    </tr>
-	    <tr class="row1">
-<td class="col1">
-	    	k
-	    	<tr class="row1">
-<td class="col1">
-      			केचन
-      		</td><td class="col2">
-      			करोति
-      		</td></tr>
-
-    	</td><td class="col2">
-	    	t
-	    	<tr class="row1">
-<td class="col1">
-      			तावन्त
-      		</td></tr>
-
-    	</td></tr>
-
-	  
-	</table> -->
-	<!--
-	| Word | Transliteration | Meaning |
-	|:---:|:---|:---|
-	 -->
-<body>
-	<button id="hide">Hide</button>
-<button id="show">Show</button>
-	<table class="table-customised" id="table_id" class="display" style="width:100%">
-		<thead>
-			<tr>
-				<th>
-					<div class="td_head">letter</div>
-				</th>
-
-				<th>
-					<div class="td_head">words</div>
-				</th>
-				<!-- <th style="text-align:center">Word</th>
-				<th style="text-align:center">Transliteration</th>
-				<th style="text-align:center">Meaning</th> -->
-			</tr>
-		</thead>
-		<tbody>
-			
-			
-			<tr>
-				<td class="td_row_even">
-					<div class="td_row_even"> k </div>
-				</td>
-				<td class="td_row_even">
-					<table class="table-customised" id="table_id" class="display" style="width:100%">
-						<thead>
-							<tr>
-								<th>
-									<div class="td_head">sanskrit_word</div>
-								</th>
-								<th>
-									<div class="td_head">eng_transliteration</div>
-								</th>
-								<th>
-									<div class="td_head">eng_meaning</div>
-								</th>
-								<!-- <th>
-									<div class="td_head">sentences
-									</div>
-								</th> -->
-							</tr>
-						</thead>
-						<tbody>
+			<div class="container">
+<div class="post">	
+	<body>
+		<button id="hide">Hide</button>
+		<button id="show">Show</button>
+		<table class="table-customised">
+			<thead>
+				<tr>
+					<th>
+						<div>sanskrit word</div>
+					</th>
+					<th>
+						<div>eng transliteration</div>
+					</th>
+					<th>
+						<div>eng meaning</div>
+					</th>
+				</tr>
+			</thead>
+			<tbody>		
 							
+				
+				<tr>
+					<td >
+						<div > केचन </div>
+					</td>
+
+					<td>
+						<div> kecan </div>
+					</td>
+
+					<td>
+						<div> some </div>
+					</td>
+
+					<td>
+						<table class="table-customised-sanskrit-sentence">
+							<thead>
+								<tr>
+									<th>
+										<div>sanskrit sentence</div>
+									</th>
+									<th>
+										<div>eng transliteration</div>
+									</th>
+									<th>
+										<div>eng meaning</div>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								
+								<tr>
+									<td>
+										<div>केचन न समर्थाः</div>
+									</td>
+
+									<td>
+										<div>kecana na samarthāḥ</div>
+									</td>
+
+									<td>
+										<div>Some are not efficient</div>
+									</td>
+								</tr>
+								
+								<tr>
+									<td>
+										<div>केचन जनाः स्वार्थिनः</div>
+									</td>
+
+									<td>
+										<div>kecana janāḥ svārthinaḥ</div>
+									</td>
+
+									<td>
+										<div>Some people are selfish</div>
+									</td>
+								</tr>
+								
+							</tbody>
+						</table>
+					</td>			
+				</tr>
+				
+				<tr>
+					<td >
+						<div > करोति </div>
+					</td>
+
+					<td>
+						<div> करोति </div>
+					</td>
+
+					<td>
+						<div> do </div>
+					</td>
+
+					<td>
+						<table class="table-customised-sanskrit-sentence">
+							<thead>
+								<tr>
+									<th>
+										<div>sanskrit sentence</div>
+									</th>
+									<th>
+										<div>eng transliteration</div>
+									</th>
+									<th>
+										<div>eng meaning</div>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								
+								<tr>
+									<td>
+										<div>रोदनं करोति</div>
+									</td>
+
+									<td>
+										<div>rodanaṃ karoti</div>
+									</td>
+
+									<td>
+										<div>cry</div>
+									</td>
+								</tr>
+								
+								<tr>
+									<td>
+										<div>निश्चयं करोति</div>
+									</td>
+
+									<td>
+										<div>niścayaṃ karoti</div>
+									</td>
+
+									<td>
+										<div>decide</div>
+									</td>
+								</tr>
+								
+							</tbody>
+						</table>
+					</td>			
+				</tr>
+				
+				<tr class="blank_row">
+	    			<td colspan="3"></td>
+				</tr>
 							
-							<tr>
-								<td >
-									<div > केचन </div>
-								</td>
+				
+				<tr>
+					<td >
+						<div > तावन्त </div>
+					</td>
 
-								<td>
-									<div> kecan </div>
-								</td>
+					<td>
+						<div>  </div>
+					</td>
 
-								<td>
-									<div> some </div>
-								</td>
+					<td>
+						<div> so much </div>
+					</td>
 
-								<td>
-									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
-										<thead>
-											<tr>
-												<th>
-													<div class="td_head">sanskrit_sentence</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_transliteration</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_meaning</div>
-												</th>
-											</tr>
-										</thead>
-										<tbody>
-											
+					<td>
+						<table class="table-customised-sanskrit-sentence">
+							<thead>
+								<tr>
+									<th>
+										<div>sanskrit sentence</div>
+									</th>
+									<th>
+										<div>eng transliteration</div>
+									</th>
+									<th>
+										<div>eng meaning</div>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								
+								<tr>
+									<td>
+										<div>एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति</div>
+									</td>
 
-											
-											<tr>
-												<td>
-													<div>केचन न समर्थाः</div>
-												</td>
+									<td>
+										<div>--</div>
+									</td>
 
-												<td>
-													<div>kecana na samarthāḥ</div>
-												</td>
-
-												<td>
-													<div>Some are not efficient</div>
-												</td>
-											</tr>
-											
-											<tr>
-												<td>
-													<div>केचन जनाः स्वार्थिनः</div>
-												</td>
-
-												<td>
-													<div>kecana janāḥ svārthinaḥ</div>
-												</td>
-
-												<td>
-													<div>Some people are selfish</div>
-												</td>
-											</tr>
-											
-										</tbody>
-									</table>
-								</td>			
-							</tr>
-							
-							<tr>
-								<td >
-									<div > करोति </div>
-								</td>
-
-								<td>
-									<div> करोति </div>
-								</td>
-
-								<td>
-									<div> do </div>
-								</td>
-
-								<td>
-									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
-										<thead>
-											<tr>
-												<th>
-													<div class="td_head">sanskrit_sentence</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_transliteration</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_meaning</div>
-												</th>
-											</tr>
-										</thead>
-										<tbody>
-											
-
-											
-											<tr>
-												<td>
-													<div>रोदनं करोति</div>
-												</td>
-
-												<td>
-													<div>rodanaṃ karoti</div>
-												</td>
-
-												<td>
-													<div>cry</div>
-												</td>
-											</tr>
-											
-											<tr>
-												<td>
-													<div>निश्चयं करोति</div>
-												</td>
-
-												<td>
-													<div>niścayaṃ karoti</div>
-												</td>
-
-												<td>
-													<div>decide</div>
-												</td>
-											</tr>
-											
-										</tbody>
-									</table>
-								</td>			
-							</tr>
-							
-						</tbody>
-					</table>
-				</td>
-			</tr>
-			<tr class="blank_row">
-    			<td colspan="3"></td>
-			</tr>
-			
-			<tr>
-				<td class="td_row_even">
-					<div class="td_row_even"> t </div>
-				</td>
-				<td class="td_row_even">
-					<table class="table-customised" id="table_id" class="display" style="width:100%">
-						<thead>
-							<tr>
-								<th>
-									<div class="td_head">sanskrit_word</div>
-								</th>
-								<th>
-									<div class="td_head">eng_transliteration</div>
-								</th>
-								<th>
-									<div class="td_head">eng_meaning</div>
-								</th>
-								<!-- <th>
-									<div class="td_head">sentences
-									</div>
-								</th> -->
-							</tr>
-						</thead>
-						<tbody>
-							
-							
-							<tr>
-								<td >
-									<div > तावन्त </div>
-								</td>
-
-								<td>
-									<div>  </div>
-								</td>
-
-								<td>
-									<div> so much </div>
-								</td>
-
-								<td>
-									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
-										<thead>
-											<tr>
-												<th>
-													<div class="td_head">sanskrit_sentence</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_transliteration</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_meaning</div>
-												</th>
-											</tr>
-										</thead>
-										<tbody>
-											
-
-											
-											<tr>
-												<td>
-													<div>एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति|</div>
-												</td>
-
-												<td>
-													<div>--</div>
-												</td>
-
-												<td>
-													<div>There are not that many classrooms in that floor.</div>
-												</td>
-											</tr>
-											
-										</tbody>
-									</table>
-								</td>			
-							</tr>
-							
-						</tbody>
-					</table>
-				</td>
-			</tr>
-			<tr class="blank_row">
-    			<td colspan="3"></td>
-			</tr>
-			
-		</tbody>
-	</table>
-</body>
-
-
-	
-	
+									<td>
+										<div>There are not that many classrooms in that floor.</div>
+									</td>
+								</tr>
+								
+							</tbody>
+						</table>
+					</td>			
+				</tr>
+				
+				<tr class="blank_row">
+	    			<td colspan="3"></td>
+				</tr>
+				
+			</tbody>
+		</table>
+	</body>
+</div>
+</div>
+		
+		
 				
 			 	
 			</div><!-- /.container -->

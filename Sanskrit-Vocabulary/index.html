@@ -1,142 +1,89 @@
 ---
 layout: default
 title: Sanskrit-Vocabulary
-datatable: true
+
 description:
 ---
 
+<div class="container">
+<div class="post">	
+	<body>
+		<button id="hide">Hide</button>
+		<button id="show">Show</button>
+		<table class="table-customised">
+			<thead>
+				<tr>
+					<th>
+						<div>sanskrit word</div>
+					</th>
+					<th>
+						<div>eng transliteration</div>
+					</th>
+					<th>
+						<div>eng meaning</div>
+					</th>
+				</tr>
+			</thead>
+			<tbody>		
+				{% for obj in site.data.vocab.dictionary %}			
+				{% for word in obj.words %}
+				<tr>
+					<td >
+						<div > {{word.sanskrit_word}} </div>
+					</td>
 
-	<!-- <table>
-	    <tr>
-	      <th>Letter</th>    
-	      <th>Sanskrit Word</th>
-	      <th>Transliteration</th>
-	      <th>Meaning</th>      
-	    </tr>
-	    {% tablerow obj in site.data.vocab.dictionary %}
-	    	{{ obj.letter }}
-	    	{% tablerow word in obj.words %}
-      			{{ word.sanskrit_word }}
-      		{% endtablerow %}
-    	{% endtablerow %}
-	  
-	</table> -->
-	<!-- {%- assign obj = site.data.vocab.dictionary %}
-	| Word | Transliteration | Meaning |
-	|:---:|:---|:---|
-	{% for word in obj.words %}
-	| {{word.sanskrit_word}} | {{ word.eng_transliteration }} | {{word.eng_meaning}}
-	{% endfor %} -->
-<body>
-	<button id="hide">Hide</button>
-<button id="show">Show</button>
-	<table class="table-customised" id="table_id" class="display" style="width:100%">
-		<thead>
-			<tr>
-				<th>
-					<div class="td_head">letter</div>
-				</th>
+					<td>
+						<div> {{word.eng_transliteration}} </div>
+					</td>
 
-				<th>
-					<div class="td_head">words</div>
-				</th>
-				<!-- <th style="text-align:center">Word</th>
-				<th style="text-align:center">Transliteration</th>
-				<th style="text-align:center">Meaning</th> -->
-			</tr>
-		</thead>
-		<tbody>
-			
-			{% for obj in site.data.vocab.dictionary %}
-			<tr>
-				<td class="td_row_even">
-					<div class="td_row_even"> {{ obj.letter }} </div>
-				</td>
-				<td class="td_row_even">
-					<table class="table-customised" id="table_id" class="display" style="width:100%">
-						<thead>
-							<tr>
-								<th>
-									<div class="td_head">sanskrit_word</div>
-								</th>
-								<th>
-									<div class="td_head">eng_transliteration</div>
-								</th>
-								<th>
-									<div class="td_head">eng_meaning</div>
-								</th>
-								<!-- <th>
-									<div class="td_head">sentences
-									</div>
-								</th> -->
-							</tr>
-						</thead>
-						<tbody>
-							
-							{% for word in obj.words %}
-							<tr>
-								<td >
-									<div > {{word.sanskrit_word}} </div>
-								</td>
+					<td>
+						<div> {{word.eng_meaning}} </div>
+					</td>
 
-								<td>
-									<div> {{word.eng_transliteration}} </div>
-								</td>
+					<td>
+						<table class="table-customised-sanskrit-sentence">
+							<thead>
+								<tr>
+									<th>
+										<div>sanskrit sentence</div>
+									</th>
+									<th>
+										<div>eng transliteration</div>
+									</th>
+									<th>
+										<div>eng meaning</div>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								{% for sentence in word.sentences %}
+								<tr>
+									<td>
+										<div>{{sentence.sanskrit_sentence}}</div>
+									</td>
 
-								<td>
-									<div> {{word.eng_meaning}} </div>
-								</td>
+									<td>
+										<div>{{sentence.sentence_eng_transliteration}}</div>
+									</td>
 
-								<td>
-									<table class="table-customised-sanskrit-sentence" id="table_id" class="display" style="width:100%">
-										<thead>
-											<tr>
-												<th>
-													<div class="td_head">sanskrit_sentence</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_transliteration</div>
-												</th>
-												<th>
-													<div class="td_head">sentence_eng_meaning</div>
-												</th>
-											</tr>
-										</thead>
-										<tbody>
-											
-
-											{% for sentence in word.sentences %}
-											<tr>
-												<td>
-													<div>{{sentence.sanskrit_sentence}}</div>
-												</td>
-
-												<td>
-													<div>{{sentence.sentence_eng_transliteration}}</div>
-												</td>
-
-												<td>
-													<div>{{sentence.sentence_eng_meaning}}</div>
-												</td>
-											</tr>
-											{% endfor %}
-										</tbody>
-									</table>
-								</td>			
-							</tr>
-							{% endfor %}
-						</tbody>
-					</table>
-				</td>
-			</tr>
-			<tr class="blank_row">
-    			<td colspan="3"></td>
-			</tr>
-			{% endfor %}
-		</tbody>
-	</table>
-</body>
-
-
-	
-	
+									<td>
+										<div>{{sentence.sentence_eng_meaning}}</div>
+									</td>
+								</tr>
+								{% endfor %}
+							</tbody>
+						</table>
+					</td>			
+				</tr>
+				{% endfor %}
+				<tr class="blank_row">
+	    			<td colspan="3"></td>
+				</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</body>
+</div>
+</div>
+		
+		
