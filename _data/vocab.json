@@ -18,6 +18,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "अन्वय",
+					"eng_transliteration":"anvaya",
+					"eng_meaning": "logical connection of words / syntax / connection / succession",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "कदा आरभ्य अन्वयः?",
+							"sentence_eng_transliteration": "kadā ārabhya anvayaḥ?",
+							"sentence_eng_meaning" : "When does it come into effect?",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "अनन्तर",
 					"eng_transliteration":"anantara",
 					"eng_meaning": "afterwards",
@@ -109,6 +123,20 @@
 		{
 			"letter":"ए",
 			"words": [
+				{
+					"sanskrit_word" : "एत्य",
+					"eng_transliteration":"etya",
+					"eng_meaning": "having come near",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "एव",
 					"eng_transliteration":"eva",
@@ -215,6 +243,46 @@
 			"level": 1
 		},
 		{
+			"letter":"ग",
+			"words": [
+				{
+					"sanskrit_word" : "गच्छति",
+					"eng_transliteration":"gacchati",
+					"eng_meaning": "he / she / it goes",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"ज",
+			"words": [
+				{
+					"sanskrit_word" : "जयति",
+					"eng_transliteration":"jayati",
+					"eng_meaning": "win / be victorious",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"त",
 			"words":[
 				{
@@ -275,12 +343,146 @@
 			"level": 1
 		},
 		{
+			"letter":"न",
+			"words": [
+				{
+					"sanskrit_word" : "निधि",
+					"eng_transliteration":"nidhi",
+					"eng_meaning": "treasure / fund",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"प",
 			"words": [
+				{
+					"sanskrit_word" : "परस्पर",
+					"eng_transliteration":"paraspara",
+					"eng_meaning": "mutual / each other",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |",
+							"sentence_eng_transliteration": "tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām",
+							"sentence_eng_meaning" : "They kept looking at each other and smiling.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "गृहे सहोदरौ सदा परस्परं विवादं कुर्वन्तौ आस्ताम् |",
+							"sentence_eng_transliteration": "gṛhe sahodarau sadā parasparaṃ vivādaṃ kurvantau āstām",
+							"sentence_eng_meaning" : "The brothers were always arguing with each other when they were home.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अङ्किता तस्याः प्रबन्धिका च परस्परं सम्यक् न व्यवहरतः |",
+							"sentence_eng_transliteration": "aṅkitā tasyāḥ prabandhikā ca parasparaṃ samyak na vyavaharataḥ",
+							"sentence_eng_meaning" : "Ankita and her boss are not getting along well.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "पुरतः",
 					"eng_transliteration":"purataḥ",
 					"eng_meaning": "in front / in front of",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"भ",
+			"words": [
+				{
+					"sanskrit_word" : "भाव",
+					"eng_transliteration":"bhāva",
+					"eng_meaning": "spirit / sentiment / emotion",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"म",
+			"words": [
+				{
+					"sanskrit_word" : "मय",
+					"eng_transliteration":"maya",
+					"eng_meaning": "made of / consisting of",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"व",
+			"words": [
+				{
+					"sanskrit_word" : "वितत",
+					"eng_transliteration":"vitata",
+					"eng_meaning": "any stringed instrument / wide / far-spreading",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "विभेद",
+					"eng_transliteration":"vibheda",
+					"eng_meaning": "separation / division",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "विषयता",
+					"eng_transliteration":"viṣayatā",
+					"eng_meaning": "relation between an object and the knowledge of it",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -301,6 +503,54 @@
 					"sanskrit_word" : "शस्ति",
 					"eng_transliteration":"śasti",
 					"eng_meaning": "punishment / order / rule / proclaim",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"स",
+			"words": [
+				{
+					"sanskrit_word" : "स्फुर",
+					"eng_transliteration":"sphura",
+					"eng_meaning": "throb / quiver",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "स्फुरत्",
+					"eng_transliteration":"sphurat",
+					"eng_meaning": "quivering / shaking / trembling",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "स्फुरण",
+					"eng_transliteration":"sphuraṇa",
+					"eng_meaning": "twinkling / shining / flashing",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",

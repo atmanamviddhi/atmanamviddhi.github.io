@@ -25,6 +25,9 @@ Json template
 अ -
 	अतः	ataḥ	therefore / so / hence
 		अतः परम्		ataḥ param	from now on / from then on
+
+	अन्वय	anvaya	logical connection of words / syntax / connection / succession
+		कदा आरभ्य अन्वयः?	kadā ārabhya anvayaḥ?	When does it come into effect?	
 		
 	अनन्तर	anantara	afterwards
 		अनन्तरदिनम् { अनतरम् - दिनम् }	anantaradinam { anataram - dinam}	next day
@@ -43,6 +46,8 @@ Json template
 ---
 
 ए -	
+	एत्य	etya	having come near
+
 	एव	eva	really
 		अत एव	ata eva	for this very reason
 		एवम् एव	evam eva	just
@@ -53,7 +58,7 @@ Json template
 ---
 
 क -
-	करोति 	karoti	do
+	करोति karoti	do
 		रोदनं करोति	rodanaṃ karoti	cry
 		निश्चयं करोति 	niścayaṃ karoti	decide
 		कलहं करोति 	kalahaṃ karoti	quarrel
@@ -63,7 +68,12 @@ Json template
 		केचन जनाः स्वार्थिनः	kecana janāḥ svārthinaḥ	Some people are selfish.
 		तस्य केचन दुर्गुणाः सन्ति |	tasya kecana durguṇāḥ santi	He has some very bad habits.
 	
-	
+---
+ग -
+	गच्छति	gacchati	he / she / it goes
+---
+ज - 
+	जयति		jayati	win / be victorious
 ---
 
 त -
@@ -78,10 +88,44 @@ Json template
 		एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति|	etasmin stare tāvantaḥ vargāḥ na santi	There are not that many classrooms in that floor.
 
 ---
+न -	
+	निधि		nidhi	treasure / fund
+---
 प -
+	परस्पर	paraspara	mutual / each other
+		तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |	tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām	They kept looking at each other and smiling.
+		गृहे सहोदरौ सदा परस्परं विवादं कुर्वन्तौ आस्ताम् |	gṛhe sahodarau sadā parasparaṃ vivādaṃ kurvantau āstām 	The brothers were always arguing with each other when they were home.
+		अङ्किता तस्याः प्रबन्धिका च परस्परं सम्यक् न व्यवहरतः |	aṅkitā tasyāḥ prabandhikā ca parasparaṃ samyak na vyavaharataḥ	Ankita and her boss are not getting along well.
+	
 	पुरतः	purataḥ	in front / in front of
+
+---
+
+भ -
+	भाव	bhāva	spirit / sentiment / emotion
+---
+म -
+	मय 	maya 	made of / consisting of	
+---
+
+व -
+	वितत	vitata	any stringed instrument / wide / far-spreading
+	
+	विभेद	vibheda	separation / division
+	
+	विषयता	viṣayatā	relation between an object and the knowledge of it
 
 ---
 		
 श -
 	शस्ति	śasti	punishment / order / rule / proclaim
+	
+---
+
+स -
+	स्फुर	sphura	throb / quiver
+	
+	स्फुरत्	sphurat	quivering / shaking / trembling
+	
+	स्फुरण	sphuraṇa	twinkling / shining / flashing
+	

@@ -31,17 +31,17 @@ description:
 			<tbody>		
 				{% for obj in site.data.vocab.dictionary %}			
 				{% for word in obj.words %}
-					<tr>
-						<td>
-							<div class="word_head"> {{word.sanskrit_word}} </div>
+					<tr >
+						<td class="word_head">
+							<div > {{word.sanskrit_word}} </div>
 						</td>
 
-						<td>
-							<div class="word_head"> {{word.eng_transliteration}} </div>
+						<td class="word_head">
+							<div> {{word.eng_transliteration}} </div>
 						</td>
 
-						<td>
-							<div class="word_head"> {{word.eng_meaning}} </div>
+						<td class="word_head">
+							<div> {{word.eng_meaning}} </div>
 						</td>
 
 						<!-- <td>

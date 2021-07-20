@@ -602,6 +602,9 @@ table, tr, td, th {
 .table-customised-sanskrit-sentence tr:nth-child(even) {
             background-color: #F1B72066;
 }
+.table-customised-sanskrit-sentence tr:nth-child(odd) {
+            background-color: #E6E6FA;
+}
 
 .blank_row
 {

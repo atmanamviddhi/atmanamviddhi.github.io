@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000//blog/2021/07/20/Gitartha-Samgraha</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000//blog/2021/07/07/Vocabulary-%E0%A4%AA%E0%A4%BE%E0%A4%AA%E0%A4%AD%E0%A5%80%E0%A4%A4%E0%A5%87%E0%A4%83-%E0%A4%AE%E0%A5%81%E0%A4%95-%E0%A4%A4%E0%A4%BF%E0%A4%83-Story-27</loc>
     </url>
     
@@ -150,7 +154,7 @@
     
     
     <url>
-        <loc>http://localhost:4000//Sanskrit-Vocabulary/</loc>
+        <loc>http://localhost:4000//blog/</loc>
     </url>
     
     
@@ -158,7 +162,7 @@
     
     
     <url>
-        <loc>http://localhost:4000//blog/</loc>
+        <loc>http://localhost:4000//sanskrit-vocabulary/</loc>
     </url>
     
     
