@@ -3,6 +3,7 @@ footer, article, body {
   font-size: 19px;
   color: #404040;
   line-height: 1.8;
+
 }
 
 @media only screen and (min-width: 480px) {
@@ -556,13 +557,12 @@ table, tr, td, th {
 .table-customised th{
     border:1px solid #000000;
     text-align: center;
-    word-break: break-all;
-     padding:2px;font-weight:700
+    padding:2px;font-weight:700
 }
 
 .table-customised td{
     border:1px solid #000000;
-    word-break: break-all; 
+    
 }
 
 .table-customised tr:nth-child(even) {
@@ -593,7 +593,6 @@ table, tr, td, th {
 .table-customised-sanskrit-sentence th{
     border:1px solid #000000;
     text-align: center;
-    word-break: break-all;
     padding:2px;
     font-weight:700;
 
@@ -601,113 +600,25 @@ table, tr, td, th {
 
 .table-customised-sanskrit-sentence td{
     border:1px solid #000000;
-    word-break: break-all;
 }
 
 .table-customised-sanskrit-sentence tr:nth-child(even) {
             background-color: #F1B72066;
 }
 
-.panel {
-    position:fixed;
-    bottom:20px;
-    right:100px;
-    border:solid 1px black;
-    background-color:white;
-    opacity: 1;
-}
-
-@breakpoint: 500px;
-
-/* Responsive
-==================================== */
-@media all and (max-width: @breakpoint) {
-  .Rtable--collapse  {
-    display: block;
-    > .Rtable-cell { width: 100% !important; }
-    > .Rtable-cell--foot { margin-bottom: 1em; }
-  }
-}
-
-// Non-Flex modernizer fallback
-.no-flexbox .Rtable {
-  display: block;
-  > .Rtable-cell { width: 100%; }
-  > .Rtable-cell--foot { margin-bottom: 1em; }
-}
-
-@media all and (max-width: @breakpoint) {
-  .Rtable-sanskrit-sentence--collapse  {
-    display: block;
-    > .Rtable-sanskrit-sentence-cell { width: 100% !important; }
-    > .Rtable-sanskrit-sentence-cell--foot { margin-bottom: 1em; }
-  }
-}
-
-// Non-Flex modernizer fallback
-.no-flexbox .Rtable-sanskrit-sentence {
-  display: block;
-  > .Rtable-sanskrit-sentence-cell { width: 100%; }
-  > .Rtable-sanskrit-sentence-cell--foot { margin-bottom: 1em; }
-}
-
 .blank_row
 {
-    height: 35px !important; /* overwrites any other rules */
+    height: 15px !important; /* overwrites any other rules */
     background-color: white !important;
 }
 
-tr.header
+.blank_row_sanskrit_sentence
 {
-    cursor:pointer;
+    height: 35px !important; /* overwrites any other rules */
+    background-color: white !important;
+    display: none;
 }
 
-.header .sign:after{
-  content:"+";
-  display:inline-block;      
-}
-
-.header.expand .sign:after{
-  content:"-";
- }
-
-.minimize-sanskrit-sentence
-{
-    cursor:pointer;
-}
-
-.sanskrit-sentence-block
-{
-	width: auto;
-}
-#widnow{
-    width:400px;
-    border:solid 1px;
-}
-
-#title_bar{
-    background: #FEFEFE;
-    height: 25px;
-    width: 100%;
-}
-#button{
-    border:solid 1px;
-    width: 25px;
-    height: 23px;
-    float:right;
-    cursor:pointer;
-}
-#box{
-    height: 250px;
-    background: #DFDFDF;
-}
-
-.container {
-  padding-right: 50px;
-  padding-left: 50px;
-  margin-right: auto;
-  margin-left: auto;
-}
 
 @font-face {
   font-family: 'Times New Roman';

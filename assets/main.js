@@ -155,57 +155,16 @@ var addComment = {
   }
 };
 
-//datatable for sanskrit
 
 $(document).ready(function(){
     $("#show").click(function(){
         $(".table-customised-sanskrit-sentence").show();
+        $(".blank_row_sanskrit_sentence").show();
     });
     $("#hide").click(function(){
         $(".table-customised-sanskrit-sentence").hide();
+         $(".blank_row_sanskrit_sentence").hide();
     });
     
 });
 
-$(function () {
-     var $win = $(window);
-
-     $win.scroll(function () {
-         if ($win.height() + $win.scrollTop() == $(document).height()) {
-          // When the user is at the bottom of the page, get the footer height
-             var footer = $('#footer').height();
-             // set footer height as number of px from bottom
-             $('.panel').css('bottom', footer);
-         } else {
-          // When the user is not at the bottom, set bottom back to 0px
-             $('.panel').css('bottom', '0px');
-         }
-     });
- });
-
-//For sanskrit table
-
-//   $('.minimize-sanskrit-sentence').click(function(){
-
-//   $(this).nextUntil('minimize-sanskrit-sentence').slideToggle(1000);
-//   });
-
-//   $("#button").click(function(){
-//     if($(this).html() == "-"){
-//         $(this).html("+");
-//     }
-//     else{
-//         $(this).html("-");
-//     }
-//     $("#box").slideToggle();
-// });
-
-// <script src="https://code.jquery.com/jquery-3.5.0.js"></script>
-
-// $( "button" ).click(function() {
-//   $( "sanskrit-sentence-block" ).slideToggle( "slow" );
-// });
-
-// $('.header').click(function(){
-//      $(this).toggleClass('expand').nextUntil('tr.header').slideToggle(100);
-// });
