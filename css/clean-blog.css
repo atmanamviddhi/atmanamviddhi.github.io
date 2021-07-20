@@ -570,9 +570,6 @@ table, tr, td, th {
 }
 
 .word_head{
-	font-family: Times, serif;
-  	font-size: 17px;
-  	color: #404040;
   	font-weight: bold;
   	background-color: #FFD54F; !important
 }

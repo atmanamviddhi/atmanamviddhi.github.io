@@ -1,8 +1,190 @@
 {
 	"dictionary":[
 		{
-			"letter":"k",
+			"letter":"अ",
 			"words": [
+				{
+					"sanskrit_word" : "अतः",
+					"eng_transliteration":"ataḥ",
+					"eng_meaning": "therefore / so / hence",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "अतः परम्",
+							"sentence_eng_transliteration": "ataḥ param",
+							"sentence_eng_meaning" : "from now on / from then on",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "अनन्तर",
+					"eng_transliteration":"anantara",
+					"eng_meaning": "afterwards",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "अनन्तरदिनम् { अनतरम् - दिनम् }",
+							"sentence_eng_transliteration": "anantaradinam { anataram - dinam}",
+							"sentence_eng_meaning" : "next day",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "भवती अनन्तरं उपविशतु",
+							"sentence_eng_transliteration": "bhavatī anantaraṃ upaviśatu",
+							"sentence_eng_meaning" : "You sit down a little later.	",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अस्मिन् विषये अनन्तरं वदामि",
+							"sentence_eng_transliteration": "asmin viṣaye anantaraṃ vadāmi",
+							"sentence_eng_meaning" : "I'll tell you about it later",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "इदानीं मास्तु, अनन्तरं ददामि",
+							"sentence_eng_transliteration": "idānīṃ māstu, anantaraṃ dadāmi",
+							"sentence_eng_meaning" : "Not now, I will give it to you later.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "कुत्रापि स्थापयति, अनन्तरं मां पृच्छति",
+							"sentence_eng_transliteration": "kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati",
+							"sentence_eng_meaning" : "ou put it somewhere and later you are asking me!",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "अल्पेन",
+					"eng_transliteration":"alpena",
+					"eng_meaning": "for little / cheap",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "अस्मदीय",
+					"eng_transliteration":"asmadīya",
+					"eng_meaning": "our",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"आ",
+			"words": [
+				{
+					"sanskrit_word" : "आनीय",
+					"eng_transliteration":"ānīya",
+					"eng_meaning": "having brought / bringing",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"ए",
+			"words": [
+				{
+					"sanskrit_word" : "एव",
+					"eng_transliteration":"eva",
+					"eng_meaning": "really",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "अत एव",
+							"sentence_eng_transliteration": "ata eva",
+							"sentence_eng_meaning" : "for this very reason",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "एवम् एव",
+							"sentence_eng_transliteration": "evam eva",
+							"sentence_eng_meaning" : "just",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "सत्यम् एव",
+							"sentence_eng_transliteration": "satyam eva",
+							"sentence_eng_meaning" : "indeed",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "किञ्चित् एव",
+							"sentence_eng_transliteration": "kiñcit eva",
+							"sentence_eng_meaning" : "A little.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अद्य एव वा?",
+							"sentence_eng_transliteration": "adya eva vā?",
+							"sentence_eng_meaning" : "Is it today?",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "इदानीम् एव वा?",
+							"sentence_eng_transliteration": "idānīm eva vā?",
+							"sentence_eng_meaning" : "Is it going to be now?	",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"क",
+			"words": [
+				{
+					"sanskrit_word" : "करोति",
+					"eng_transliteration":"karoti",
+					"eng_meaning": "do",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "रोदनं करोति",
+							"sentence_eng_transliteration": "rodanaṃ karoti",
+							"sentence_eng_meaning" : "cry",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "निश्चयं करोति",
+							"sentence_eng_transliteration": "niścayaṃ karoti",
+							"sentence_eng_meaning" : "decide",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "कलहं करोति",
+							"sentence_eng_transliteration": "kalahaṃ karoti",
+							"sentence_eng_meaning" : "quarrel",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "केचन",
 					"eng_transliteration":"kecan",
@@ -19,25 +201,11 @@
 							"sentence_eng_transliteration": "kecana janāḥ svārthinaḥ",
 							"sentence_eng_meaning" : "Some people are selfish",
 							"level": 3
-						}
-					],
-					"level":2
-				},
-				{
-					"sanskrit_word" : "करोति",
-					"eng_transliteration":"करोति",
-					"eng_meaning": "do",
-					"sentences": [
-						{
-							"sanskrit_sentence" : "रोदनं करोति",
-							"sentence_eng_transliteration": "rodanaṃ karoti",
-							"sentence_eng_meaning" : "cry",
-							"level": 3
 						},
 						{
-							"sanskrit_sentence" : "निश्चयं करोति",
-							"sentence_eng_transliteration": "niścayaṃ karoti",
-							"sentence_eng_meaning" : "decide",
+							"sanskrit_sentence" : "तस्य केचन दुर्गुणाः सन्ति |",
+							"sentence_eng_transliteration": "tasya kecana durguṇāḥ santi",
+							"sentence_eng_meaning" : "He has some very bad habits.",
 							"level": 3
 						}
 					],
@@ -47,17 +215,97 @@
 			"level": 1
 		},
 		{
-			"letter":"t",
+			"letter":"त",
 			"words":[
 				{
+					"sanskrit_word" : "तदा",
+					"eng_transliteration":"tadā",
+					"eng_meaning": "then / at that time",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "तस्याः",
+					"eng_transliteration":"tasyāḥ",
+					"eng_meaning": "her",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "तस्याः वेला न आसीत्",
+							"sentence_eng_transliteration": "tasyāḥ velā na āsīt",
+							"sentence_eng_meaning" : "She did not have time.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तस्याः पतिः कुत्र वर्तते ?",
+							"sentence_eng_transliteration": "tasyāḥ patiḥ kutra vartate ?",
+							"sentence_eng_meaning" : "Where is her husband ?",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तस्याः आह्वानं मया न श्रुतम्",
+							"sentence_eng_transliteration": "tasyāḥ āhvānaṃ mayā na śrutam",
+							"sentence_eng_meaning" : "Her calling [me] was not heard by me. / I did not hear her calling me.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "तावन्त",
-					"eng_transliteration":"",
+					"eng_transliteration":"tāvanta",
 					"eng_meaning": "so much",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति",
-							"sentence_eng_transliteration": "--",
+							"sentence_eng_transliteration": "etasmin stare tāvantaḥ vargāḥ na santi",
 							"sentence_eng_meaning" : "There are not that many classrooms in that floor.",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"प",
+			"words": [
+				{
+					"sanskrit_word" : "पुरतः",
+					"eng_transliteration":"purataḥ",
+					"eng_meaning": "in front / in front of",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"श",
+			"words": [
+				{
+					"sanskrit_word" : "शस्ति",
+					"eng_transliteration":"śasti",
+					"eng_meaning": "punishment / order / rule / proclaim",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],
