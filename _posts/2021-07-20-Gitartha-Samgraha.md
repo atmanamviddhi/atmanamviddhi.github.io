@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Gītārtha-Saṁgraha in Sanskrit with english meaning of each word"
+title: "Gītārtha-Saṁgraha -  Maṅgala Verses in Sanskrit"
 subtitle: "Gītārtha-Saṁgraha in Sanskrit with english meaning of each word - Maṅgala Verses"
 tags:  [Shaivism, Kashmir-Shaivism, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts]
 date: 2021-07-20
 ---
 
+Gītārtha-Saṁgraha in Sanskrit with english meaning of each word - Maṅgala Verses
+
 <h2>श्रीभगवद्गीता</h2>
 
-<h3><i>श्रीमदाचार्याभिनवगुप्तपादप्रणीतगीतार्थसंग्रहाभिख्यव्याख्योपेता</i></h3>
+<h3><i>श्रीमदाचार्याभिनवगुप्तपादप्रणीत-
+गीतार्थसंग्रहाभिख्यव्याख्योपेता</i></h3>
 
 <h3><i>Maṅgala Verses:</i></h3>
 
@@ -32,6 +35,21 @@ date: 2021-07-20
 | एत्य | etya | having come near |
 | अन्वय	| anvaya | logical connection of words / syntax / connection / succession |
 | जयति	| jayati	| win / be victorious |
+{:.table-customised}
+
+---
+
+**द्वैपायनेन मुनिना यदिदं व्यधायि <br>
+शास्त्रं सहस्त्रशतसंमितमंत्र मोक्ष:। <br>
+माधान्यत: फलतया प्रथितस्तदन्य- <br>
+धर्मादि तस्य परिपोषयितुं प्रगीतम् ॥२॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| संमित | saṃmita	| symmetrical |
+| प्रथित | prathita | published / known / spread |
+| परिपोषयति | paripoṣayati | nourish |
+| प्रगीत | pragīta	| sing-song or drawling recitation / one who has begun to sing |
 {:.table-customised}
 
 Note: *Reading in progress*

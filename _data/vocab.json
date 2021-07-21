@@ -412,6 +412,34 @@
 			"letter":"प",
 			"words": [
 				{
+					"sanskrit_word" : "प्रगीत",
+					"eng_transliteration":"pragīta",
+					"eng_meaning": "sing-song or drawling recitation / one who has begun to sing",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "प्रथित",
+					"eng_transliteration":"prathita",
+					"eng_meaning": "published / known / spread",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "परस्पर",
 					"eng_transliteration":"paraspara",
 					"eng_meaning": "mutual / each other",
@@ -432,6 +460,20 @@
 							"sanskrit_sentence" : "अङ्किता तस्याः प्रबन्धिका च परस्परं सम्यक् न व्यवहरतः |",
 							"sentence_eng_transliteration": "aṅkitā tasyāḥ prabandhikā ca parasparaṃ samyak na vyavaharataḥ",
 							"sentence_eng_meaning" : "Ankita and her boss are not getting along well.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "परिपोषयति",
+					"eng_transliteration":"paripoṣayati",
+					"eng_meaning": "nourish",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],
@@ -565,6 +607,20 @@
 		{
 			"letter":"स",
 			"words": [
+				{
+					"sanskrit_word" : "संमित",
+					"eng_transliteration":"saṃmita",
+					"eng_meaning": "",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "symmetrical",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "स्फुर",
 					"eng_transliteration":"sphura",
