@@ -618,6 +618,37 @@ table, tr, td, th {
     background-color: white !important;
     display: none;
 }
+.floating-menu-outer
+{
+    position:relative;
+}
+.floating-menu {
+    font-family: sans-serif;
+    background: yellowgreen;
+    padding: 15px;
+    width: 50%;
+    position:fixed;
+    text-align: center;
+    font-size: 15px;
+    top:1em;
+  }
+  .floating-menu a, 
+  .floating-menu h3 {
+    font-size: 0.9em;
+    display: block;
+    margin: 0 0.5em;
+    color: white;
+  }
+  
+  .table-customised-fix-head {
+        overflow-y: auto;
+        height: 106px;
+      }
+      .table-customised thead th {
+        position: sticky;
+        top: 0;
+        background-color: #E6E6FA;
+      }
 
 
 @font-face {

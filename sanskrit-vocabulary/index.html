@@ -6,17 +6,28 @@ description:
 ---
 
 <div class="container">
-<div class="post">	
-	<body>
-		<span>
+	<!-- <div class="floating-menu-outer">
+		<div class="floating-menu">
 			<i>Click button to show/hide sanskrit sentences</i>
 			<button id="show">Show</button>
 			<button id="hide">Hide</button>
-		</span>
+		</div>
+	</div> -->
+<div class="post">	
+	<body>
+		
 	<article>
 		<table class="table-customised">
-			<!-- <thead>
+			<thead>
 				<tr>
+					<th colspan="3">
+						<i>Click button to show/hide sanskrit sentences</i>
+						<br>
+						<button id="show">Show</button>
+						<button id="hide">Hide</button>
+					</th>
+				</tr>
+				<!-- <tr>
 					<th>
 						<div>sanskrit word</div>
 					</th>
@@ -26,8 +37,8 @@ description:
 					<th>
 						<div>eng meaning</div>
 					</th>
-				</tr>
-			</thead> -->
+				</tr> -->
+			</thead>
 			<tbody>		
 				{% for obj in site.data.vocab.dictionary %}			
 				{% for word in obj.words %}

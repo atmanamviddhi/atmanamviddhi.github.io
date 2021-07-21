@@ -96,6 +96,26 @@
 						}
 					],
 					"level":2
+				},
+				{
+					"sanskrit_word" : "अर्हति",
+					"eng_transliteration":"arhati",
+					"eng_meaning": "deserve / be able",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "एवं भवितुम् अर्हति",
+							"sentence_eng_transliteration": "evaṃ bhavitum arhati",
+							"sentence_eng_meaning" : "This is O.K. / all right.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "भवान् एवं कर्तुं अर्हति वा?",
+							"sentence_eng_transliteration": "bhavān evaṃ kartuṃ arhati vā?",
+							"sentence_eng_meaning" : "Can you do this?",
+							"level": 3
+						}
+					],
+					"level":2
 				}
 			],
 			"level": 1
@@ -176,6 +196,32 @@
 							"sanskrit_sentence" : "इदानीम् एव वा?",
 							"sentence_eng_transliteration": "idānīm eva vā?",
 							"sentence_eng_meaning" : "Is it going to be now?	",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"उ",
+			"words": [
+				{
+					"sanskrit_word" : "उभौ",
+					"eng_transliteration":"ubhau",
+					"eng_meaning": "both",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "तौ उभौ",
+							"sentence_eng_transliteration": "tau ubhau",
+							"sentence_eng_meaning" : "they both",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अहम् उभौ इष्टवती |",
+							"sentence_eng_transliteration": "aham ubhau iṣṭavatī",
+							"sentence_eng_meaning" : "I loved them both.",
 							"level": 3
 						}
 					],
