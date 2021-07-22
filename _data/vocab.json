@@ -63,7 +63,7 @@
 						{
 							"sanskrit_sentence" : "कुत्रापि स्थापयति, अनन्तरं मां पृच्छति",
 							"sentence_eng_transliteration": "kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati",
-							"sentence_eng_meaning" : "ou put it somewhere and later you are asking me!",
+							"sentence_eng_meaning" : "You put it somewhere and later you are asking me!",
 							"level": 3
 						}
 					],
@@ -123,6 +123,20 @@
 		{
 			"letter":"आ",
 			"words": [
+				{
+					"sanskrit_word" : "आकाङ्क्ष्य",
+					"eng_transliteration":"ākāṅkṣya",
+					"eng_meaning": "desirable",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "आनीय",
 					"eng_transliteration":"ānīya",
@@ -392,6 +406,20 @@
 			"letter":"न",
 			"words": [
 				{
+					"sanskrit_word" : "नित्योदित",
+					"eng_transliteration":"nityodita",
+					"eng_meaning": "risen by itself",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "निधि",
 					"eng_transliteration":"nidhi",
 					"eng_meaning": "treasure / fund",
@@ -429,6 +457,20 @@
 					"sanskrit_word" : "प्रथित",
 					"eng_transliteration":"prathita",
 					"eng_meaning": "published / known / spread",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "प्रविभाग",
+					"eng_transliteration":"pravibhāga",
+					"eng_meaning": "separation / portion / part",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -500,9 +542,37 @@
 			"letter":"भ",
 			"words": [
 				{
+					"sanskrit_word" : "भगवत्",
+					"eng_transliteration":"bhagavat",
+					"eng_meaning": "glorious / prosperous / holy",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "भाव",
 					"eng_transliteration":"bhāva",
 					"eng_meaning": "spirit / sentiment / emotion",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "भास्वत्",
+					"eng_transliteration":"bhāsvat",
+					"eng_meaning": "sun / luminous",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -537,6 +607,26 @@
 			"level": 1
 		},
 		{
+			"letter":"ल",
+			"words": [
+				{
+					"sanskrit_word" : "लय",
+					"eng_transliteration":"laya",
+					"eng_meaning": "rest / death / destruction",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"व",
 			"words": [
 				{
@@ -557,6 +647,20 @@
 					"sanskrit_word" : "विभेद",
 					"eng_transliteration":"vibheda",
 					"eng_meaning": "separation / division",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "विरहित",
+					"eng_transliteration":"virahita",
+					"eng_meaning": "separated / free from",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -622,6 +726,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "सकल",
+					"eng_transliteration":"sakala",
+					"eng_meaning": "total / entire",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "स्फुर",
 					"eng_transliteration":"sphura",
 					"eng_meaning": "throb / quiver",
@@ -653,6 +771,34 @@
 					"sanskrit_word" : "स्फुरण",
 					"eng_transliteration":"sphuraṇa",
 					"eng_meaning": "twinkling / shining / flashing",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "समासतस्",
+					"eng_transliteration":"samāsatas",
+					"eng_meaning": "concisely",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "सर्वज्ञ",
+					"eng_transliteration":"sarvajña",
+					"eng_meaning": "omniscient / all-knowing",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",

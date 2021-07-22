@@ -52,6 +52,26 @@ Gītārtha-Saṁgraha in Sanskrit with english meaning of each word - Maṅgala 
 | प्रगीत | pragīta	| sing-song or drawling recitation / one who has begun to sing |
 {:.table-customised}
 
+**मोक्षश्च नाम सकलाप्रविभागरूपे <br>
+सर्वज्ञसर्वकरणादिशुभस्वभावे ।<br>
+आकाङ्क्ष्या विरहिते भगवत्यधीशे <br>
+नित्योदिते लय इयान्प्रथित: समासात् ॥३॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| सकल | sakala | total / entire |
+| प्रविभाग	| pravibhāga | separation / portion / part | 
+| सर्वज्ञ	| sarvajña | omniscient / all-knowing |
+| भास्वत्	| bhāsvat	| sun / luminous |
+| आकाङ्क्ष्य	| ākāṅkṣya | desirable |
+| विरहित	| virahita | separated / free from |
+| भगवत् | bhagavat | glorious / prosperous / holy |
+| नित्योदित | nityodita | risen by itself |
+| लय | laya | rest / death / destruction |
+| प्रथित | prathita | published / known / spread |
+| समासतस्	 | samāsatas | concisely |
+{:.table-customised}
+
 Note: *Reading in progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
