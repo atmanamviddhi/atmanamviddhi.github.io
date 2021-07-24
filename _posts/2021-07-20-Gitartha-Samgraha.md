@@ -6,7 +6,7 @@ tags:  [Shaivism, Kashmir-Shaivism, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts
 date: 2021-07-20
 ---
 
-Gītārtha-Saṁgraha in Sanskrit with english meaning of each word - Maṅgala Verses
+Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of each word 
 
 <h2>श्रीभगवद्गीता</h2>
 
@@ -70,6 +70,47 @@ Gītārtha-Saṁgraha in Sanskrit with english meaning of each word - Maṅgala 
 | लय | laya | rest / death / destruction |
 | प्रथित | prathita | published / known / spread |
 | समासतस्	 | samāsatas | concisely |
+{:.table-customised}
+
+---
+
+**यद्यप्यन्यप्रसङ्गेषु मोक्षो नामात्र गीयते । <br>
+तथापि भगवद्गीता: सम्यक्तत्प्राप्तिदायिका: ॥४॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| यद्यपि | yadyapi | although / even though |
+| प्रसङ्ग	| prasaṅga | occasion / context |
+| गीयते | gīyate | be sung or praised in song |
+| तथापि |tathāpi	| even then / yet / nevertheless |
+| सम्यक्ता	 | samyaktā | rightness / correct manner |
+{:.table-customised}
+
+---
+
+**तास्वन्यै: प्राक्तनैर्व्याख्या: कृता यद्यपि भूयसा । <br>
+न्याय्यस्तथाप्युद्यमो मे तद्गूढार्थप्रकाशक: ॥५॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| प्राक्तन	| prāktana | prior / previous |
+| यद्यपि | yadyapi | although / even though |
+| भूयसा | bhūyasā	| in a high degree / exceedingly |
+| न्याय्य	| nyāyya | usual / regular |
+| गूढार्थ | gūḍhārtha | hidden or mystic sense / having a hidden meaning |
+| प्रकाशक	 | prakāśaka | discoverer / making clear |
+{:.table-customised}
+
+---
+
+**भट्टेन्दुराजादाम्नाय विविच्य च चिरं धिया । <br>
+कृतोऽभिनवगुप्तेन सोऽयं गीतार्थसंग्रह: ॥६॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| विविच्यते	| vivicyate | go asunder / separate |
+| चिर | cira | long [time] |
+| धिया | dhiyā | by intelligence / by thought | 
 {:.table-customised}
 
 Note: *Reading in progress*

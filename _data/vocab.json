@@ -318,6 +318,54 @@
 						}
 					],
 					"level":2
+				},
+				{
+					"sanskrit_word" : "गीयते",
+					"eng_transliteration":"gīyate",
+					"eng_meaning": "be sung or praised in song",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "गूढार्थ",
+					"eng_transliteration":"gūḍhārtha",
+					"eng_meaning": "hidden or mystic sense / having a hidden meaning",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"च",
+			"words": [
+				{
+					"sanskrit_word" : "चिर",
+					"eng_transliteration":"cira",
+					"eng_meaning": "long [time]",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
 				}
 			],
 			"level": 1
@@ -403,8 +451,42 @@
 			"level": 1
 		},
 		{
+			"letter":"ध",
+			"words": [
+				{
+					"sanskrit_word" : "धिया",
+					"eng_transliteration":"dhiyā",
+					"eng_meaning": "by intelligence / by thought",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"न",
 			"words": [
+				{
+					"sanskrit_word" : "न्याय्य",
+					"eng_transliteration":"nyāyya",
+					"eng_meaning": "usual / regular",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "नित्योदित",
 					"eng_transliteration":"nityodita",
@@ -439,6 +521,20 @@
 		{
 			"letter":"प",
 			"words": [
+				{
+					"sanskrit_word" : "प्रकाशक",
+					"eng_transliteration":"prakāśaka",
+					"eng_meaning": "discoverer / making clear",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "प्रगीत",
 					"eng_transliteration":"pragīta",
@@ -482,6 +578,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "प्रसङ्ग",
+					"eng_transliteration":"prasaṅga",
+					"eng_meaning": "occasion / context",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "परस्पर",
 					"eng_transliteration":"paraspara",
 					"eng_meaning": "mutual / each other",
@@ -502,6 +612,20 @@
 							"sanskrit_sentence" : "अङ्किता तस्याः प्रबन्धिका च परस्परं सम्यक् न व्यवहरतः |",
 							"sentence_eng_transliteration": "aṅkitā tasyāḥ prabandhikā ca parasparaṃ samyak na vyavaharataḥ",
 							"sentence_eng_meaning" : "Ankita and her boss are not getting along well.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "प्राक्तन",
+					"eng_transliteration":"prāktana",
+					"eng_meaning": "prior / previous",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],
@@ -582,6 +706,20 @@
 						}
 					],
 					"level":2
+				},
+				{
+					"sanskrit_word" : "भूयसा",
+					"eng_transliteration":"bhūyasā",
+					"eng_meaning": "in a high degree / exceedingly",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
 				}
 			],
 			"level": 1
@@ -613,6 +751,26 @@
 					"sanskrit_word" : "लय",
 					"eng_transliteration":"laya",
 					"eng_meaning": "rest / death / destruction",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"य",
+			"words": [
+				{
+					"sanskrit_word" : "यद्यपि",
+					"eng_transliteration":"yadyapi",
+					"eng_meaning": "although / even though",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -672,6 +830,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "विविच्यते",
+					"eng_transliteration":"vivicyate",
+					"eng_meaning": "go asunder / separate",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "विषयता",
 					"eng_transliteration":"viṣayatā",
 					"eng_meaning": "relation between an object and the knowledge of it",
@@ -714,12 +886,26 @@
 				{
 					"sanskrit_word" : "संमित",
 					"eng_transliteration":"saṃmita",
-					"eng_meaning": "",
+					"eng_meaning": "symmetrical",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
 							"sentence_eng_transliteration": "",
-							"sentence_eng_meaning" : "symmetrical",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "सम्यक्ता",
+					"eng_transliteration":"samyaktā",
+					"eng_meaning": "rightness / correct manner",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],

@@ -82,12 +82,25 @@ Json template
 ---
 ग -
 	गच्छति	gacchati	he / she / it goes
+
+	गीयते		gīyate		be sung or praised in song
+
+	गूढार्थ	gūḍhārtha	hidden or mystic sense / having a hidden meaning
 ---
+च -
+	चिर	cira	long [time]
+---
+
 ज - 
 	जयति		jayati	win / be victorious
 ---
 
 त -
+	तथापि	tathāpi	even then / yet / nevertheless
+		तथापि नूतनं इव प्रतिभाति	tathāpi nūtanaṃ iva pratibhāti	Still it appears to be new.
+		दशवारं पठितवान्, तथापि न स्मरामि		daśavāraṃ paṭhitavān, tathāpi na smarāmi	I read it ten times, even then I do not remember.
+		तस्याः नेत्रौ निमीलितौ | तथाऽपि सा न निद्राति इति अहं ज्ञातवती	tasyāḥ netrau nimīlitau | tathā'pi sā na nidrāti iti ahaṃ jñātavatī	Her eyes were closed but I knew she was not asleep.
+
 	तदा	tadā	then / at that time
 	
 	तस्मिन्	tasmin	in that
@@ -103,22 +116,35 @@ Json template
 		एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति|	etasmin stare tāvantaḥ vargāḥ na santi	There are not that many classrooms in that floor.
 
 ---
+
+ध -
+	धिया	dhiyā	by intelligence / by thought
+
+---
 न -	
+	न्याय्य	nyāyya	usual / regular
+
 	नित्योदित	nityodita	risen by itself
 
 	निधि		nidhi	treasure / fund
 ---
 प -
+	प्रकाशक	prakāśaka	discoverer / making clear
+
 	प्रगीत		pragīta		sing-song or drawling recitation / one who has begun to sing
 
 	प्रथित	prathita	published / known / spread
 
 	प्रविभाग	pravibhāga	separation / portion / part 
 
+	प्रसङ्ग	prasaṅga	occasion / context
+
 	परस्पर	paraspara	mutual / each other
 		तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |	tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām	They kept looking at each other and smiling.
 		गृहे सहोदरौ सदा परस्परं विवादं कुर्वन्तौ आस्ताम् |	gṛhe sahodarau sadā parasparaṃ vivādaṃ kurvantau āstām 	The brothers were always arguing with each other when they were home.
 		अङ्किता तस्याः प्रबन्धिका च परस्परं सम्यक् न व्यवहरतः |	aṅkitā tasyāḥ prabandhikā ca parasparaṃ samyak na vyavaharataḥ	Ankita and her boss are not getting along well.
+
+	प्राक्तन	prāktana	prior / previous
 
 	परिपोषयति	paripoṣayati	nourish
 	
@@ -132,13 +158,17 @@ Json template
 	भाव	bhāva	spirit / sentiment / emotion
 
 	भास्वत्	bhāsvat	sun / luminous
+
+	भूयसा		bhūyasā	in a high degree / exceedingly
 ---
 म -
 	मय 	maya 	made of / consisting of	
 ---
 ल -
 	लय	laya	rest / death / destruction
-
+---
+य -
+	यद्यपि	yadyapi	although / even though
 ---
 व -
 	वितत	vitata	any stringed instrument / wide / far-spreading
@@ -146,6 +176,8 @@ Json template
 	विभेद	vibheda	separation / division
 
 	विरहित	virahita	separated / free from
+
+	विविच्यते	vivicyate	go asunder / separate
 	
 	विषयता	viṣayatā	relation between an object and the knowledge of it
 
@@ -158,6 +190,8 @@ Json template
 
 स -
 	संमित		saṃmita	symmetrical
+
+	सम्यक्ता	samyaktā	rightness / correct manner
 
 	सकल		sakala	total / entire 
 
