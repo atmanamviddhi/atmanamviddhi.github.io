@@ -25,6 +25,16 @@ Json template
 अ -
 	अज्ञ ajña ignorant
 
+	अत्र atra  here / in this place
+		अत्र आगच्छ	atra āgaccha	Come here.
+		अत्र उपविश	atra upaviśa	Sit here.
+		सः अत्र नास्ति	saḥ atra nāsti	He is not here.	
+		किं अत्र आगमनम्?	kiṃ atra āgamanam?	What made you come here?
+		अत्र विश्रामं कुरु		atra viśrāmaṃ kuru	Take rest here!
+		अये अत्र आगच्छतु!	aye atra āgacchatu!	Hey, come here.
+		अत्र वायुः सुष्ठु वाति	atra vāyuḥ suṣṭhu vāti	Nice breeze here.
+		तं अत्र आगन्तुं सूचयतु		taṃ atra āgantuṃ sūcayatu	Ask him to come here.
+
 	अतः	ataḥ	therefore / so / hence
 		अतः परम्		ataḥ param	from now on / from then on
 
@@ -37,6 +47,10 @@ Json template
 		अस्मिन् विषये अनन्तरं वदामि	asmin viṣaye anantaraṃ vadāmi	I'll tell you about it later.
 		इदानीं मास्तु, अनन्तरं ददामि	idānīṃ māstu, anantaraṃ dadāmi	Not now, I will give it to you later.	
 		कुत्रापि स्थापयति, अनन्तरं मां पृच्छति	kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati	You put it somewhere and later you are asking me!
+
+	अनुग्राहक	anugrāhaka		kind
+
+	अयम् { इदम् }	ayam {idam}	this
 		
 	अल्पेन	alpena	for little / cheap
 	
@@ -65,6 +79,8 @@ Json template
 		इदानीम् एव वा?	idānīm eva vā?	Is it going to be now?	
 ---
 उ -
+	उत्पत्ति	utpatti	production / birth
+
 	उभौ	ubhau	both
 		तौ उभौ	tau ubhau	they both
 		अहम् उभौ इष्टवती |	aham ubhau iṣṭavatī	I loved them both.
@@ -84,6 +100,14 @@ Json template
 		तस्य केचन दुर्गुणाः सन्ति |	tasya kecana durguṇāḥ santi	He has some very bad habits.
 
 	कोटि	koṭi	highest point
+
+---
+ख -
+	खलु	khalu	verily / Is it not ?
+		न खलु	na khalu	not at all / I hope not
+		पीडयति न खलु?	pīḍayati na khalu?	It doesn't hurt, does it?
+		भवती तम् इच्छति खलु?	bhavatī tam icchati khalu?	You like him, don't you?
+		भवान् तं न पृष्टवान् खलु ?	bhavān taṃ na pṛṣṭavān khalu ?	You didn't ask him, did you?
 	
 ---
 ग -
@@ -99,9 +123,13 @@ Json template
 
 ज - 
 	जयति		jayati	win / be victorious
+
+	जित 		jita	won
 ---
 
 त -
+	त्राण	trāṇa	protection / shelter
+
 	ततः 	tataḥ 	therefore
 
 	तथात्व	tathātva	such a state of things / such a condition / being so
@@ -141,6 +169,8 @@ Json template
 	नित्योदित	nityodita	risen by itself
 
 	निधि		nidhi	treasure / fund
+
+	निमित्तत्व	nimittatva		state of being a cause / instrumentality / causality
 
 	निर्मूल	nirmūla	rootless / baseless
 ---
@@ -188,10 +218,28 @@ Json template
 	लय	laya	rest / death / destruction
 ---
 य -
+	यत्र		yatra	wherever / in or to which place
+
 	यद्यपि	yadyapi	although / even though
+
+	यावत्		yāvat	up to / until / as soon as
+		न यावत्	na yāvat	unless
+		अद्य यावत्	adya yāvat	until today
+		कार्यालयः अर्धघण्टां यावत् दूरे अस्ति |	kāryālayaḥ ardhaghaṇṭāṃ yāvat dūre asti The office is a half-hour drive away.
+		विद्यालयः पञ्चनिमेषान् यावत् दूरम् अस्ति |	vidyālayaḥ pañcanimeṣān yāvat dūram asti The high school is just five minutes away.
+
+---
+
+र - 
+	राग 	rāga 	vehement desire of / passion
+
 ---
 व -
+	वध्यघातक	vadhyaghātaka	executing criminals
+
 	वितत	vitata	any stringed instrument / wide / far-spreading
+
+	विध्यात्मक	vidhyātmaka	consisting of a positive injunction
 
 	विपर्यस्त	viparyasta	reversed / opposite / inverted
 	
@@ -240,4 +288,6 @@ Json template
 	समासतस्	samāsatas	concisely
 
 	सर्वज्ञ	sarvajña	omniscient / all-knowing
+
+	सार्थ 	sārtha 	wealthy / useful / troop
 	

@@ -35,6 +35,45 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | तात्पर्य	| tātparya | sense / meant |
 {:.table-customised}
 
+---
+
+**धृतराष्ट्र उवाच** <br>
+
+**धर्मक्षेत्रे कुरुक्षेत्रे सर्वक्षत्रसमागमे ।<br>
+मामका: पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| समागम | samāgama | meeting / assembly of |
+| मामक | māmaka | my / mine / selfish / greedy |
+{:.table-customised}
+
+अत्र केचिव्द्याख्याविकल्पमाहु:- कुरूणां - करणानां यत्क्षेत्रं-अनुग्राहकम्, अत एव सांसारिकधर्माणां सर्वेषां क्षेत्रं-उत्पत्तिनिमित्तत्वात्,
+
+'अयं स परमो धर्मो यद्योगेनात्मदर्शनम्' (याज्ञव. स्मृ.)
+
+इत्यस्य च धर्मस्य क्षेत्रम्, समस्तधर्माणां क्षयादपवर्गप्राप्त्या त्राणभूतम् तदधिकारि शरीरम् । सर्वक्षत्राणां क्षदेर्हिंसार्थत्वात् परस्परवध्यघातकभावेन वर्तमानानां रागवैराग्यक्रोधक्षमाप्रभृतीनां समागमो यत्र, तस्मिन् स्थिता ये मामका:- अविद्यापुरुषोचिता अविद्यामया: सङ्कल्पा:। पाण्डवा:- शुद्धविद्यापुरुषोचिता विद्यात्मन:। ते किमकुर्वत- कै: खलु के जिता इति यावत्। ममेति कायतीति
+मामक: अविद्यापुरुष:। पाण्डु: शुद्ध: ॥१॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अत्र | atra | here / in this place |
+| अनुग्राहक | anugrāhaka	| kind |
+| उत्पत्ति	| utpatti	| production / birth |
+| निमित्तत्व | nimittatva	| state of being a cause / instrumentality / causality |
+| अयम् { इदम् } | ayam {idam} | this |
+| त्राण | trāṇa | protection / shelter |
+| सार्थ | sārtha	| wealthy / useful / troop |
+| वध्यघातक | vadhyaghātaka | executing criminals |
+| राग | rāga | vehement desire of / passion |
+| यत्र | yatra | wherever / in or to which place |
+| तस्मिन् | tasmin | in that |
+| विध्यात्मक | vidhyātmaka	| consisting of a positive injunction |
+| खलु | khalu | verily / Is it not? |
+| जित | jita | won |
+| यावत् | yāvat | up to / until / as soon as |
+{:.table-customised}
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

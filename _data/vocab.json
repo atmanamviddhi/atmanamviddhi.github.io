@@ -18,6 +18,62 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "अत्र",
+					"eng_transliteration":"atra",
+					"eng_meaning": "here / in this place",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "अत्र आगच्छ",
+							"sentence_eng_transliteration": "atra āgaccha",
+							"sentence_eng_meaning" : "Come here.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अत्र उपविश",
+							"sentence_eng_transliteration": "atra upaviśa",
+							"sentence_eng_meaning" : "Sit here.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "सः अत्र नास्ति",
+							"sentence_eng_transliteration": "saḥ atra nāsti",
+							"sentence_eng_meaning" : "He is not here.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "किं अत्र आगमनम्?",
+							"sentence_eng_transliteration": "kiṃ atra āgamanam?",
+							"sentence_eng_meaning" : "What made you come here?",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अत्र विश्रामं कुरु",
+							"sentence_eng_transliteration": "atra viśrāmaṃ kuru",
+							"sentence_eng_meaning" : "Take rest here!",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अये अत्र आगच्छतु!",
+							"sentence_eng_transliteration": "aye atra āgacchatu!",
+							"sentence_eng_meaning" : "Hey, come here.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अत्र वायुः सुष्ठु वाति",
+							"sentence_eng_transliteration": "atra vāyuḥ suṣṭhu vāti",
+							"sentence_eng_meaning" : "Nice breeze here.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तं अत्र आगन्तुं सूचयतु",
+							"sentence_eng_transliteration": "taṃ atra āgantuṃ sūcayatu",
+							"sentence_eng_meaning" : "Ask him to come here.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "अतः",
 					"eng_transliteration":"ataḥ",
 					"eng_meaning": "therefore / so / hence",
@@ -78,6 +134,34 @@
 							"sanskrit_sentence" : "कुत्रापि स्थापयति, अनन्तरं मां पृच्छति",
 							"sentence_eng_transliteration": "kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati",
 							"sentence_eng_meaning" : "You put it somewhere and later you are asking me!",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "अनुग्राहक",
+					"eng_transliteration":"anugrāhaka",
+					"eng_meaning": "kind",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "अयम् { इदम् }",
+					"eng_transliteration":"ayam {idam}",
+					"eng_meaning": "this",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],
@@ -236,6 +320,20 @@
 			"letter":"उ",
 			"words": [
 				{
+					"sanskrit_word" : "उत्पत्ति",
+					"eng_transliteration":"utpatti",
+					"eng_meaning": "production / birth",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "उभौ",
 					"eng_transliteration":"ubhau",
 					"eng_meaning": "both",
@@ -345,6 +443,44 @@
 			"level": 1
 		},
 		{
+			"letter":"ख",
+			"words": [
+				{
+					"sanskrit_word" : "खलु",
+					"eng_transliteration":"khalu",
+					"eng_meaning": "verily / Is it not ?",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "न खलु",
+							"sentence_eng_transliteration": "na khalu",
+							"sentence_eng_meaning" : "not at all / I hope not",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "पीडयति न खलु?",
+							"sentence_eng_transliteration": "pīḍayati na khalu?",
+							"sentence_eng_meaning" : "It doesn't hurt, does it?",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "भवती तम् इच्छति खलु?",
+							"sentence_eng_transliteration": "bhavatī tam icchati khalu?",
+							"sentence_eng_meaning" : "You like him, don't you?",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "भवान् तं न पृष्टवान् खलु ?",
+							"sentence_eng_transliteration": "bhavān taṃ na pṛṣṭavān khalu ?",
+							"sentence_eng_meaning" : "You didn't ask him, did you?",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"ग",
 			"words": [
 				{
@@ -428,6 +564,20 @@
 						}
 					],
 					"level":2
+				},
+				{
+					"sanskrit_word" : "जित",
+					"eng_transliteration":"jita",
+					"eng_meaning": "won",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
 				}
 			],
 			"level": 1
@@ -435,6 +585,20 @@
 		{
 			"letter":"त",
 			"words":[
+				{
+					"sanskrit_word" : "त्राण",
+					"eng_transliteration":"trāṇa",
+					"eng_meaning": "protection / shelter",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "ततः",
 					"eng_transliteration":"tataḥ",
@@ -649,6 +813,20 @@
 					"sanskrit_word" : "निधि",
 					"eng_transliteration":"nidhi",
 					"eng_meaning": "treasure / fund",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "निमित्तत्व",
+					"eng_transliteration":"nimittatva",
+					"eng_meaning": "state of being a cause / instrumentality / causality",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -931,6 +1109,92 @@
 			"level": 1
 		},
 		{
+			"letter":"य",
+			"words": [
+				{
+					"sanskrit_word" : "यत्र",
+					"eng_transliteration":"yatra",
+					"eng_meaning": "wherever / in or to which place",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "यद्यपि",
+					"eng_transliteration":"yadyapi",
+					"eng_meaning": "although / even though",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "यावत्",
+					"eng_transliteration":"yāvat",
+					"eng_meaning": "up to / until / as soon as",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "न यावत्",
+							"sentence_eng_transliteration": "na yāvat",
+							"sentence_eng_meaning" : "unless",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अद्य यावत्",
+							"sentence_eng_transliteration": "adya yāvat",
+							"sentence_eng_meaning" : "until today",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "कार्यालयः अर्धघण्टां यावत् दूरे अस्ति |",
+							"sentence_eng_transliteration": "kāryālayaḥ ardhaghaṇṭāṃ yāvat dūre asti",
+							"sentence_eng_meaning" : "The office is a half-hour drive away.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "विद्यालयः पञ्चनिमेषान् यावत् दूरम् अस्ति |",
+							"sentence_eng_transliteration": "vidyālayaḥ pañcanimeṣān yāvat dūram asti",
+							"sentence_eng_meaning" : "The high school is just five minutes away.",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
+			"letter":"र",
+			"words": [
+				{
+					"sanskrit_word" : "राग",
+					"eng_transliteration":"rāga",
+					"eng_meaning": "vehement desire of / passion",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"ल",
 			"words": [
 				{
@@ -951,12 +1215,12 @@
 			"level": 1
 		},
 		{
-			"letter":"य",
+			"letter":"व",
 			"words": [
 				{
-					"sanskrit_word" : "यद्यपि",
-					"eng_transliteration":"yadyapi",
-					"eng_meaning": "although / even though",
+					"sanskrit_word" : "वध्यघातक",
+					"eng_transliteration":"vadhyaghātaka",
+					"eng_meaning": "executing criminals",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -966,17 +1230,25 @@
 						}
 					],
 					"level":2
-				}
-			],
-			"level": 1
-		},
-		{
-			"letter":"व",
-			"words": [
+				},
 				{
 					"sanskrit_word" : "वितत",
 					"eng_transliteration":"vitata",
 					"eng_meaning": "any stringed instrument / wide / far-spreading",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "विध्यात्मक",
+					"eng_transliteration":"vidhyātmaka",
+					"eng_meaning": "consisting of a positive injunction",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -1283,6 +1555,20 @@
 					"sanskrit_word" : "सर्वज्ञ",
 					"eng_transliteration":"sarvajña",
 					"eng_meaning": "omniscient / all-knowing",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "सार्थ",
+					"eng_transliteration":"sārtha",
+					"eng_meaning": "wealthy / useful / troop",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
