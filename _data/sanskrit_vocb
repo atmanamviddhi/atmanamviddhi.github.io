@@ -23,6 +23,8 @@ Json template
 
 
 अ -
+	अज्ञ ajña ignorant
+
 	अतः	ataḥ	therefore / so / hence
 		अतः परम्		ataḥ param	from now on / from then on
 
@@ -69,6 +71,8 @@ Json template
 ---
 
 क -
+	क्रियमाण	kriyamāṇa	being done
+
 	करोति karoti	do
 		रोदनं करोति	rodanaṃ karoti	cry
 		निश्चयं करोति 	niścayaṃ karoti	decide
@@ -78,6 +82,8 @@ Json template
 		केचन न समर्थाः	kecana na samarthāḥ	Some are not efficient.
 		केचन जनाः स्वार्थिनः	kecana janāḥ svārthinaḥ	Some people are selfish.
 		तस्य केचन दुर्गुणाः सन्ति |	tasya kecana durguṇāḥ santi	He has some very bad habits.
+
+	कोटि	koṭi	highest point
 	
 ---
 ग -
@@ -96,6 +102,10 @@ Json template
 ---
 
 त -
+	ततः 	tataḥ 	therefore
+
+	तथात्व	tathātva	such a state of things / such a condition / being so
+
 	तथापि	tathāpi	even then / yet / nevertheless
 		तथापि नूतनं इव प्रतिभाति	tathāpi nūtanaṃ iva pratibhāti	Still it appears to be new.
 		दशवारं पठितवान्, तथापि न स्मरामि		daśavāraṃ paṭhitavān, tathāpi na smarāmi	I read it ten times, even then I do not remember.
@@ -111,6 +121,8 @@ Json template
 		तस्याः वेला न आसीत्	tasyāḥ velā na āsīt	She did not have time.
 		तस्याः पतिः कुत्र वर्तते ?	tasyāḥ patiḥ kutra vartate ?	Where is her husband ?
 		तस्याः आह्वानं मया न श्रुतम्	tasyāḥ āhvānaṃ mayā na śrutam	Her calling [me] was not heard by me. / I did not hear her calling me.
+
+	तात्पर्य	tātparya	sense / meant
 	
 	तावन्त	tāvanta	so much
 		एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति|	etasmin stare tāvantaḥ vargāḥ na santi	There are not that many classrooms in that floor.
@@ -124,9 +136,13 @@ Json template
 न -	
 	न्याय्य	nyāyya	usual / regular
 
+	नान्तरीयक	nāntarīyaka	not external / contained or inherent in
+
 	नित्योदित	nityodita	risen by itself
 
 	निधि		nidhi	treasure / fund
+
+	निर्मूल	nirmūla	rootless / baseless
 ---
 प -
 	प्रकाशक	prakāśaka	discoverer / making clear
@@ -135,7 +151,11 @@ Json template
 
 	प्रथित	prathita	published / known / spread
 
+	प्रदर्शयति	pradarśayati	show / describe/ teach / explain
+
 	प्रविभाग	pravibhāga	separation / portion / part 
+
+	प्रस्ताव	prastāva	proposal / introduction
 
 	प्रसङ्ग	prasaṅga	occasion / context
 
@@ -172,12 +192,16 @@ Json template
 ---
 व -
 	वितत	vitata	any stringed instrument / wide / far-spreading
+
+	विपर्यस्त	viparyasta	reversed / opposite / inverted
 	
 	विभेद	vibheda	separation / division
 
 	विरहित	virahita	separated / free from
 
 	विविच्यते	vivicyate	go asunder / separate
+
+	विश्रान्त	viśrānta	taking rest / stopped
 	
 	विषयता	viṣayatā	relation between an object and the knowledge of it
 
@@ -185,13 +209,25 @@ Json template
 		
 श -
 	शस्ति	śasti	punishment / order / rule / proclaim
+
+	शीर्षक	śīrṣaka	title / verdict
 	
 ---
 
 स -
+	समुच्च	samucca	high
+
+	सङ्घट्ट	saṅghaṭṭa	rubbing or clashing together
+
+	सन्दिग्ध	sandigdha	ambiguous / doubtful about / uncertain
+
 	संमित		saṃmita	symmetrical
 
+	संशय		saṃśaya	doubt
+
 	सम्यक्ता	samyaktā	rightness / correct manner
+
+	सम  sama  match
 
 	सकल		sakala	total / entire 
 

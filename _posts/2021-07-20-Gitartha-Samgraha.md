@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gītārtha-Saṁgraha -  Maṅgala Verses in Sanskrit"
-subtitle: "Gītārtha-Saṁgraha in Sanskrit with english meaning of each word - Maṅgala Verses"
+subtitle: "Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of each word"
 tags:  [Shaivism, Kashmir-Shaivism, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts]
 date: 2021-07-20
 ---
@@ -112,8 +112,6 @@ Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of eac
 | चिर | cira | long [time] |
 | धिया | dhiyā | by intelligence / by thought | 
 {:.table-customised}
-
-Note: *Reading in progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
 

@@ -4,6 +4,20 @@
 			"letter":"अ",
 			"words": [
 				{
+					"sanskrit_word" : "अज्ञ",
+					"eng_transliteration":"ajña",
+					"eng_meaning": "ignorant",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "अतः",
 					"eng_transliteration":"ataḥ",
 					"eng_meaning": "therefore / so / hence",
@@ -248,6 +262,20 @@
 			"letter":"क",
 			"words": [
 				{
+					"sanskrit_word" : "क्रियमाण",
+					"eng_transliteration":"kriyamāṇa",
+					"eng_meaning": "being done",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "करोति",
 					"eng_transliteration":"karoti",
 					"eng_meaning": "do",
@@ -294,6 +322,20 @@
 							"sanskrit_sentence" : "तस्य केचन दुर्गुणाः सन्ति |",
 							"sentence_eng_transliteration": "tasya kecana durguṇāḥ santi",
 							"sentence_eng_meaning" : "He has some very bad habits.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "कोटि",
+					"eng_transliteration":"koṭi",
+					"eng_meaning": "highest point",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],
@@ -394,6 +436,60 @@
 			"letter":"त",
 			"words":[
 				{
+					"sanskrit_word" : "ततः",
+					"eng_transliteration":"tataḥ",
+					"eng_meaning": "therefore",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "तथात्व",
+					"eng_transliteration":"tathātva",
+					"eng_meaning": "such a state of things / such a condition / being so",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "तथापि",
+					"eng_transliteration":"tathāpi",
+					"eng_meaning": "then / yet / nevertheless",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "तथापि नूतनं इव प्रतिभाति",
+							"sentence_eng_transliteration": "tathāpi nūtanaṃ iva pratibhāti",
+							"sentence_eng_meaning" : "Still it appears to be new.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "दशवारं पठितवान्, तथापि न स्मरामि	",
+							"sentence_eng_transliteration": "daśavāraṃ paṭhitavān, tathāpi na smarāmi",
+							"sentence_eng_meaning" : "I read it ten times, even then I do not remember.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तस्याः नेत्रौ निमीलितौ | तथाऽपि सा न निद्राति इति अहं ज्ञातवती",
+							"sentence_eng_transliteration": "tasyāḥ netrau nimīlitau | tathā'pi sā na nidrāti iti ahaṃ jñātavatī",
+							"sentence_eng_meaning" : "Her eyes were closed but I knew she was not asleep.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "तदा",
 					"eng_transliteration":"tadā",
 					"eng_meaning": "then / at that time",
@@ -402,6 +498,26 @@
 							"sanskrit_sentence" : "",
 							"sentence_eng_transliteration": "",
 							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "तस्मिन्",
+					"eng_transliteration":"tasmin",
+					"eng_meaning": "in that",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "तस्मिन् अहं किमपि न वदामि |",
+							"sentence_eng_transliteration": "tasmin ahaṃ kimapi na vadāmi",
+							"sentence_eng_meaning" : "I do not want to say anything in that regard.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तस्मिन् मम विश्वासः अस्ति |",
+							"sentence_eng_transliteration": "tasmin mama viśvāsaḥ asti",
+							"sentence_eng_meaning" : "I believe him.",
 							"level": 3
 						}
 					],
@@ -428,6 +544,20 @@
 							"sanskrit_sentence" : "तस्याः आह्वानं मया न श्रुतम्",
 							"sentence_eng_transliteration": "tasyāḥ āhvānaṃ mayā na śrutam",
 							"sentence_eng_meaning" : "Her calling [me] was not heard by me. / I did not hear her calling me.",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "तात्पर्य",
+					"eng_transliteration":"tātparya",
+					"eng_meaning": "sense / meant",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
 							"level": 3
 						}
 					],
@@ -488,6 +618,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "नान्तरीयक",
+					"eng_transliteration":"nāntarīyaka",
+					"eng_meaning": "not external / contained or inherent in",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "नित्योदित",
 					"eng_transliteration":"nityodita",
 					"eng_meaning": "risen by itself",
@@ -505,6 +649,20 @@
 					"sanskrit_word" : "निधि",
 					"eng_transliteration":"nidhi",
 					"eng_meaning": "treasure / fund",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "निर्मूल",
+					"eng_transliteration":"nirmūla",
+					"eng_meaning": "rootless / baseless",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -564,9 +722,37 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "प्रदर्शयति",
+					"eng_transliteration":"pradarśayati",
+					"eng_meaning": "show / describe/ teach / explain",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "प्रविभाग",
 					"eng_transliteration":"pravibhāga",
 					"eng_meaning": "separation / portion / part",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "प्रस्ताव",
+					"eng_transliteration":"prastāva",
+					"eng_meaning": "proposal / introduction",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -802,6 +988,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "विपर्यस्त",
+					"eng_transliteration":"viparyasta",
+					"eng_meaning": "reversed / opposite / inverted",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "विभेद",
 					"eng_transliteration":"vibheda",
 					"eng_meaning": "separation / division",
@@ -833,6 +1033,20 @@
 					"sanskrit_word" : "विविच्यते",
 					"eng_transliteration":"vivicyate",
 					"eng_meaning": "go asunder / separate",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "विश्रान्त",
+					"eng_transliteration":"viśrānta",
+					"eng_meaning": "taking rest / stopped",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",
@@ -876,6 +1090,20 @@
 						}
 					],
 					"level":2
+				},
+				{
+					"sanskrit_word" : "शीर्षक",
+					"eng_transliteration":"śīrṣaka",
+					"eng_meaning": "title / verdict",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
 				}
 			],
 			"level": 1
@@ -883,6 +1111,48 @@
 		{
 			"letter":"स",
 			"words": [
+				{
+					"sanskrit_word" : "समुच्च",
+					"eng_transliteration":"samucca",
+					"eng_meaning": "high",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "सङ्घट्ट",
+					"eng_transliteration":"saṅghaṭṭa",
+					"eng_meaning": "rubbing or clashing together",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "सन्दिग्ध",
+					"eng_transliteration":"sandigdha",
+					"eng_meaning": "ambiguous / doubtful about / uncertain",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "संमित",
 					"eng_transliteration":"saṃmita",
@@ -898,9 +1168,37 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "संशय",
+					"eng_transliteration":"saṃśaya",
+					"eng_meaning": "doubt",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "सम्यक्ता",
 					"eng_transliteration":"samyaktā",
 					"eng_meaning": "rightness / correct manner",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
+					"sanskrit_word" : "सम",
+					"eng_transliteration":"sama",
+					"eng_meaning": "match",
 					"sentences": [
 						{
 							"sanskrit_sentence" : "",

@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000//blog/2021/07/26/Gitartha-Samgraha-Chapter-1-in-Sanskrit</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000//blog/2021/07/20/Gitartha-Samgraha</loc>
     </url>
     
