@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Gītārtha-Saṁgraha -  Maṅgala Verses in Sanskrit"
-subtitle: "Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of each word"
+subtitle: "Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of each word."
 tags:  [Shaivism, Kashmir-Shaivism, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts]
 date: 2021-07-20
 ---
 
-Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of each word 
+Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of each word. 
 
 <h2>श्रीभगवद्गीता</h2>
 
