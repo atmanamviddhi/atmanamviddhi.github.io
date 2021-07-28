@@ -585,13 +585,13 @@ table, tr, td, th {
 }
 
 .table-customised thead th {
-        background-color: #E6A6E3;
+        background-color: #E6E6FA;
 }
   
 .table-customised-fix-head {
         position: sticky;
         top: 0;
-        background-color: #E6E6FA !important;
+        background-color: #E6A6E3 !important;
 }
 
 
