@@ -48,6 +48,8 @@ Json template
 		इदानीं मास्तु, अनन्तरं ददामि	idānīṃ māstu, anantaraṃ dadāmi	Not now, I will give it to you later.	
 		कुत्रापि स्थापयति, अनन्तरं मां पृच्छति	kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati	You put it somewhere and later you are asking me!
 
+	अनीक		anīka	army / chief
+
 	अनुग्राहक	anugrāhaka		kind
 
 	अयम् { इदम् }	ayam {idam}	this
@@ -156,6 +158,15 @@ Json template
 		एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति|	etasmin stare tāvantaḥ vargāḥ na santi	There are not that many classrooms in that floor.
 
 ---
+द -
+	दृष्ट्वा		dṛṣṭvā	having seen
+		दृष्ट्वा चकित	dṛṣṭvā cakita	shy
+		मार्गम् उभयतः दृष्ट्वा प्रतिपक्षं गच्छतु |	mārgam ubhayataḥ dṛṣṭvā pratipakṣaṃ gacchatu Look both ways before crossing (the street).
+		तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |	tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām		They kept looking at each other and smiling.
+		तस्मिन् स्थाने एकां महिलां दृष्ट्वा अहं सन्तुष्टः |	tasmin sthāne ekāṃ mahilāṃ dṛṣṭvā ahaṃ santuṣṭaḥ	I am pleased to see a woman in that position.
+		अद्य बालानां नाटकं दृष्ट्वा सन्तोषम् अहम् अनुभूतवती |	adya bālānāṃ nāṭakaṃ dṛṣṭvā santoṣam aham anubhūtavatī 	I really enjoyed that children's play today.
+
+---
 
 ध -
 	धिया	dhiyā	by intelligence / by thought
@@ -201,6 +212,9 @@ Json template
 	पुरतः	purataḥ	in front / in front of
 
 ---
+ब -
+	ब्रवीति	bravīti	speak
+---
 
 भ -
 	भगवत्	 	bhagavat	glorious / prosperous / holy
@@ -213,9 +227,6 @@ Json template
 ---
 म -
 	मय 	maya 	made of / consisting of	
----
-ल -
-	लय	laya	rest / death / destruction
 ---
 य -
 	यत्र		yatra	wherever / in or to which place
@@ -234,7 +245,13 @@ Json template
 	राग 	rāga 	vehement desire of / passion
 
 ---
+ल -
+	लय	laya	rest / death / destruction
+---
+
 व -
+	व्यूढ	vyūḍha		wide
+
 	वध्यघातक	vadhyaghātaka	executing criminals
 
 	वितत	vitata	any stringed instrument / wide / far-spreading

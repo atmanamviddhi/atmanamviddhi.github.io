@@ -10,8 +10,7 @@ Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of eac
 
 <h2>श्रीभगवद्गीता</h2>
 
-<h3><i>श्रीमदाचार्याभिनवगुप्तपादप्रणीत-
-गीतार्थसंग्रहाभिख्यव्याख्योपेता</i></h3>
+<h3><i>श्रीमदाचार्याभिनवगुप्तपादप्रणीतगीतार्थसंग्रहाभिख्यव्याख्योपेता</i></h3>
 
 <h3><i>Maṅgala Verses:</i></h3>
 
@@ -115,7 +114,7 @@ Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit with english meaning of eac
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
 
-<h3>Series :</h3>
+<h3>Next posts in series :</h3>
 [Gītārtha-Saṁgraha - Chapter 1 in Sanskrit]({{ site.url }}/blog/2021/07/26/Gitartha-Samgraha-Chapter-1-in-Sanskrit)
 
 <h3>Reference:</h3>

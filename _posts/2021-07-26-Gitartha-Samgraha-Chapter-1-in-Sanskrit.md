@@ -6,6 +6,9 @@ tags:  [Shaivism, Kashmir-Shaivism, Sanskrit, Sanskrit-Vocabulary, Book-Excerpts
 date: 2021-07-26
 ---
 
+<h3>Previous post in series :</h3>
+[Gītārtha-Saṁgraha - Maṅgala Verses in Sanskrit]({{ site.url }}/blog/2021/07/20/Gitartha-Samgraha)
+
 Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word. 
 
 **अथ प्रथमोऽध्याय**
@@ -72,6 +75,19 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | खलु | khalu | verily / Is it not? |
 | जित | jita | won |
 | यावत् | yāvat | up to / until / as soon as |
+{:.table-customised}
+
+**सञ्ञय उवाच**
+
+**दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । <br>
+आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| दृष्ट्वा | dṛṣṭvā | having seen |
+| अनीक | anīka | army / chief |
+| व्यूढ | vyūḍha | wide |
+| ब्रवीति | bravīti | speak |
 {:.table-customised}
 
 *Note : Reading in progress.*

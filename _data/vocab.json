@@ -140,6 +140,20 @@
 					"level":2
 				},
 				{
+					"sanskrit_word" : "अनीक",
+					"eng_transliteration":"anīka",
+					"eng_meaning": "army / chief",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
+				{
 					"sanskrit_word" : "अनुग्राहक",
 					"eng_transliteration":"anugrāhaka",
 					"eng_meaning": "kind",
@@ -745,6 +759,50 @@
 			"level": 1
 		},
 		{
+			"letter":"द",
+			"words": [
+				{
+					"sanskrit_word" : "दृष्ट्वा",
+					"eng_transliteration":"dṛṣṭvā",
+					"eng_meaning": "having seen",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "दृष्ट्वा चकित",
+							"sentence_eng_transliteration": "dṛṣṭvā cakita",
+							"sentence_eng_meaning" : "shy",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "मार्गम् उभयतः दृष्ट्वा प्रतिपक्षं गच्छतु |",
+							"sentence_eng_transliteration": "mārgam ubhayataḥ dṛṣṭvā pratipakṣaṃ gacchatu",
+							"sentence_eng_meaning" : "Look both ways before crossing (the street).",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |",
+							"sentence_eng_transliteration": "tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām",
+							"sentence_eng_meaning" : "They kept looking at each other and smiling.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "तस्मिन् स्थाने एकां महिलां दृष्ट्वा अहं सन्तुष्टः |",
+							"sentence_eng_transliteration": "tasmin sthāne ekāṃ mahilāṃ dṛṣṭvā ahaṃ santuṣṭaḥ",
+							"sentence_eng_meaning" : "I am pleased to see a woman in that position.",
+							"level": 3
+						},
+						{
+							"sanskrit_sentence" : "अद्य बालानां नाटकं दृष्ट्वा सन्तोषम् अहम् अनुभूतवती |",
+							"sentence_eng_transliteration": "adya bālānāṃ nāṭakaṃ dṛṣṭvā santoṣam aham anubhūtavatī",
+							"sentence_eng_meaning" : "I really enjoyed that children's play today.",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"ध",
 			"words": [
 				{
@@ -1027,6 +1085,26 @@
 			"level": 1
 		},
 		{
+			"letter":"ब",
+			"words": [
+				{
+					"sanskrit_word" : "ब्रवीति",
+					"eng_transliteration":"bravīti",
+					"eng_meaning": "speak",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				}
+			],
+			"level": 1
+		},
+		{
 			"letter":"भ",
 			"words": [
 				{
@@ -1217,6 +1295,20 @@
 		{
 			"letter":"व",
 			"words": [
+				{
+					"sanskrit_word" : "व्यूढ",
+					"eng_transliteration":"vyūḍha",
+					"eng_meaning": "wide",
+					"sentences": [
+						{
+							"sanskrit_sentence" : "",
+							"sentence_eng_transliteration": "",
+							"sentence_eng_meaning" : "",
+							"level": 3
+						}
+					],
+					"level":2
+				},
 				{
 					"sanskrit_word" : "वध्यघातक",
 					"eng_transliteration":"vadhyaghātaka",
