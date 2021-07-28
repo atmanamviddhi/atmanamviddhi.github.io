@@ -586,19 +586,15 @@ table, tr, td, th {
 
 .table-customised thead th {
         background-color: #E6A6E3;
-      }
+}
   
-  .table-customised-fix-head {
+.table-customised-fix-head {
         position: sticky;
         top: 0;
         background-color: #E6E6FA !important;
-      }
-
-.ellipses {
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
 }
+
+
 
 .table-customised tr:nth-child(even) {
             background-color: #E6E6FA;
