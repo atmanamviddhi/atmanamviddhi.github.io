@@ -584,6 +584,16 @@ table, tr, td, th {
     
 }
 
+.table-customised thead th {
+        background-color: #E6A6E3;
+      }
+  
+  .table-customised-fix-head {
+        position: sticky;
+        top: 0;
+        background-color: #E6E6FA !important;
+      }
+
 .ellipses {
   overflow: hidden;
   white-space: nowrap;
@@ -665,15 +675,8 @@ table, tr, td, th {
     color: white;
   }
   
-  .table-customised-fix-head {
-        overflow-y: auto;
-        height: 106px;
-      }
-      .table-customised thead th {
-        position: sticky;
-        top: 0;
-        background-color: #E6E6FA;
-      }
+
+      
 
 
 @font-face {
