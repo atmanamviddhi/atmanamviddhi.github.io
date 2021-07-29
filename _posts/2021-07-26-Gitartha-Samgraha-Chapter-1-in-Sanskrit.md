@@ -90,6 +90,55 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | ब्रवीति | bravīti | speak |
 {:.table-customised}
 
+**पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । <br>
+व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥३॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| पश्यति { दृश् } | paśyati { dṛś} | view / see / examine |
+| महती | mahatī | great |
+| चमू | camū | army or division of an army |
+| तव | tava | yours |
+| धीमत् | dhīmat | learned |
+{:.table-customised}
+
+**अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।<br>
+युयुधानो विराटश्च द्रुपदश्च महारथ: ॥४॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अत्र | atra | here / in this place |
+| शूर	 | śūra | brave man |
+| महेष्वास	| maheṣvāsa | great archer |
+| युधि | yudhi | battle / fighting | 
+| युयुधान | yuyudhāna | warrior |
+{:.table-customised}
+
+**धृष्टकेतुश्चेकितान: काशिराजश्च वीर्यवान् । <br>
+पुरुजित् कुन्तिभोजश्च शैव्यश्व नरपुङ्गव: ॥५॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| नरपुङ्गव	| narapuṅgava | excellent hero / man-bull |
+{:.table-customised}
+
+**युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । <br>
+सौभद्रो द्रौपदेयाश्च सर्व एव महारथा: ॥६॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| विक्रान्त	 | vikrānta | strong / warrior |
+{:.table-customised}
+
+**अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।<br>
+नायका मम सैन्यस्य संज्ञार्थं तान् ब्रवीमि ते ॥७॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अस्माकम् | asmākam	| our |
+| सञ्ज्ञार्थम्	| sañjñārtham | for the sake of a sign |
+{:.table-customised}
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

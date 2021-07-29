@@ -1,0 +1,1250 @@
+dictionary:
+  
+  - letter: अ
+    words:
+      
+      - sanskrit_word: अज्ञ
+        eng_transliteration: ajña
+        eng_meaning: ignorant
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: अत्र
+        eng_transliteration: atra
+        eng_meaning: here / in this place
+        sentences:
+          
+          - sanskrit_sentence: अत्र आगच्छ
+            sentence_eng_transliteration: atra āgaccha
+            sentence_eng_meaning: Come here.
+          
+          - sanskrit_sentence: अत्र उपविश
+            sentence_eng_transliteration: atra upaviśa
+            sentence_eng_meaning: Sit here.
+          
+          - sanskrit_sentence: सः अत्र नास्ति
+            sentence_eng_transliteration: saḥ atra nāsti
+            sentence_eng_meaning: He is not here.
+          
+          - sanskrit_sentence: किं अत्र आगमनम्?
+            sentence_eng_transliteration: kiṃ atra āgamanam?
+            sentence_eng_meaning: What made you come here?
+          
+          - sanskrit_sentence: अत्र विश्रामं कुरु
+            sentence_eng_transliteration: atra viśrāmaṃ kuru
+            sentence_eng_meaning: Take rest here!
+          
+          - sanskrit_sentence: अये अत्र आगच्छतु!
+            sentence_eng_transliteration: aye atra āgacchatu!
+            sentence_eng_meaning: 'Hey, come here.'
+          
+          - sanskrit_sentence: अत्र वायुः सुष्ठु वाति
+            sentence_eng_transliteration: atra vāyuḥ suṣṭhu vāti
+            sentence_eng_meaning: Nice breeze here.
+          
+          - sanskrit_sentence: तं अत्र आगन्तुं सूचयतु
+            sentence_eng_transliteration: taṃ atra āgantuṃ sūcayatu
+            sentence_eng_meaning: Ask him to come here.
+      
+      - sanskrit_word: अतः
+        eng_transliteration: ataḥ
+        eng_meaning: therefore / so / hence
+        sentences:
+          
+          - sanskrit_sentence: अतः परम्
+            sentence_eng_transliteration: ataḥ param
+            sentence_eng_meaning: from now on / from then on
+      
+      - sanskrit_word: अन्वय
+        eng_transliteration: anvaya
+        eng_meaning: logical connection of words / syntax / connection / succession
+        sentences:
+          
+          - sanskrit_sentence: कदा आरभ्य अन्वयः?
+            sentence_eng_transliteration: kadā ārabhya anvayaḥ?
+            sentence_eng_meaning: When does it come into effect?
+      
+      - sanskrit_word: अनन्तर
+        eng_transliteration: anantara
+        eng_meaning: afterwards
+        sentences:
+          
+          - sanskrit_sentence: 'अनन्तरदिनम् { अनतरम् - दिनम् }'
+            sentence_eng_transliteration: 'anantaradinam { anataram - dinam}'
+            sentence_eng_meaning: next day
+          
+          - sanskrit_sentence: भवती अनन्तरं उपविशतु
+            sentence_eng_transliteration: bhavatī anantaraṃ upaviśatu
+            sentence_eng_meaning: "You sit down a little later.\t"
+          
+          - sanskrit_sentence: अस्मिन् विषये अनन्तरं वदामि
+            sentence_eng_transliteration: asmin viṣaye anantaraṃ vadāmi
+            sentence_eng_meaning: I'll tell you about it later
+          
+          - sanskrit_sentence: 'इदानीं मास्तु, अनन्तरं ददामि'
+            sentence_eng_transliteration: 'idānīṃ māstu, anantaraṃ dadāmi'
+            sentence_eng_meaning: 'Not now, I will give it to you later.'
+          
+          - sanskrit_sentence: 'कुत्रापि स्थापयति, अनन्तरं मां पृच्छति'
+            sentence_eng_transliteration: 'kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati'
+            sentence_eng_meaning: You put it somewhere and later you are asking me!
+      
+      - sanskrit_word: अनीक
+        eng_transliteration: anīka
+        eng_meaning: army / chief
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: अनुग्राहक
+        eng_transliteration: anugrāhaka
+        eng_meaning: kind
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: 'अयम् { इदम् }'
+        eng_transliteration: 'ayam {idam}'
+        eng_meaning: this
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: अल्पेन
+        eng_transliteration: alpena
+        eng_meaning: for little / cheap
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: अस्मदीय
+        eng_transliteration: asmadīya
+        eng_meaning: our
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: अर्हति
+        eng_transliteration: arhati
+        eng_meaning: deserve / be able
+        sentences:
+          
+          - sanskrit_sentence: एवं भवितुम् अर्हति
+            sentence_eng_transliteration: evaṃ bhavitum arhati
+            sentence_eng_meaning: This is O.K. / all right.
+          
+          - sanskrit_sentence: भवान् एवं कर्तुं अर्हति वा?
+            sentence_eng_transliteration: bhavān evaṃ kartuṃ arhati vā?
+            sentence_eng_meaning: Can you do this?
+
+      - sanskrit_word: अस्माकम्
+        eng_transliteration: asmākam
+        eng_meaning: our
+        sentences:
+          
+          - sanskrit_sentence: इयम् अस्माकं घटी
+            sentence_eng_transliteration: iyam asmākaṃ ghaṭī
+            sentence_eng_meaning: This is our clock.  
+
+          - sanskrit_sentence: एतत् अस्माकं धनं न
+            sentence_eng_transliteration: etat asmākaṃ dhanaṃ na
+            sentence_eng_meaning: This is not our money.
+
+          - sanskrit_sentence: पुनः अस्माकं मिलनं कदा?
+            sentence_eng_transliteration: punaḥ asmākaṃ milanaṃ kadā?
+            sentence_eng_meaning: When shall we meet again?
+
+          - sanskrit_sentence: अग्रिमं स्थानकं अस्माकं वा?
+            sentence_eng_transliteration: agrimaṃ sthānakaṃ asmākaṃ vā?
+            sentence_eng_meaning: Is the next station ours?
+
+  - letter: आ
+    words:
+      
+      - sanskrit_word: आकाङ्क्ष्य
+        eng_transliteration: ākāṅkṣya
+        eng_meaning: desirable
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: आनीय
+        eng_transliteration: ānīya
+        eng_meaning: having brought / bringing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: ए
+    words:
+      
+      - sanskrit_word: एत्य
+        eng_transliteration: etya
+        eng_meaning: having come near
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: एव
+        eng_transliteration: eva
+        eng_meaning: really
+        sentences:
+          
+          - sanskrit_sentence: अत एव
+            sentence_eng_transliteration: ata eva
+            sentence_eng_meaning: for this very reason
+          
+          - sanskrit_sentence: एवम् एव
+            sentence_eng_transliteration: evam eva
+            sentence_eng_meaning: just
+          
+          - sanskrit_sentence: सत्यम् एव
+            sentence_eng_transliteration: satyam eva
+            sentence_eng_meaning: indeed
+          
+          - sanskrit_sentence: किञ्चित् एव
+            sentence_eng_transliteration: kiñcit eva
+            sentence_eng_meaning: A little.
+          
+          - sanskrit_sentence: अद्य एव वा?
+            sentence_eng_transliteration: adya eva vā?
+            sentence_eng_meaning: Is it today?
+          
+          - sanskrit_sentence: इदानीम् एव वा?
+            sentence_eng_transliteration: idānīm eva vā?
+            sentence_eng_meaning: "Is it going to be now?\t"
+  
+  - letter: उ
+    words:
+      
+      - sanskrit_word: उत्पत्ति
+        eng_transliteration: utpatti
+        eng_meaning: production / birth
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: उभौ
+        eng_transliteration: ubhau
+        eng_meaning: both
+        sentences:
+          
+          - sanskrit_sentence: तौ उभौ
+            sentence_eng_transliteration: tau ubhau
+            sentence_eng_meaning: they both
+          
+          - sanskrit_sentence: अहम् उभौ इष्टवती |
+            sentence_eng_transliteration: aham ubhau iṣṭavatī
+            sentence_eng_meaning: I loved them both.
+  
+  - letter: क
+    words:
+      
+      - sanskrit_word: क्रियमाण
+        eng_transliteration: kriyamāṇa
+        eng_meaning: being done
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: करोति
+        eng_transliteration: karoti
+        eng_meaning: do
+        sentences:
+          
+          - sanskrit_sentence: रोदनं करोति
+            sentence_eng_transliteration: rodanaṃ karoti
+            sentence_eng_meaning: cry
+          
+          - sanskrit_sentence: निश्चयं करोति
+            sentence_eng_transliteration: niścayaṃ karoti
+            sentence_eng_meaning: decide
+          
+          - sanskrit_sentence: कलहं करोति
+            sentence_eng_transliteration: kalahaṃ karoti
+            sentence_eng_meaning: quarrel
+      
+      - sanskrit_word: केचन
+        eng_transliteration: kecan
+        eng_meaning: some
+        sentences:
+          
+          - sanskrit_sentence: केचन न समर्थाः
+            sentence_eng_transliteration: kecana na samarthāḥ
+            sentence_eng_meaning: Some are not efficient
+          
+          - sanskrit_sentence: केचन जनाः स्वार्थिनः
+            sentence_eng_transliteration: kecana janāḥ svārthinaḥ
+            sentence_eng_meaning: Some people are selfish
+          
+          - sanskrit_sentence: तस्य केचन दुर्गुणाः सन्ति |
+            sentence_eng_transliteration: tasya kecana durguṇāḥ santi
+            sentence_eng_meaning: He has some very bad habits.
+      
+      - sanskrit_word: कोटि
+        eng_transliteration: koṭi
+        eng_meaning: highest point
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: ख
+    words:
+      
+      - sanskrit_word: खलु
+        eng_transliteration: khalu
+        eng_meaning: verily / Is it not ?
+        sentences:
+          
+          - sanskrit_sentence: न खलु
+            sentence_eng_transliteration: na khalu
+            sentence_eng_meaning: not at all / I hope not
+          
+          - sanskrit_sentence: पीडयति न खलु?
+            sentence_eng_transliteration: pīḍayati na khalu?
+            sentence_eng_meaning: 'It doesnt hurt, does it?'
+          
+          - sanskrit_sentence: भवती तम् इच्छति खलु?
+            sentence_eng_transliteration: bhavatī tam icchati khalu?
+            sentence_eng_meaning: 'You like him, dont you?'
+          
+          - sanskrit_sentence: भवान् तं न पृष्टवान् खलु ?
+            sentence_eng_transliteration: bhavān taṃ na pṛṣṭavān khalu ?
+            sentence_eng_meaning: 'You didnt ask him, did you?'
+  
+  - letter: ग
+    words:
+      
+      - sanskrit_word: गच्छति
+        eng_transliteration: gacchati
+        eng_meaning: he / she / it goes
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: गीयते
+        eng_transliteration: gīyate
+        eng_meaning: be sung or praised in song
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: गूढार्थ
+        eng_transliteration: gūḍhārtha
+        eng_meaning: hidden or mystic sense / having a hidden meaning
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: च
+    words:
+
+      - sanskrit_word: चमू
+        eng_transliteration: camū
+        eng_meaning: army or division of an army
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: चिर
+        eng_transliteration: cira
+        eng_meaning: 'long [time]'
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: ज
+    words:
+      
+      - sanskrit_word: जयति
+        eng_transliteration: jayati
+        eng_meaning: win / be victorious
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: जित
+        eng_transliteration: jita
+        eng_meaning: won
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: त
+    words:
+      
+      - sanskrit_word: त्राण
+        eng_transliteration: trāṇa
+        eng_meaning: protection / shelter
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: ततः
+        eng_transliteration: tataḥ
+        eng_meaning: therefore
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: तथात्व
+        eng_transliteration: tathātva
+        eng_meaning: such a state of things / such a condition / being so
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: तथापि
+        eng_transliteration: tathāpi
+        eng_meaning: then / yet / nevertheless
+        sentences:
+          
+          - sanskrit_sentence: तथापि नूतनं इव प्रतिभाति
+            sentence_eng_transliteration: tathāpi nūtanaṃ iva pratibhāti
+            sentence_eng_meaning: Still it appears to be new.
+          
+          - sanskrit_sentence: "दशवारं पठितवान्, तथापि न स्मरामि\t"
+            sentence_eng_transliteration: 'daśavāraṃ paṭhitavān, tathāpi na smarāmi'
+            sentence_eng_meaning: 'I read it ten times, even then I do not remember.'
+          
+          - sanskrit_sentence: तस्याः नेत्रौ निमीलितौ | तथाऽपि सा न निद्राति इति अहं ज्ञातवती
+            sentence_eng_transliteration: >-
+              tasyāḥ netrau nimīlitau | tathā'pi sā na nidrāti iti ahaṃ
+              jñātavatī
+            sentence_eng_meaning: Her eyes were closed but I knew she was not asleep.
+      
+      - sanskrit_word: तदा
+        eng_transliteration: tadā
+        eng_meaning: then / at that time
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: तव
+        eng_transliteration: tava
+        eng_meaning: yours
+        sentences:
+          
+          - sanskrit_sentence: तव गृहे
+            sentence_eng_transliteration: tava gṛhe
+            sentence_eng_meaning: in your house 
+
+          - sanskrit_sentence: तव मित्रम्
+            sentence_eng_transliteration: tava mitram
+            sentence_eng_meaning: your friend
+
+          - sanskrit_sentence: तव नाम किम्?
+            sentence_eng_transliteration: tava nāma kim?
+            sentence_eng_meaning: What is your name?
+
+          - sanskrit_sentence: एतत् सर्वं तव
+            sentence_eng_transliteration: etat sarvaṃ tava
+            sentence_eng_meaning: It is all yours.
+      
+      - sanskrit_word: तस्मिन्
+        eng_transliteration: tasmin
+        eng_meaning: in that
+        sentences:
+          
+          - sanskrit_sentence: तस्मिन् अहं किमपि न वदामि |
+            sentence_eng_transliteration: tasmin ahaṃ kimapi na vadāmi
+            sentence_eng_meaning: I do not want to say anything in that regard.
+          
+          - sanskrit_sentence: तस्मिन् मम विश्वासः अस्ति |
+            sentence_eng_transliteration: tasmin mama viśvāsaḥ asti
+            sentence_eng_meaning: I believe him.
+      
+      - sanskrit_word: तस्याः
+        eng_transliteration: tasyāḥ
+        eng_meaning: her
+        sentences:
+          
+          - sanskrit_sentence: तस्याः वेला न आसीत्
+            sentence_eng_transliteration: tasyāḥ velā na āsīt
+            sentence_eng_meaning: She did not have time.
+          
+          - sanskrit_sentence: तस्याः पतिः कुत्र वर्तते ?
+            sentence_eng_transliteration: tasyāḥ patiḥ kutra vartate ?
+            sentence_eng_meaning: Where is her husband ?
+          
+          - sanskrit_sentence: तस्याः आह्वानं मया न श्रुतम्
+            sentence_eng_transliteration: tasyāḥ āhvānaṃ mayā na śrutam
+            sentence_eng_meaning: >-
+              Her calling [me] was not heard by me. / I did not hear her calling
+              me.
+      
+      - sanskrit_word: तात्पर्य
+        eng_transliteration: tātparya
+        eng_meaning: sense / meant
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: तावन्त
+        eng_transliteration: tāvanta
+        eng_meaning: so much
+        sentences:
+          
+          - sanskrit_sentence: एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति
+            sentence_eng_transliteration: etasmin stare tāvantaḥ vargāḥ na santi
+            sentence_eng_meaning: There are not that many classrooms in that floor.
+  
+  - letter: द
+    words:
+      
+      - sanskrit_word: दृष्ट्वा
+        eng_transliteration: dṛṣṭvā
+        eng_meaning: having seen
+        sentences:
+          
+          - sanskrit_sentence: दृष्ट्वा चकित
+            sentence_eng_transliteration: dṛṣṭvā cakita
+            sentence_eng_meaning: shy
+          
+          - sanskrit_sentence: मार्गम् उभयतः दृष्ट्वा प्रतिपक्षं गच्छतु |
+            sentence_eng_transliteration: mārgam ubhayataḥ dṛṣṭvā pratipakṣaṃ gacchatu
+            sentence_eng_meaning: Look both ways before crossing (the street).
+          
+          - sanskrit_sentence: तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |
+            sentence_eng_transliteration: tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām
+            sentence_eng_meaning: They kept looking at each other and smiling.
+          
+          - sanskrit_sentence: तस्मिन् स्थाने एकां महिलां दृष्ट्वा अहं सन्तुष्टः |
+            sentence_eng_transliteration: tasmin sthāne ekāṃ mahilāṃ dṛṣṭvā ahaṃ santuṣṭaḥ
+            sentence_eng_meaning: I am pleased to see a woman in that position.
+          
+          - sanskrit_sentence: अद्य बालानां नाटकं दृष्ट्वा सन्तोषम् अहम् अनुभूतवती |
+            sentence_eng_transliteration: >-
+              adya bālānāṃ nāṭakaṃ dṛṣṭvā santoṣam aham
+              anubhūtavatī
+            sentence_eng_meaning: I really enjoyed that children's play today.
+  
+  - letter: ध
+    words:
+      
+      - sanskrit_word: धिया
+        eng_transliteration: dhiyā
+        eng_meaning: by intelligence / by thought
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: धीमत्
+        eng_transliteration: dhīmat
+        eng_meaning: learned
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: न
+    words:
+      
+      - sanskrit_word: न्याय्य
+        eng_transliteration: nyāyya
+        eng_meaning: usual / regular
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: नरपुङ्गव
+        eng_transliteration: narapuṅgava
+        eng_meaning: excellent hero / man-bull
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: नान्तरीयक
+        eng_transliteration: nāntarīyaka
+        eng_meaning: not external / contained or inherent in
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: नित्योदित
+        eng_transliteration: nityodita
+        eng_meaning: risen by itself
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: निधि
+        eng_transliteration: nidhi
+        eng_meaning: treasure / fund
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: निमित्तत्व
+        eng_transliteration: nimittatva
+        eng_meaning: state of being a cause / instrumentality / causality
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: निर्मूल
+        eng_transliteration: nirmūla
+        eng_meaning: rootless / baseless
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: प
+    words:
+      
+      - sanskrit_word: प्रकाशक
+        eng_transliteration: prakāśaka
+        eng_meaning: discoverer / making clear
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: प्रगीत
+        eng_transliteration: pragīta
+        eng_meaning: sing-song or drawling recitation / one who has begun to sing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: प्रथित
+        eng_transliteration: prathita
+        eng_meaning: published / known / spread
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: प्रदर्शयति
+        eng_transliteration: pradarśayati
+        eng_meaning: show / describe/ teach / explain
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: प्रविभाग
+        eng_transliteration: pravibhāga
+        eng_meaning: separation / portion / part
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: प्रस्ताव
+        eng_transliteration: prastāva
+        eng_meaning: proposal / introduction
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: प्रसङ्ग
+        eng_transliteration: prasaṅga
+        eng_meaning: occasion / context
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: परस्पर
+        eng_transliteration: paraspara
+        eng_meaning: mutual / each other
+        sentences:
+          
+          - sanskrit_sentence: तौ परस्परम् अभिमुखं दृष्ट्वा हसन्तौ आस्ताम् |
+            sentence_eng_transliteration: tau parasparam abhimukhaṃ dṛṣṭvā hasantau āstām
+            sentence_eng_meaning: They kept looking at each other and smiling.
+          
+          - sanskrit_sentence: गृहे सहोदरौ सदा परस्परं विवादं कुर्वन्तौ आस्ताम् |
+            sentence_eng_transliteration: gṛhe sahodarau sadā parasparaṃ vivādaṃ kurvantau āstām
+            sentence_eng_meaning: >-
+              The brothers were always arguing with each other when they were
+              home.
+          
+          - sanskrit_sentence: अङ्किता तस्याः प्रबन्धिका च परस्परं सम्यक् न व्यवहरतः |
+            sentence_eng_transliteration: >-
+              aṅkitā tasyāḥ prabandhikā ca parasparaṃ samyak na
+              vyavaharataḥ
+            sentence_eng_meaning: Ankita and her boss are not getting along well.
+      
+      - sanskrit_word: प्राक्तन
+        eng_transliteration: prāktana
+        eng_meaning: prior / previous
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: परिपोषयति
+        eng_transliteration: paripoṣayati
+        eng_meaning: nourish
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: पुरतः
+        eng_transliteration: purataḥ
+        eng_meaning: in front / in front of
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: पश्यति { दृश् }
+        eng_transliteration: paśyati { dṛś}
+        eng_meaning: view / see / examine
+        sentences:
+          
+          - sanskrit_sentence: वैद्यं पश्यतु 
+            sentence_eng_transliteration: vaidyaṃ paśyatu
+            sentence_eng_meaning: Consult a doctor.
+
+          - sanskrit_sentence: आकाशं पश्य
+            sentence_eng_transliteration: ākāśaṃ paśya
+            sentence_eng_meaning: look at the sky
+
+          - sanskrit_sentence: अस्य रुचिं पश्यतु  
+            sentence_eng_transliteration: asya ruciṃ paśyatu
+            sentence_eng_meaning: Taste this, please.
+
+          - sanskrit_sentence: अस्तु, पुनः पश्यामः
+            sentence_eng_transliteration: astu, punaḥ paśyāmaḥ
+            sentence_eng_meaning: OK. Let us meet again.
+
+          - sanskrit_sentence: पुनः कदाचित् पश्यामि
+            sentence_eng_transliteration: punaḥ kadācit paśyāmi
+            sentence_eng_meaning: Meet you again.
+
+          - sanskrit_sentence: मम द्विचक्रिकां पश्य
+            sentence_eng_transliteration: mama dvicakrikāṃ paśya
+            sentence_eng_meaning: Look at my bicycle!
+  
+  - letter: ब
+    words:
+      
+      - sanskrit_word: ब्रवीति
+        eng_transliteration: bravīti
+        eng_meaning: speak
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: भ
+    words:
+      
+      - sanskrit_word: भगवत्
+        eng_transliteration: bhagavat
+        eng_meaning: glorious / prosperous / holy
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: भाव
+        eng_transliteration: bhāva
+        eng_meaning: spirit / sentiment / emotion
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: भास्वत्
+        eng_transliteration: bhāsvat
+        eng_meaning: sun / luminous
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: भूयसा
+        eng_transliteration: bhūyasā
+        eng_meaning: in a high degree / exceedingly
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: म
+    words:
+      
+      - sanskrit_word: मय
+        eng_transliteration: maya
+        eng_meaning: made of / consisting of
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: महती
+        eng_transliteration: mahatī
+        eng_meaning: great
+        sentences:
+          
+          - sanskrit_sentence: महती वृष्टिः
+            sentence_eng_transliteration: mahatī vṛṣṭiḥ
+            sentence_eng_meaning: Heavy rain.
+
+          - sanskrit_sentence: महति प्रत्यूषे
+            sentence_eng_transliteration: mahati pratyūṣe
+            sentence_eng_meaning: early in the morning
+
+          - sanskrit_sentence: महती पादवेदना
+            sentence_eng_transliteration: mahatī pādavedanā
+            sentence_eng_meaning: Terrible leg pain. 
+
+          - sanskrit_sentence: महती घोरिका भोः महारावस्य
+            sentence_eng_transliteration: mahatī ghorikā bhoḥ mahārāvasya
+            sentence_eng_meaning: This big fellow snores loudly.
+
+          - sanskrit_sentence: भगवान् अस्मभ्यं महतीं शक्तिं दत्तवान् अस्ति |
+            sentence_eng_transliteration: sent. bhagavān asmabhyaṃ mahatīṃ śaktiṃ dattavān asti
+            sentence_eng_meaning: The God has bestowed all of us with powerful energy.
+
+      - sanskrit_word: महेष्वास
+        eng_transliteration: maheṣvāsa
+        eng_meaning: great archer
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: य
+    words:
+      
+      - sanskrit_word: यत्र
+        eng_transliteration: yatra
+        eng_meaning: wherever / in or to which place
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: यद्यपि
+        eng_transliteration: yadyapi
+        eng_meaning: although / even though
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: यावत्
+        eng_transliteration: yāvat
+        eng_meaning: up to / until / as soon as
+        sentences:
+          
+          - sanskrit_sentence: न यावत्
+            sentence_eng_transliteration: na yāvat
+            sentence_eng_meaning: unless
+          
+          - sanskrit_sentence: अद्य यावत्
+            sentence_eng_transliteration: adya yāvat
+            sentence_eng_meaning: until today
+          
+          - sanskrit_sentence: कार्यालयः अर्धघण्टां यावत् दूरे अस्ति |
+            sentence_eng_transliteration: kāryālayaḥ ardhaghaṇṭāṃ yāvat dūre asti
+            sentence_eng_meaning: The office is a half-hour drive away.
+          
+          - sanskrit_sentence: विद्यालयः पञ्चनिमेषान् यावत् दूरम् अस्ति |
+            sentence_eng_transliteration: vidyālayaḥ pañcanimeṣān yāvat dūram asti
+            sentence_eng_meaning: The high school is just five minutes away.
+
+      - sanskrit_word: युधि
+        eng_transliteration: yudhi
+        eng_meaning: battle / fighting
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: युयुधान
+        eng_transliteration: yuyudhāna
+        eng_meaning: warrior
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:
+
+  - letter: र
+    words:
+      
+      - sanskrit_word: राग
+        eng_transliteration: rāga
+        eng_meaning: vehement desire of / passion
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: ल
+    words:
+      
+      - sanskrit_word: लय
+        eng_transliteration: laya
+        eng_meaning: rest / death / destruction
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: व
+    words:
+      
+      - sanskrit_word: व्यूढ
+        eng_transliteration: vyūḍha
+        eng_meaning: wide
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: वध्यघातक
+        eng_transliteration: vadhyaghātaka
+        eng_meaning: executing criminals
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:
+
+      - sanskrit_word: विक्रान्त
+        eng_transliteration: vikrānta
+        eng_meaning: strong / warrior
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
+      
+      - sanskrit_word: वितत
+        eng_transliteration: vitata
+        eng_meaning: any stringed instrument / wide / far-spreading
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विध्यात्मक
+        eng_transliteration: vidhyātmaka
+        eng_meaning: consisting of a positive injunction
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विपर्यस्त
+        eng_transliteration: viparyasta
+        eng_meaning: reversed / opposite / inverted
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विभेद
+        eng_transliteration: vibheda
+        eng_meaning: separation / division
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विरहित
+        eng_transliteration: virahita
+        eng_meaning: separated / free from
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विविच्यते
+        eng_transliteration: vivicyate
+        eng_meaning: go asunder / separate
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विश्रान्त
+        eng_transliteration: viśrānta
+        eng_meaning: taking rest / stopped
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: विषयता
+        eng_transliteration: viṣayatā
+        eng_meaning: relation between an object and the knowledge of it
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: श
+    words:
+      
+      - sanskrit_word: शस्ति
+        eng_transliteration: śasti
+        eng_meaning: punishment / order / rule / proclaim
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: शीर्षक
+        eng_transliteration: śīrṣaka
+        eng_meaning: title / verdict
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: शूर
+        eng_transliteration: śūra
+        eng_meaning: brave man
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+  
+  - letter: स
+    words:
+
+      - sanskrit_word: सञ्ज्ञार्थम्
+        eng_transliteration: sañjñārtham
+        eng_meaning: for the sake of a sign
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: समुच्च
+        eng_transliteration: samucca
+        eng_meaning: high
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सङ्घट्ट
+        eng_transliteration: saṅghaṭṭa
+        eng_meaning: rubbing or clashing together
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सन्दिग्ध
+        eng_transliteration: sandigdha
+        eng_meaning: ambiguous / doubtful about / uncertain
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: संमित
+        eng_transliteration: saṃmita
+        eng_meaning: symmetrical
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: संशय
+        eng_transliteration: saṃśaya
+        eng_meaning: doubt
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सम्यक्ता
+        eng_transliteration: samyaktā
+        eng_meaning: rightness / correct manner
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सम
+        eng_transliteration: sama
+        eng_meaning: match
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सकल
+        eng_transliteration: sakala
+        eng_meaning: total / entire
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: स्फुर
+        eng_transliteration: sphura
+        eng_meaning: throb / quiver
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: स्फुरत्
+        eng_transliteration: sphurat
+        eng_meaning: quivering / shaking / trembling
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: स्फुरण
+        eng_transliteration: sphuraṇa
+        eng_meaning: twinkling / shining / flashing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: समासतस्
+        eng_transliteration: samāsatas
+        eng_meaning: concisely
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सर्वज्ञ
+        eng_transliteration: sarvajña
+        eng_meaning: omniscient / all-knowing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: सार्थ
+        eng_transliteration: sārtha
+        eng_meaning: wealthy / useful / troop
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
