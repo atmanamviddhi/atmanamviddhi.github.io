@@ -139,6 +139,42 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | सञ्ज्ञार्थम्	| sañjñārtham | for the sake of a sign |
 {:.table-customised}
 
+**सैन्ये महति ये सर्वे नेतारः शूरसम्मता: । <br>
+भवान् भीष्मश्च कर्णश्च कृप: शल्यो जयद्रथः <br>
+अश्वत्थामा विकर्णश्च सौमदत्तिश्च वीर्यवान् ।॥८॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| सम्मत | sammata | thought highly of |
+{:.table-customised}
+
+**अन्ये च बहवः शूरा मदर्थे त्यक्तजीविता: । <br>
+नानाशस्त्रप्रहरणा नानायुद्धविशारदा: ॥९॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| मदर्थे | madarthe | me |
+| त्यक्त { त्यज् } | tyakta { tyaj } | abandoned |
+| विशारद	| viśārada | skilled or proficient in |
+{:.table-customised}
+
+किंवानेन परिगणनेन, इदं तावद्वस्तुतत्त्वमित्याह
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| परिगण | parigaṇa | house |
+| तावद् | tāvad | during that time / meanwhile |
+| तत्त्व | tattva | true principle |
+{:.table-customised}
+
+**अपर्याप्तं तदस्माकं बल भीमाभिरक्षितम् ।<br>
+पर्याप्तं त्विदमेतेषां बलं भीष्माभिरक्षितम् ॥१०॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अपर्याप्त | aparyāpta | unbounded / insufficient |
+{:.table-customised}
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

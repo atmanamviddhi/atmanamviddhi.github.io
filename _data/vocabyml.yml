@@ -109,6 +109,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: अपर्याप्त
+        eng_transliteration: aparyāpta
+        eng_meaning: unbounded / insufficient
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: 'अयम् { इदम् }'
         eng_transliteration: 'ayam {idam}'
@@ -412,9 +421,35 @@ dictionary:
   - letter: त
     words:
       
+      - sanskrit_word: त्यक्त { त्यज् } 
+        eng_transliteration: tyakta { tyaj }
+        eng_meaning: abandoned
+        sentences:
+          
+          - sanskrit_sentence: धूमपानं गतवर्षे एव अहं त्यक्तवान्
+            sentence_eng_transliteration: dhūmapānaṃ gatavarṣe eva ahaṃ tyaktavān
+            sentence_eng_meaning: I gave up smoking last year.
+
+          - sanskrit_sentence: मया मद्यपानं त्यक्तव्यम् इति मम वैद्यः वदति स्म |
+            sentence_eng_transliteration: mayā madyapānaṃ tyaktavyam iti mama vaidyaḥ vadati sma 
+            sentence_eng_meaning: My doctor was saying that I should give up alcoholic drinks.
+
+          - sanskrit_sentence: भवतः गृहे मम दूरवाणीं त्यक्तवती इति चिन्तयामि |
+            sentence_eng_transliteration: bhavataḥ gṛhe mama dūravāṇīṃ tyaktavatī iti cintayāmi 
+            sentence_eng_meaning: I think I left my cell phone at your house.
+
       - sanskrit_word: त्राण
         eng_transliteration: trāṇa
         eng_meaning: protection / shelter
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: तत्त्व
+        eng_transliteration: tattva
+        eng_meaning: true principle
         sentences:
           
           - sanskrit_sentence: 
@@ -523,6 +558,15 @@ dictionary:
       - sanskrit_word: तात्पर्य
         eng_transliteration: tātparya
         eng_meaning: sense / meant
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: तावद्
+        eng_transliteration: tāvad
+        eng_meaning: during that time / meanwhile
         sentences:
           
           - sanskrit_sentence: 
@@ -751,6 +795,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
       
+      - sanskrit_word: परिगण
+        eng_transliteration: parigaṇa
+        eng_meaning: house
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: परिपोषयति
         eng_transliteration: paripoṣayati
         eng_meaning: nourish
@@ -1071,6 +1124,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: विशारद
+        eng_transliteration: viśārada
+        eng_meaning: skilled or proficient in
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: विषयता
         eng_transliteration: viṣayatā
@@ -1114,18 +1176,27 @@ dictionary:
   - letter: स
     words:
 
-      - sanskrit_word: सञ्ज्ञार्थम्
-        eng_transliteration: sañjñārtham
-        eng_meaning: for the sake of a sign
+      - sanskrit_word: संमित
+        eng_transliteration: saṃmita
+        eng_meaning: symmetrical
         sentences:
           
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
       
-      - sanskrit_word: समुच्च
-        eng_transliteration: samucca
-        eng_meaning: high
+      - sanskrit_word: संशय
+        eng_transliteration: saṃśaya
+        eng_meaning: doubt
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: सञ्ज्ञार्थम्
+        eng_transliteration: sañjñārtham
+        eng_meaning: for the sake of a sign
         sentences:
           
           - sanskrit_sentence: 
@@ -1149,19 +1220,10 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
-      
-      - sanskrit_word: संमित
-        eng_transliteration: saṃmita
-        eng_meaning: symmetrical
-        sentences:
-          
-          - sanskrit_sentence: 
-            sentence_eng_transliteration: 
-            sentence_eng_meaning: 
-      
-      - sanskrit_word: संशय
-        eng_transliteration: saṃśaya
-        eng_meaning: doubt
+
+      - sanskrit_word: सम्मत
+        eng_transliteration: sammata
+        eng_meaning: thought highly of
         sentences:
           
           - sanskrit_sentence: 
@@ -1180,6 +1242,15 @@ dictionary:
       - sanskrit_word: सम
         eng_transliteration: sama
         eng_meaning: match
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: समुच्च
+        eng_transliteration: samucca
+        eng_meaning: high
         sentences:
           
           - sanskrit_sentence: 
