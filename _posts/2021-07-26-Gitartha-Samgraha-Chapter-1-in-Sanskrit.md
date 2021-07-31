@@ -77,7 +77,7 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | यावत् | yāvat | up to / until / as soon as |
 {:.table-customised}
 
-**सञ्ञय उवाच**
+**सञ्जय उवाच**
 
 **दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । <br>
 आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥२॥**
@@ -173,6 +173,34 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | Sanskrit Word | Transliteration | English Meaning | 
 |:--------------:|:---------------:|:--------------:|
 | अपर्याप्त | aparyāpta | unbounded / insufficient |
+{:.table-customised}
+
+भीमसेनाभिरक्षितं पाण्डवीयं बलम् अस्माकमपर्याप्तं-जेतुमशक्यम्, अथवा-अपर्याप्तं-कियत्तदस्मद्वलस्येत्यर्थ:। इदं तु भीष्माभिरक्षितं बलमस्माकं संबन्धि एतेषां-पाण्डवानां पर्याप्तं-जेतुं शक्यम्, यदि वा पर्याप्तं-बहु न समरे जय्यमेतैरिति ॥१०॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| जेतुकाम	| jetukāma | desirous of victory |
+| शक्य | śakya | possible |
+| समर | samara	| battle / war |
+| जय्य | jayya | to be conquered or gained |
+{:.table-customised}
+
+**अयनेषु च सर्वेषु यथाभागमवस्थिता: । <br>
+भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ॥११॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| यथाभागम्	 | yathābhāgam | each in his respective place or in the proper pleasure |
+| स्थित | sthita | standing / staying / existing |
+{:.table-customised}
+
+**तस्य सञ्जनयन् हर्षं कुरुवृद्धः पितामहः ।<br>
+सिंहनादं विनद्योच्चै: शङ्खं दध्मौ प्रतापवान् ॥१२॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| विनादयति { विनद् } | vinādayati { vinad} | fill with noise or cries |
+| दाध्मायते { धम् } | dādhmāyate { dham} | vigorously blowing or kindling |
 {:.table-customised}
 
 *Note : Reading in progress.*

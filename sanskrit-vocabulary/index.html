@@ -24,6 +24,8 @@ description:
 						<br>
 						<button id="show">Show</button>
 						<button id="hide">Hide</button>
+
+						<!-- <button><i class="fa fa-chevron-down" id="drop"></i></button> -->
 					</th>
 				</tr>
 				<tr>
@@ -38,11 +40,14 @@ description:
 					</th>
 				</tr>
 			</thead>
+			
 			<tbody>		
 				{% for obj in site.data.vocabyml.dictionary %}			
 				{% for word in obj.words %}
-					<tr >
+					<tr class="parent">
+						
 						<td class="word_head">
+							
 							<div > {{word.sanskrit_word}} </div>
 						</td>
 
@@ -60,7 +65,7 @@ description:
 						</td> -->
 					</tr>
 					{% for sentence in word.sentences %}
-						<tr class="table-customised-sanskrit-sentence">
+						<tr class="table-customised-sanskrit-sentence cchild">
 							<td >
 								<div>{{sentence.sanskrit_sentence}}</div>
 							</td>

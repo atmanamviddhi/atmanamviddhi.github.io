@@ -399,6 +399,15 @@ dictionary:
   
   - letter: ज
     words:
+
+      - sanskrit_word: जय्य
+        eng_transliteration: jayya
+        eng_meaning: to be conquered or gained
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: जयति
         eng_transliteration: jayati
@@ -412,6 +421,15 @@ dictionary:
       - sanskrit_word: जित
         eng_transliteration: jita
         eng_meaning: won
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: जेतुकाम
+        eng_transliteration: jetukāma
+        eng_meaning: desirous of victory
         sentences:
           
           - sanskrit_sentence: 
@@ -584,6 +602,15 @@ dictionary:
   
   - letter: द
     words:
+
+      - sanskrit_word: दाध्मायते { धम् }
+        eng_transliteration: dādhmāyate { dham}
+        eng_meaning: vigorously blowing or kindling
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: दृष्ट्वा
         eng_transliteration: dṛṣṭvā
@@ -959,6 +986,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: यथाभागम्
+        eng_transliteration: yathābhāgam
+        eng_meaning: each in his respective place or in the proper pleasure
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: यद्यपि
         eng_transliteration: yadyapi
@@ -1079,6 +1115,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: विनादयति { विनद् }
+        eng_transliteration: vinādayati { vinad}
+        eng_meaning: fill with noise or cries
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: विपर्यस्त
         eng_transliteration: viparyasta
@@ -1145,6 +1190,15 @@ dictionary:
   
   - letter: श
     words:
+
+      - sanskrit_word: शक्य
+        eng_transliteration: śakya
+        eng_meaning: possible
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: शस्ति
         eng_transliteration: śasti
@@ -1175,6 +1229,15 @@ dictionary:
   
   - letter: स
     words:
+
+      - sanskrit_word: स्थित
+        eng_transliteration: sthita
+        eng_meaning: standing / staying / existing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: संमित
         eng_transliteration: saṃmita
@@ -1246,7 +1309,16 @@ dictionary:
           
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
-            sentence_eng_meaning: 
+            sentence_eng_meaning:
+
+      - sanskrit_word: समर
+        eng_transliteration: samara
+        eng_meaning: battle / war
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
 
       - sanskrit_word: समुच्च
         eng_transliteration: samucca
