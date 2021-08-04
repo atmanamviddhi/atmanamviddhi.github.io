@@ -367,6 +367,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
       
+      - sanskrit_word: गोमुख
+        eng_transliteration: gomukha
+        eng_meaning: kind of musical instrument
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: गूढार्थ
         eng_transliteration: gūḍhārtha
         eng_meaning: hidden or mystic sense / having a hidden meaning
@@ -791,6 +800,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: पणव
+        eng_transliteration: paṇava
+        eng_meaning: small drum or a kind of cymbal / kind of metre
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: परस्पर
         eng_transliteration: paraspara
@@ -923,6 +941,15 @@ dictionary:
       - sanskrit_word: भूयसा
         eng_transliteration: bhūyasā
         eng_meaning: in a high degree / exceedingly
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: भीर
+        eng_transliteration: bhīra
+        eng_meaning: intimidating
         sentences:
           
           - sanskrit_sentence: 
@@ -1239,6 +1266,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: स्यन्दन
+        eng_transliteration: syandana
+        eng_meaning: war-chariot
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: संमित
         eng_transliteration: saṃmita
         eng_meaning: symmetrical
@@ -1386,6 +1422,27 @@ dictionary:
       - sanskrit_word: सार्थ
         eng_transliteration: sārtha
         eng_meaning: wealthy / useful / troop
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: सुघोष
+        eng_transliteration: sughoṣa
+        eng_meaning: pleasant sound or cry
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+  - letter: ह
+    words:
+
+      - sanskrit_word: हन्यते { हन् }
+        eng_transliteration: hanyate { han}
+        eng_meaning: be struck or killed
         sentences:
           
           - sanskrit_sentence: 

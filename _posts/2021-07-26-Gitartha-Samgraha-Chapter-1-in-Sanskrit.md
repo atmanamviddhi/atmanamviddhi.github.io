@@ -203,6 +203,43 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | दाध्मायते { धम् } | dādhmāyate { dham} | vigorously blowing or kindling |
 {:.table-customised}
 
+**ततः शङ्खाश्च भीर्यश्च पणवानकगोमुखा: । <br>
+सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१३॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| ततः | tataḥ | therefore |
+| भीर | bhīra | intimidating |
+| पणव | paṇava | small drum or a kind of cymbal / kind of metre |
+| गोमुख | gomukha	| kind of musical instrument |
+| हन्यते { हन् } | hanyate { han}| be struck or killed |
+{:.table-customised}
+
+**ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ । <br>
+माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: ॥१४॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| स्यन्दन	| syandana | war-chariot |
+{:.table-customised}
+
+**पाञ्जजन्यं हृषीकेशो देवदत्तं धनञ्जय: । <br>
+पौण्ड्रं दध्मौ महाशङ्ंख भीमकर्मा वृकोदर: ॥१५॥**
+
+**अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिर: । <br>
+नकुलः सहदेवश्व सुघोषमणिपुष्पकौ ॥१६॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| सुघोष | sughoṣa | pleasant sound or cry |
+{:.table-customised}
+
+**काश्यश्च परमेष्वास: शिखण्डी च महारथः ।<br>
+धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित: ॥१७॥**
+
+**पाञ्चालश्च महेष्वासो द्रौपदेयाश्च पञ्ज ये ।<br> 
+सौभद्रश्च महाबाहुः शङ्खान्दध्मु: पृथक् पृथक् ॥१८॥**
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

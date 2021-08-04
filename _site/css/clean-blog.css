@@ -671,6 +671,25 @@ table, tr, td, th {
     color: white;
   }
   
+#checkbox_div
+{
+ width:375px;
+ margin-left:309px;
+}
+
+#checkbox_div li
+{
+ color:white;
+ display:inline-block;
+ margin:5px;
+ font-size:17px;
+ font-weight:bold;
+}
+
+#checkbox_div input[type=checkbox]
+{
+ -webkit-appearance:checkbox;
+}
 
       
 
