@@ -384,6 +384,18 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+  - letter: घ
+    words:
+
+      - sanskrit_word: घोष
+        eng_transliteration: ghoṣa
+        eng_meaning: sound
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: च
     words:
@@ -608,6 +620,15 @@ dictionary:
           - sanskrit_sentence: एतस्मिन् स्तरे तावन्तः वर्गाः न सन्ति
             sentence_eng_transliteration: etasmin stare tāvantaḥ vargāḥ na santi
             sentence_eng_meaning: There are not that many classrooms in that floor.
+
+      - sanskrit_word: तुमुल
+        eng_transliteration: tumula
+        eng_meaning: violent
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: द
     words:
@@ -615,6 +636,15 @@ dictionary:
       - sanskrit_word: दाध्मायते { धम् }
         eng_transliteration: dādhmāyate { dham}
         eng_meaning: vigorously blowing or kindling
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: दारयते { दॄ }   
+        eng_transliteration: dārayate { dṝ}
+        eng_meaning: scatter
         sentences:
           
           - sanskrit_sentence: 
@@ -650,6 +680,15 @@ dictionary:
   
   - letter: ध
     words:
+
+      - sanskrit_word: धार्तराष्ट्र
+        eng_transliteration: dhārtarāṣṭra
+        eng_meaning: kuru / son of dhṛtarāṣṭra
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: धिया
         eng_transliteration: dhiyā
@@ -1101,6 +1140,15 @@ dictionary:
       - sanskrit_word: व्यूढ
         eng_transliteration: vyūḍha
         eng_meaning: wide
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: व्यनुनादयति { व्यनुनद् } 
+        eng_transliteration: vyanunādayati { vyanunad}
+        eng_meaning: fill with noise or cries
         sentences:
           
           - sanskrit_sentence: 

@@ -240,6 +240,18 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 **पाञ्चालश्च महेष्वासो द्रौपदेयाश्च पञ्ज ये ।<br> 
 सौभद्रश्च महाबाहुः शङ्खान्दध्मु: पृथक् पृथक् ॥१८॥**
 
+**स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् । <br>
+नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ॥१९॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| घोष | ghoṣa | sound |
+| धार्तराष्ट्र | dhārtarāṣṭra | kuru / son of dhṛtarāṣṭra |
+| दारयते { दॄ }	 | dārayate { dṝ} | scatter |
+| तुमुल | tumula | violent |
+| व्यनुनादयति { व्यनुनद् } | vyanunādayati { vyanunad} | fill with noise or cries |
+{:.table-customised}
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
