@@ -252,6 +252,30 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | व्यनुनादयति { व्यनुनद् } | vyanunādayati { vyanunad} | fill with noise or cries |
 {:.table-customised}
 
+**अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वज: ।<br>
+प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ॥२०॥ <br>
+हृषीकेशं तदा वाक्यमिदमाह महीपते ।**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अथ | atha | now |
+| प्रवृत्त | pravṛtta | set out from / engaged in |
+| सम्पात | sampāta	| point of intersection / taking place |
+{:.table-customised}
+
+**अर्जुन उवाच**
+<br>
+**सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥ ॥२१॥**
+
+**यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ।<br>
+कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ॥२२॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| योद्धुकाम	 | yoddhukāma | wishing to fight |
+| समुद्यम | samudyama | endeavour / effort |
+{:.table-customised}
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

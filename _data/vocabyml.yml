@@ -57,6 +57,15 @@ dictionary:
           - sanskrit_sentence: अतः परम्
             sentence_eng_transliteration: ataḥ param
             sentence_eng_meaning: from now on / from then on
+
+      - sanskrit_word: अथ
+        eng_transliteration: atha
+        eng_meaning: now
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: अन्वय
         eng_transliteration: anvaya
@@ -1110,6 +1119,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning:
 
+      - sanskrit_word: योद्धुकाम
+        eng_transliteration: yoddhukāma
+        eng_meaning: wishing to fight
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:
+
   - letter: र
     words:
       
@@ -1407,6 +1425,15 @@ dictionary:
       - sanskrit_word: समुच्च
         eng_transliteration: samucca
         eng_meaning: high
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: समुद्यम
+        eng_transliteration: samudyama
+        eng_meaning: endeavour / effort
         sentences:
           
           - sanskrit_sentence: 
