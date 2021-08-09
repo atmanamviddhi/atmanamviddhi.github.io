@@ -887,6 +887,16 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: प्रियचिकीर्षा
+        eng_transliteration: priyacikīrṣā
+        eng_meaning: desire of doing a kindness to 
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
       
       - sanskrit_word: परिगण
         eng_transliteration: parigaṇa
@@ -1040,6 +1050,15 @@ dictionary:
           - sanskrit_sentence: भगवान् अस्मभ्यं महतीं शक्तिं दत्तवान् अस्ति |
             sentence_eng_transliteration: sent. bhagavān asmabhyaṃ mahatīṃ śaktiṃ dattavān asti
             sentence_eng_meaning: The God has bestowed all of us with powerful energy.
+
+      - sanskrit_word: महीक्षित्
+        eng_transliteration: mahīkṣit
+        eng_meaning: earth-ruler / king
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: महेष्वास
         eng_transliteration: maheṣvāsa
@@ -1416,6 +1435,15 @@ dictionary:
       - sanskrit_word: समर
         eng_transliteration: samara
         eng_meaning: battle / war
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
+
+      - sanskrit_word: समवेत
+        eng_transliteration: samaveta
+        eng_meaning: united / assembled
         sentences:
           
           - sanskrit_sentence: 

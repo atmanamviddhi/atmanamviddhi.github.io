@@ -276,6 +276,33 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | समुद्यम | samudyama | endeavour / effort |
 {:.table-customised}
 
+**योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।<br>
+धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव: ॥२३॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| प्रियचिकीर्षा | priyacikīrṣā | desire of doing a kindness to |
+{:.table-customised}
+
+**सञ्जय उवाच**
+
+**एवमुक्तो हृषीकेशो गुडाकेशेन भारत! । <br>
+सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥२४॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| गुडाकेश | guḍākeśa | hero arjuna |
+{:.table-customised}
+
+**भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।<br>
+उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥२५॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| महीक्षित्	 | mahīkṣit | earth-ruler / king |
+| समवेत | samaveta | united / assembled |
+{:.table-customised}
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
