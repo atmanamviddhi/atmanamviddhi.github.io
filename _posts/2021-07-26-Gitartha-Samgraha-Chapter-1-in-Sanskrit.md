@@ -77,6 +77,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | यावत् | yāvat | up to / until / as soon as |
 {:.table-customised}
 
+---
+
 **सञ्जय उवाच**
 
 **दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । <br>
@@ -90,6 +92,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | ब्रवीति | bravīti | speak |
 {:.table-customised}
 
+---
+
 **पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । <br>
 व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥३॥**
 
@@ -101,6 +105,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | तव | tava | yours |
 | धीमत् | dhīmat | learned |
 {:.table-customised}
+
+---
 
 **अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।<br>
 युयुधानो विराटश्च द्रुपदश्च महारथ: ॥४॥**
@@ -114,6 +120,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | युयुधान | yuyudhāna | warrior |
 {:.table-customised}
 
+---
+
 **धृष्टकेतुश्चेकितान: काशिराजश्च वीर्यवान् । <br>
 पुरुजित् कुन्तिभोजश्च शैव्यश्व नरपुङ्गव: ॥५॥**
 
@@ -122,6 +130,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | नरपुङ्गव	| narapuṅgava | excellent hero / man-bull |
 {:.table-customised}
 
+---
+
 **युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । <br>
 सौभद्रो द्रौपदेयाश्च सर्व एव महारथा: ॥६॥**
 
@@ -129,6 +139,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 |:--------------:|:---------------:|:--------------:|
 | विक्रान्त	 | vikrānta | strong / warrior |
 {:.table-customised}
+
+---
 
 **अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।<br>
 नायका मम सैन्यस्य संज्ञार्थं तान् ब्रवीमि ते ॥७॥**
@@ -139,6 +151,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | सञ्ज्ञार्थम्	| sañjñārtham | for the sake of a sign |
 {:.table-customised}
 
+---
+
 **सैन्ये महति ये सर्वे नेतारः शूरसम्मता: । <br>
 भवान् भीष्मश्च कर्णश्च कृप: शल्यो जयद्रथः <br>
 अश्वत्थामा विकर्णश्च सौमदत्तिश्च वीर्यवान् ।॥८॥**
@@ -147,6 +161,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 |:--------------:|:---------------:|:--------------:|
 | सम्मत | sammata | thought highly of |
 {:.table-customised}
+
+---
 
 **अन्ये च बहवः शूरा मदर्थे त्यक्तजीविता: । <br>
 नानाशस्त्रप्रहरणा नानायुद्धविशारदा: ॥९॥**
@@ -167,6 +183,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | तत्त्व | tattva | true principle |
 {:.table-customised}
 
+---
+
 **अपर्याप्तं तदस्माकं बल भीमाभिरक्षितम् ।<br>
 पर्याप्तं त्विदमेतेषां बलं भीष्माभिरक्षितम् ॥१०॥**
 
@@ -185,6 +203,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | जय्य | jayya | to be conquered or gained |
 {:.table-customised}
 
+---
+
 **अयनेषु च सर्वेषु यथाभागमवस्थिता: । <br>
 भीष्ममेवाभिरक्षन्तु भवन्त: सर्व एव हि ॥११॥**
 
@@ -194,6 +214,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | स्थित | sthita | standing / staying / existing |
 {:.table-customised}
 
+---
+
 **तस्य सञ्जनयन् हर्षं कुरुवृद्धः पितामहः ।<br>
 सिंहनादं विनद्योच्चै: शङ्खं दध्मौ प्रतापवान् ॥१२॥**
 
@@ -202,6 +224,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | विनादयति { विनद् } | vinādayati { vinad} | fill with noise or cries |
 | दाध्मायते { धम् } | dādhmāyate { dham} | vigorously blowing or kindling |
 {:.table-customised}
+
+---
 
 **ततः शङ्खाश्च भीर्यश्च पणवानकगोमुखा: । <br>
 सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१३॥**
@@ -215,6 +239,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | हन्यते { हन् } | hanyate { han}| be struck or killed |
 {:.table-customised}
 
+---
+
 **ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ । <br>
 माधव: पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतु: ॥१४॥**
 
@@ -222,6 +248,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 |:--------------:|:---------------:|:--------------:|
 | स्यन्दन	| syandana | war-chariot |
 {:.table-customised}
+
+---
 
 **पाञ्जजन्यं हृषीकेशो देवदत्तं धनञ्जय: । <br>
 पौण्ड्रं दध्मौ महाशङ्ंख भीमकर्मा वृकोदर: ॥१५॥**
@@ -233,6 +261,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 |:--------------:|:---------------:|:--------------:|
 | सुघोष | sughoṣa | pleasant sound or cry |
 {:.table-customised}
+
+---
 
 **काश्यश्च परमेष्वास: शिखण्डी च महारथः ।<br>
 धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित: ॥१७॥**
@@ -252,6 +282,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | व्यनुनादयति { व्यनुनद् } | vyanunādayati { vyanunad} | fill with noise or cries |
 {:.table-customised}
 
+---
+
 **अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वज: ।<br>
 प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डव: ॥२०॥ <br>
 हृषीकेशं तदा वाक्यमिदमाह महीपते ।**
@@ -262,6 +294,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | प्रवृत्त | pravṛtta | set out from / engaged in |
 | सम्पात | sampāta	| point of intersection / taking place |
 {:.table-customised}
+
+---
 
 **अर्जुन उवाच**
 <br>
@@ -276,6 +310,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | समुद्यम | samudyama | endeavour / effort |
 {:.table-customised}
 
+---
+
 **योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।<br>
 धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव: ॥२३॥**
 
@@ -283,6 +319,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 |:--------------:|:---------------:|:--------------:|
 | प्रियचिकीर्षा | priyacikīrṣā | desire of doing a kindness to |
 {:.table-customised}
+
+---
 
 **सञ्जय उवाच**
 
@@ -294,6 +332,8 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | गुडाकेश | guḍākeśa | hero arjuna |
 {:.table-customised}
 
+---
+
 **भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।<br>
 उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥२५॥**
 
@@ -302,6 +342,42 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | महीक्षित्	 | mahīkṣit | earth-ruler / king |
 | समवेत | samaveta | united / assembled |
 {:.table-customised}
+
+---
+
+**तत्रापश्यत्स्थितान्पार्थ: पितृनथ पितामहान् ।<br>
+आचार्यान्मातुलान्भ्रातृन्पुत्रान्पौत्रान्सखींस्तथा ॥२६॥ <br>
+श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ॥२७॥**
+
+**तान्समीक्ष्य स कौन्तेयः सर्वान् बन्धूनवस्थितान् ।<br>
+कृपया परयाविष्टो सीदमानोऽब्रवीदिदम् ॥२८॥**
+
+**अर्जुन उवाच**
+
+**दृष्ट्वे मान्स्वजनान्कृष्ण युयुत्सून्समुपस्थितान् ।<br>
+सीदन्ति मम गात्राणि मुखं च परिशुष्यति ॥२९॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| युयुत्सु | yuyutsu | wishing to fight |
+| समुपस्थित | samupasthita | ready for |
+| परिशुष्यति | pariśuṣyati | wither |
+{:.table-customised}
+
+---
+
+**वेपथुश्च शरीरे मे रोमहर्षश्च जायते । <br>
+गाण्डीवं स्त्रंसते हस्तात्त्वक्चैव परिदह्यते ॥३०॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| वेपथु | vepathu | trembling / tremor |
+| रोमहर्ष | romaharṣa | thrill |
+| जायते | jāyate | take place / happen |
+| परिदह्यते | paridahyate | burn |
+{:.table-customised}
+
+---
 
 *Note : Reading in progress.*
 

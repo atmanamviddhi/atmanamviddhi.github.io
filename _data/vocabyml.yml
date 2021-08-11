@@ -447,6 +447,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: जायते
+        eng_transliteration: jāyate
+        eng_meaning: take place / happen
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: जित
         eng_transliteration: jita
@@ -907,9 +916,27 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: परिदह्यते
+        eng_transliteration: paridahyate
+        eng_meaning: burn
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: परिपोषयति
         eng_transliteration: paripoṣayati
         eng_meaning: nourish
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: परिशुष्यति
+        eng_transliteration: pariśuṣyati
+        eng_meaning: wither
         sentences:
           
           - sanskrit_sentence: 
@@ -1098,6 +1125,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: युयुत्सु
+        eng_transliteration: yuyutsu
+        eng_meaning: wishing to fight
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: यावत्
         eng_transliteration: yāvat
@@ -1153,6 +1189,15 @@ dictionary:
       - sanskrit_word: राग
         eng_transliteration: rāga
         eng_meaning: vehement desire of / passion
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: रोमहर्ष
+        eng_transliteration: romaharṣa
+        eng_meaning: thrill
         sentences:
           
           - sanskrit_sentence: 
@@ -1294,6 +1339,15 @@ dictionary:
       - sanskrit_word: विषयता
         eng_transliteration: viṣayatā
         eng_meaning: relation between an object and the knowledge of it
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: वेपथु
+        eng_transliteration: vepathu
+        eng_meaning: trembling / tremor
         sentences:
           
           - sanskrit_sentence: 
@@ -1462,6 +1516,15 @@ dictionary:
       - sanskrit_word: समुद्यम
         eng_transliteration: samudyama
         eng_meaning: endeavour / effort
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: समुपस्थित
+        eng_transliteration: samupasthita
+        eng_meaning: ready for
         sentences:
           
           - sanskrit_sentence: 
