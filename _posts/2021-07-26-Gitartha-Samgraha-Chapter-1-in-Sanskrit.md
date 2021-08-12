@@ -379,6 +379,33 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 
 ---
 
+**न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः । <br>
+निमित्तानि च पश्यामि विपरीतानि केशव ! ॥३१॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| शक्नोति | śaknoti | be able / can |
+| निमित्त | nimitta | omen / cause |
+{:.table-customised}
+
+---
+
+**न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे । <br>
+न काङ्क्षे विजयं कृष्ण ! न च राज्यं सुखानि च ॥३२॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| हत्वा | hatvā | having been killed |
+| काङ्क्षा | kāṅkṣā | desire |
+{:.table-customised}
+
+---
+
+**किं नो राज्येन गोविन्द ! किं भोगैर्जीवितेन वा । <br>
+येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ॥३३॥**
+
+---
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

@@ -304,6 +304,15 @@ dictionary:
           - sanskrit_sentence: कलहं करोति
             sentence_eng_transliteration: kalahaṃ karoti
             sentence_eng_meaning: quarrel
+
+      - sanskrit_word: काङ्क्षा
+        eng_transliteration: kāṅkṣā
+        eng_meaning: desire
+        sentences:
+          
+          - sanskrit_sentence: रोदनं करोति
+            sentence_eng_transliteration: rodanaṃ karoti
+            sentence_eng_meaning: cry
       
       - sanskrit_word: केचन
         eng_transliteration: kecan
@@ -773,6 +782,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: निमित्त
+        eng_transliteration: nimitta
+        eng_meaning: omen / cause
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: निमित्तत्व
         eng_transliteration: nimittatva
@@ -918,7 +936,7 @@ dictionary:
 
       - sanskrit_word: परिदह्यते
         eng_transliteration: paridahyate
-        eng_meaning: burn
+        eng_meaning: burnt
         sentences:
           
           - sanskrit_sentence: 
@@ -1357,6 +1375,31 @@ dictionary:
   - letter: श
     words:
 
+      - sanskrit_word: शक्नोति
+        eng_transliteration: śaknoti
+        eng_meaning: be able / can
+        sentences:
+          
+          - sanskrit_sentence: श्वः आगन्तुं शक्नोति
+            sentence_eng_transliteration: śvaḥ āgantuṃ śaknoti
+            sentence_eng_meaning: she can come tomorrow
+
+          - sanskrit_sentence: अहं गन्तुं न शक्नोमि
+            sentence_eng_transliteration: ahaṃ gantuṃ na śaknomi
+            sentence_eng_meaning: I cannot go.
+
+          - sanskrit_sentence: भवान् एव कर्तुं शक्नोति |
+            sentence_eng_transliteration: bhavān eva kartuṃ śaknoti 
+            sentence_eng_meaning: You can do that yourself.
+
+          - sanskrit_sentence: तरणं कर्तुम् अहं न शक्नोमि |
+            sentence_eng_transliteration: taraṇaṃ kartum ahaṃ na śaknomi 
+            sentence_eng_meaning: I do not know how to swim.
+
+          - sanskrit_sentence: भवान् तानि उन्नेतुं शक्नोति वा ?
+            sentence_eng_transliteration: bhavān tāni unnetuṃ śaknoti vā ?
+            sentence_eng_meaning: Can you lift it by yourself?
+
       - sanskrit_word: शक्य
         eng_transliteration: śakya
         eng_meaning: possible
@@ -1605,6 +1648,15 @@ dictionary:
 
   - letter: ह
     words:
+
+      - sanskrit_word: हत्वा
+        eng_transliteration: hatvā
+        eng_meaning: having been killed 
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: हन्यते { हन् }
         eng_transliteration: hanyate { han}
