@@ -43,7 +43,22 @@ The second, ***Maiya Mala***, is the **Impurity of Delusion** that develops from
 
 ---
 
-Download pdf - [Shri Shiva Rahasya](https://archive.org/details/ShriShivaRahasya){:target="_blank"},  [Bhāvopahāra of Cakrapāṇinātha](https://archive.org/details/TheBhavopaharaOfCakrapaniNathaEnricaGarzilli/page/47/mode/2up){:target="_blank"}
+**If man is really divine, why is he so imperfect and stands in need of the power of the inner Self?** 
+
+The divine plan of evolution contains two movements. There is first of all gradual descent of the Self in inconscient matter. Two things happen in this process of descent. The empirical being forgets his essential divine nature. This is ***āṇava mala***. 
+
+Secondly, he gets confined to subtle and gross bodies. This is ***māyiya mala***. As he is engaged in all sorts of good and bad acts, these leave behind their impressions in his mind which act as a strong force dragging him down to material existence of further experiences. This is ***Kārma mala***. 
+
+These limiting conditions are called aśuddhi (impurity, limitation).
+
+It is only at the human level that ascent to the divine status can start. The main obstacle in his ascent is his pseudo-self that arrogates to itself the status of the main actor in the drama. This pseudo-self has been called ksobha in the verse, for it is this that is responsible for all the fret and fever of life. When this is dissolved, then Self-forgetfulness is replaced by Self-recollection and man's evolution is complete.
+
+-- *Spanda-Kārikās The Divine Creative Pulsation (1.9), Exposition*
+
+---
+
+Download pdf - [Shri Shiva Rahasya](https://archive.org/details/ShriShivaRahasya){:target="_blank"},  [Bhāvopahāra of Cakrapāṇinātha](https://archive.org/details/TheBhavopaharaOfCakrapaniNathaEnricaGarzilli/page/47/mode/2up){:target="_blank"},  [Spanda-Kārikās The Divine Creative Pulsation](https://archive.org/details/spandakarikasthedivinecreativepulsation/page/n3/mode/2up){:target="_blank"}
 
 <h3>Amazon Affiliate Link:</h3>
 <a target="_blank"  href="https://www.amazon.in/gp/product/8120804074/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8120804074&linkCode=as2&tag=0106d-21&linkId=a22bcb72e2d1ad383b4e4b179c57a9ad"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8120804074&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
+<a target="_blank"  href="https://www.amazon.in/gp/product/8120808215/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8120808215&linkCode=as2&tag=0106d-21&linkId=b7020e3160c1e055eecf2c9428057d1c"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&MarketPlace=IN&ASIN=8120808215&ServiceVersion=20070822&ID=AsinImage&WS=1&Format=_SL250_&tag=0106d-21" ></a>
