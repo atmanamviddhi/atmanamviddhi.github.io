@@ -404,6 +404,23 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 **किं नो राज्येन गोविन्द ! किं भोगैर्जीवितेन वा । <br>
 येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ॥३३॥**
 
+**त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च । <br>
+आचार्याः पितरः पुत्रास्तथैव च पितामहाः ॥३४॥**
+
+**मातुलाः श्वशुराः पौत्राः स्यालाः सम्बन्धिनस्तथा । <br>
+एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ! ॥३५॥ <br>
+अपि त्रैलोक्यराज्यस्य हेतोः किंमु महीकृते ।**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| श्वशुर | śvaśura | father-in-law |
+| स्याल | syāla | brother-in-law |
+| हन्तुमनस् | hantumanas | intending to kill |
+| घ्न | ghna | striking with / killing |
+| हेतो | heto | for the sake of |
+{:.table-customised}
+
+
 ---
 
 *Note : Reading in progress.*

@@ -406,6 +406,15 @@ dictionary:
   - letter: घ
     words:
 
+      - sanskrit_word: घ्न
+        eng_transliteration: ghna
+        eng_meaning: striking with / killing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: घोष
         eng_transliteration: ghoṣa
         eng_meaning: sound
@@ -1375,6 +1384,15 @@ dictionary:
   - letter: श
     words:
 
+      - sanskrit_word: श्वशुर
+        eng_transliteration: śvaśura
+        eng_meaning: father-in-law
+        sentences:
+          
+          - sanskrit_sentence: श्वः आगन्तुं शक्नोति
+            sentence_eng_transliteration: śvaḥ āgantuṃ śaknoti
+            sentence_eng_meaning: she can come tomorrow
+
       - sanskrit_word: शक्नोति
         eng_transliteration: śaknoti
         eng_meaning: be able / can
@@ -1451,6 +1469,15 @@ dictionary:
       - sanskrit_word: स्यन्दन
         eng_transliteration: syandana
         eng_meaning: war-chariot
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: स्याल
+        eng_transliteration: syāla
+        eng_meaning: brother-in-law
         sentences:
           
           - sanskrit_sentence: 
@@ -1658,9 +1685,27 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: हन्तुमनस्
+        eng_transliteration: hantumanas
+        eng_meaning: intending to kill
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: हन्यते { हन् }
         eng_transliteration: hanyate { han}
         eng_meaning: be struck or killed
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: हेतो
+        eng_transliteration: heto
+        eng_meaning: for the sake of
         sentences:
           
           - sanskrit_sentence: 
