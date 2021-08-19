@@ -200,6 +200,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: आततायिन्
+        eng_transliteration: ātatāyin
+        eng_meaning: one whose bow is drawn to take another's life
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: आनीय
         eng_transliteration: ānīya
@@ -313,6 +322,15 @@ dictionary:
           - sanskrit_sentence: रोदनं करोति
             sentence_eng_transliteration: rodanaṃ karoti
             sentence_eng_meaning: cry
+
+      - sanskrit_word: कारित
+        eng_transliteration: kārita
+        eng_meaning: caused to be made or done
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: केचन
         eng_transliteration: kecan
@@ -893,6 +911,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: परतन्त्र
+        eng_transliteration: paratantra
+        eng_meaning: be slave of another
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: परस्पर
         eng_transliteration: paraspara
@@ -1007,6 +1034,15 @@ dictionary:
           - sanskrit_sentence: मम द्विचक्रिकां पश्य
             sentence_eng_transliteration: mama dvicakrikāṃ paśya
             sentence_eng_meaning: Look at my bicycle!
+
+      - sanskrit_word: पातक
+        eng_transliteration: pātaka
+        eng_meaning: crime
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: ब
     words:
@@ -1697,6 +1733,15 @@ dictionary:
       - sanskrit_word: हन्यते { हन् }
         eng_transliteration: hanyate { han}
         eng_meaning: be struck or killed
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: हनन
+        eng_transliteration: hanana
+        eng_meaning: killing
         sentences:
           
           - sanskrit_sentence: 
