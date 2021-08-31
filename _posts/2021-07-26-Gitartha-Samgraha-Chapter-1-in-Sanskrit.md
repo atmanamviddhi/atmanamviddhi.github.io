@@ -496,6 +496,28 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 | उत्सन्न | utsanna | destroyed / in ruins |
 {:.table-customised}
 
+विशेषफलबुद्धद्या हन्तव्यादिविशेषबुद्धया च हननं महापातकमिति। एतदेव संक्षिप्याभिधातुं परितापातिशयसूचनायात्मगतमेवार्जुनो वचनमाह
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| हन्त | hanta | expressing wonder or sorrow |
+{:.table-customised}
+
+---
+
+**अहो वत महत्पापं कर्तुं व्यवसिता वयम् । <br>
+यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥४५॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अहो | aho	| Ah [implying joyful or painful surprise] |
+| व्यवसित	| vyavasita | done / resolution |
+{:.table-customised}
+
+वयमिति -- कौरवपाण्डवभेदभिन्ना: सर्व एवेत्यर्थ: ॥४५॥ <br>
+
+एवं सर्वेष्वविवेकिषु मम विवेकिन: किमुचितम्, उचित तावद्युद्धान्निवर्तनम; एतत्तूचिततरमित्याह
+
 ---
 
 *Note : Reading in progress.*

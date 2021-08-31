@@ -189,6 +189,15 @@ dictionary:
             sentence_eng_transliteration: agrimaṃ sthānakaṃ asmākaṃ vā?
             sentence_eng_meaning: Is the next station ours?
 
+      - sanskrit_word: अहो
+        eng_transliteration: aho
+        eng_meaning: Ah [implying joyful or painful surprise]
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
   - letter: आ
     words:
       
@@ -1336,6 +1345,15 @@ dictionary:
   - letter: व
     words:
       
+      - sanskrit_word: व्यवसित
+        eng_transliteration: vyavasita
+        eng_meaning: done / resolution
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: व्यूढ
         eng_transliteration: vyūḍha
         eng_meaning: wide
@@ -1769,6 +1787,15 @@ dictionary:
       - sanskrit_word: हत्वा
         eng_transliteration: hatvā
         eng_meaning: having been killed 
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: हन्त
+        eng_transliteration: hanta
+        eng_meaning: expressing wonder or sorrow
         sentences:
           
           - sanskrit_sentence: 
