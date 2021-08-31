@@ -271,6 +271,24 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: उत्सन्न
+        eng_transliteration: utsanna
+        eng_meaning: destroyed / in ruins
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: उत्साद
+        eng_transliteration: utsāda
+        eng_meaning: vanishing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: उभौ
         eng_transliteration: ubhau
@@ -357,6 +375,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: कृत्स्न
+        eng_transliteration: kṛtsna
+        eng_meaning: all / whole
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:
   
   - letter: ख
     words:
@@ -465,6 +492,15 @@ dictionary:
   
   - letter: ज
     words:
+
+      - sanskrit_word: ज्ञेय
+        eng_transliteration: jñeya
+        eng_meaning: to be known
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: जय्य
         eng_transliteration: jayya
@@ -774,6 +810,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: नरकायते
+        eng_transliteration: narakāyate
+        eng_meaning: resemble or be similar to hell 
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: नरपुङ्गव
         eng_transliteration: narapuṅgava
         eng_meaning: excellent hero / man-bull
@@ -870,6 +915,15 @@ dictionary:
       - sanskrit_word: प्रदर्शयति
         eng_transliteration: pradarśayati
         eng_meaning: show / describe/ teach / explain
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रदुष्यति
+        eng_transliteration: praduṣyati
+        eng_meaning: commit an offence against / become faithless
         sentences:
           
           - sanskrit_sentence: 
@@ -1751,6 +1805,18 @@ dictionary:
       - sanskrit_word: हेतो
         eng_transliteration: heto
         eng_meaning: for the sake of
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+  - letter: क्ष
+    words:
+
+      - sanskrit_word: क्षय
+        eng_transliteration: kṣaya
+        eng_meaning: decay
         sentences:
           
           - sanskrit_sentence: 

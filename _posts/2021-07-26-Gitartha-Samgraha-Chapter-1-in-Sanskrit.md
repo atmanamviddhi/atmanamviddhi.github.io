@@ -447,6 +447,57 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 
 ---
 
+**स्वजनं हि कथं हत्वा सुखिनः स्याम माधव !। <br>
+यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ॥३८॥ <br>
+कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् । <br>
+कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ॥३९॥ <br>
+कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ! ।** 
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| पातक | pātaka | crime |
+| ज्ञेय | jñeya | to be known |
+{:.table-customised}
+
+---
+
+**कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ॥४०॥<br>
+धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत । <br>
+अधर्माभिभवात् ! कृष्ण प्रदुष्यन्ति कुलस्त्रियः ॥४१॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| क्षय | kṣaya | decay |
+| कृत्स्न | kṛtsna | all / whole |
+| प्रदुष्यति | praduṣyati | commit an offence against / become faithless |
+{:.table-customised}
+
+---
+
+**स्त्रीषु दुष्टासु वार्ष्णेय ! जायते वर्णसङ्करः । <br>
+सङ्करो नरकायैव कुलघ्नानां कुलस्य च ॥४२॥ <br>
+पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः । <br>
+दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ॥४३॥ <br>
+उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ।** 
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| नरकायते | narakāyate | resemble or be similar to hell |
+| उत्साद | utsāda | vanishing |
+{:.table-customised}
+
+---
+
+**उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ! ॥४४॥ <br>
+नरके नियतं वासो भवतीत्यनुशुश्रुम ।**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| उत्सन्न | utsanna | destroyed / in ruins |
+{:.table-customised}
+
+---
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
