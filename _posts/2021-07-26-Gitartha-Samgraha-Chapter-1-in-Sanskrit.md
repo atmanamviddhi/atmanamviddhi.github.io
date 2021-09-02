@@ -520,6 +520,52 @@ Gītārtha-Saṁgraha - Chapter 1 in Sanskrit with english meaning of each word.
 
 ---
 
+**यदिमामप्रतीकारमशस्त्रं शस्त्रपाणयः  । <br>
+धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥४६॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| प्रतीकार | pratīkāra | revenge |
+| क्षेमतर | kṣematara | greater happiness / more comfortable state |
+{:.table-customised}
+
+---
+**सञ्जय उवाच**
+
+**एवमुक्त्वाऽर्जुनः संख्ये रथोपस्थ उपाविशत्  । <br>
+विसृज्य सशरं चापं शोकसंविग्नमानसः॥४७॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| रथोपस्थ	| rathopastha | seat of a chariots |
+| विसृज्य | visṛjya | to be sent out or let go / to be produced or effected |
+| सशर | saśara | together with an arrow |
+| चाप | cāpa | bow |
+| संविग्न | saṃvigna | fallen into |
+{:.table-customised}
+
+---
+
+**अत्र संग्रहश्लोकः**
+
+विद्याविद्यो भयाघातसंघट्ट विवशीकृत: <br>
+युक्त्या द्वयमपि त्यक्त्वा निर्विवेको भवेन्मुनि: ॥१॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| विद्याविद्	 | vidyāvid | learned |
+| सङ्घट्टा	 | saṅghaṭṭā | large creeper |
+| विवशीकृत | vivaśīkṛta | checked |
+| त्यक्त्वा	 | tyaktvā | having abandoned |
+{:.table-customised}
+
+---
+
+**इति श्रीमहामाहेश्वराचार्यवर्यराजानकाभिनवगुप्तपादविरचिते <br>
+श्रीमद्भवद्गीतार्थसंग्रहे प्रथमोऽध्याय: । १ । इति शिवम्**
+
+---
+
 *Note : Reading in progress.*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)

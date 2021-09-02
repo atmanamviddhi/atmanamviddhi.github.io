@@ -489,6 +489,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: चाप
+        eng_transliteration: cāpa
+        eng_meaning: bow
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: चिर
         eng_transliteration: cira
@@ -558,6 +567,31 @@ dictionary:
   
   - letter: त
     words:
+
+      - sanskrit_word: त्यक्त्वा
+        eng_transliteration: tyaktvā
+        eng_meaning: having abandoned
+        sentences:
+          
+          - sanskrit_sentence: अहं गृहे एव त्यक्त्वा आगतवान्
+            sentence_eng_transliteration: ahaṃ gṛhe eva tyaktvā āgatavān
+            sentence_eng_meaning: I have left it at home. 
+
+          - sanskrit_sentence: दूरवाणीं त्यक्त्वा कार्यं करोतु कृपया |
+            sentence_eng_transliteration: dūravāṇīṃ tyaktvā kāryaṃ karotu kṛpayā 
+            sentence_eng_meaning: Can you get to work, instead of being on the phone?
+
+          - sanskrit_sentence: माम् एकान्तं त्यक्त्वा झटिति निर्गच्छतु |
+            sentence_eng_transliteration: mām ekāntaṃ tyaktvā jhaṭiti nirgacchatu 
+            sentence_eng_meaning: Just go away and leave me alone!
+
+          - sanskrit_sentence: स्नेहितं तं त्यक्त्वा सा अन्येन सह अस्ति |
+            sentence_eng_transliteration: snehitaṃ taṃ tyaktvā sā anyena saha asti 
+            sentence_eng_meaning: She's finished with that boyfriend and found herself another one. 
+
+          - sanskrit_sentence: सः मुख्यद्वारं त्यक्त्वा पृष्ठद्वारेण निर्गतवान् |
+            sentence_eng_transliteration: saḥ mukhyadvāraṃ tyaktvā pṛṣṭhadvāreṇa nirgatavān 
+            sentence_eng_meaning: He avoided the main exit and took the back exit.
       
       - sanskrit_word: त्यक्त { त्यज् } 
         eng_transliteration: tyakta { tyaj }
@@ -906,6 +940,15 @@ dictionary:
       - sanskrit_word: प्रगीत
         eng_transliteration: pragīta
         eng_meaning: sing-song or drawling recitation / one who has begun to sing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रतीकार
+        eng_transliteration: pratīkāra
+        eng_meaning: revenge
         sentences:
           
           - sanskrit_sentence: 
@@ -1311,6 +1354,14 @@ dictionary:
 
   - letter: र
     words:
+      - sanskrit_word: रथोपस्थ
+        eng_transliteration: rathopastha
+        eng_meaning: seat of a chariots
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: राग
         eng_transliteration: rāga
@@ -1480,6 +1531,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: विसृज्य
+        eng_transliteration: visṛjya
+        eng_meaning: to be sent out or let go / to be produced or effected
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: वेपथु
         eng_transliteration: vepathu
         eng_meaning: trembling / tremor
@@ -1595,6 +1655,15 @@ dictionary:
       - sanskrit_word: संमित
         eng_transliteration: saṃmita
         eng_meaning: symmetrical
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: संविग्न
+        eng_transliteration: saṃvigna
+        eng_meaning: fallen into
         sentences:
           
           - sanskrit_sentence: 
@@ -1762,10 +1831,19 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: सशर
+        eng_transliteration: sarvajña
+        eng_meaning: omniscient / all-knowing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: सार्थ
-        eng_transliteration: sārtha
-        eng_meaning: wealthy / useful / troop
+        eng_transliteration: saśara
+        eng_meaning: together with an arrow
         sentences:
           
           - sanskrit_sentence: 
@@ -1849,3 +1927,12 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: क्षेमतर
+        eng_transliteration: kṣematara
+        eng_meaning: greater happiness / more comfortable state
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:
