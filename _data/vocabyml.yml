@@ -100,6 +100,15 @@ dictionary:
           - sanskrit_sentence: 'कुत्रापि स्थापयति, अनन्तरं मां पृच्छति'
             sentence_eng_transliteration: 'kutrāpi sthāpayati, anantaraṃ māṃ pṛcchati'
             sentence_eng_meaning: You put it somewhere and later you are asking me!
+
+      - sanskrit_word: अनार्यजुष्ट
+        eng_transliteration: anāryajuṣṭa
+        eng_meaning: or possessed by non-Aryas
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: अनीक
         eng_transliteration: anīka
@@ -341,6 +350,15 @@ dictionary:
             sentence_eng_transliteration: kalahaṃ karoti
             sentence_eng_meaning: quarrel
 
+      - sanskrit_word: कश्मलमय
+        eng_transliteration: kaśmalamaya
+        eng_meaning: filled with or producing distress of mind
+        sentences:
+          
+          - sanskrit_sentence: रोदनं करोति
+            sentence_eng_transliteration: rodanaṃ karoti
+            sentence_eng_meaning: cry
+
       - sanskrit_word: काङ्क्षा
         eng_transliteration: kāṅkṣā
         eng_meaning: desire
@@ -353,6 +371,15 @@ dictionary:
       - sanskrit_word: कारित
         eng_transliteration: kārita
         eng_meaning: caused to be made or done
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: कुतस्त्य
+        eng_transliteration: kutastya
+        eng_meaning: coming from where?
         sentences:
           
           - sanskrit_sentence: 
@@ -1521,6 +1548,24 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: विष्ट
+        eng_transliteration: viṣṭa
+        eng_meaning: filled or accompanied with
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: विषम
+        eng_transliteration: viṣama
+        eng_meaning: dangerous / uneven
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: विषयता
         eng_transliteration: viṣayatā
@@ -1771,7 +1816,7 @@ dictionary:
 
       - sanskrit_word: समुपस्थित
         eng_transliteration: samupasthita
-        eng_meaning: ready for
+        eng_meaning: ready for / arisen / appeared
         sentences:
           
           - sanskrit_sentence: 
@@ -1844,6 +1889,15 @@ dictionary:
       - sanskrit_word: सार्थ
         eng_transliteration: saśara
         eng_meaning: together with an arrow
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: सीदति
+        eng_transliteration: sīdati
+        eng_meaning: despair
         sentences:
           
           - sanskrit_sentence: 
