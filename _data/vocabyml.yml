@@ -227,6 +227,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: आदौ
+        eng_transliteration: ādau
+        eng_meaning: initially / at the beginning
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: आनीय
         eng_transliteration: ānīya
@@ -323,10 +332,28 @@ dictionary:
   
   - letter: क
     words:
+
+      - sanskrit_word: क्रमात्
+        eng_transliteration: kramāt
+        eng_meaning: gradually
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: क्रियमाण
         eng_transliteration: kriyamāṇa
         eng_meaning: being done
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: क्लैब्य
+        eng_transliteration: klaibya
+        eng_meaning: cowardice
         sentences:
           
           - sanskrit_sentence: 
@@ -1048,6 +1075,15 @@ dictionary:
       - sanskrit_word: परतन्त्र
         eng_transliteration: paratantra
         eng_meaning: be slave of another
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: परन्तप
+        eng_transliteration: parantapa
+        eng_meaning: destroying foes
         sentences:
           
           - sanskrit_sentence: 

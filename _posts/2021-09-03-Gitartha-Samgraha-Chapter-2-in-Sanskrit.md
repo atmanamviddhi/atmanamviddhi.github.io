@@ -43,9 +43,31 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 | अनार्यजुष्ट | anāryajuṣṭa | or possessed by non-Aryas |
 {:.table-customised}
 
+आदौ लोकव्यवहाराश्रयेणैव श्रीभगवानर्जुनं प्रतिबोधयति, क्रमात्तु ज्ञानं करिष्यतीति, अत: 'अनार्यजुष्टम्' इत्याह ॥२॥
+
+क्लैव्यादिभिर्निर्भर्त्सनमभिदधदधर्मे तव धर्माभिमानोऽयमित्यादि दर्शयति
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| आदौ | ādau | initially / at the beginning |
+| क्रमात् | kramāt | gradually |
+{:.table-customised}
+
 ---
 
-*Reading in Progress*
+**मा क्लैब्यं गच्छ कौन्तेय नैतत्त्वय्युपपद्यते ।<br>
+क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥३॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| क्लैब्य | klaibya | cowardice |
+| परन्तप | parantapa | destroying foes |
+{:.table-customised}
+
+
+---
+
+*Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
 
