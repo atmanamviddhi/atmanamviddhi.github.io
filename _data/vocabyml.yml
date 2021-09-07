@@ -1212,6 +1212,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: पूजार्ह
+        eng_transliteration: pūjārha
+        eng_meaning: respectable / worthy of reverence or honour
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: ब
     words:

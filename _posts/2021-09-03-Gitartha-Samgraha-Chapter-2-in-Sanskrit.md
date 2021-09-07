@@ -64,6 +64,24 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 | परन्तप | parantapa | destroying foes |
 {:.table-customised}
 
+---
+
+**अर्जुन उवाच**
+
+**कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन ।<br>
+इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन  ॥४॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| पूजार्ह | pūjārha | respectable / worthy of reverence or honour |
+{:.table-customised}
+
+---
+
+**गुरूनहत्वा हि महानुभावा- <br>
+ञ्छ्रेयश्चर्तुं भैक्ष्यमपीह लोके ।<br>
+न त्वर्थकामस्तु गुरून्निहत्य <br>
+भुञ्जीय भोगान् रुधिरप्रदिग्धान्॥ ५॥**
 
 ---
 
