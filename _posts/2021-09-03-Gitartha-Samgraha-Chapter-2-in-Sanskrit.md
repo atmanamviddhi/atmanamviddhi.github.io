@@ -83,6 +83,24 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 न त्वर्थकामस्तु गुरून्निहत्य <br>
 भुञ्जीय भोगान् रुधिरप्रदिग्धान्॥ ५॥**
 
+'भीष्म द्रोणंच' इत्यादिना, 'भुञ्जीय भोगान्' इत्यनेन च कर्मविशेषानु-सन्धानं फलविशेषानुसन्धानं च हेयतया पूर्वपक्षे सूचयति ॥५॥
+
+---
+
+**नैतद्विद्मः कतरन्नो गरीयो <br>
+यद्वा जयेम यदि वा नो जयेयुः । <br>
+यानेव हत्वा न जिजीविषाम- <br>
+स्ते नः स्थिताः प्रमुखे धार्तराष्ट्राः ॥६॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| कतर | katara | which of the two? |
+| गरीयस् | garīyas | more precious or valuable |
+| यद्वा ... यदि वा { वा } | yadvā ... yadi vā { vā} | if ... or if [or] |
+| जिजीविषा	| jijīviṣā | desire to live |
+{:.table-customised}
+
+
 ---
 
 *Note : Reading in Progress*

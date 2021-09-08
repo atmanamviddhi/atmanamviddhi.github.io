@@ -359,6 +359,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: कतर
+        eng_transliteration: katara
+        eng_meaning: which of the two?
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: करोति
         eng_transliteration: karoti
@@ -483,6 +492,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: गरीयस्
+        eng_transliteration: garīyas
+        eng_meaning: more precious or valuable
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: गीयते
         eng_transliteration: gīyate
@@ -595,6 +613,15 @@ dictionary:
       - sanskrit_word: जायते
         eng_transliteration: jāyate
         eng_meaning: take place / happen
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: जिजीविषा
+        eng_transliteration: jijīviṣā
+        eng_meaning: desire to live
         sentences:
           
           - sanskrit_sentence: 
@@ -1361,6 +1388,15 @@ dictionary:
       - sanskrit_word: यद्यपि
         eng_transliteration: yadyapi
         eng_meaning: although / even though
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: यद्वा … यदि वा { वा }
+        eng_transliteration: yadvā … yadi vā { vā}
+        eng_meaning: if … or if [or]
         sentences:
           
           - sanskrit_sentence: 
