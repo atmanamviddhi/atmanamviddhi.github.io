@@ -101,6 +101,49 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 {:.table-customised}
 
 
+नैतद्विद्यः -- इत्यनेन च कर्मविशेषानुसंधानमाह। निरभिसंधानं तावत्कर्म नोपपद्यते। न च पराजयमभिसंधाय युद्धे प्रर्वतते । जयोऽपि चायमनर्थ एव। तदाह 'अहत्वा गुरून् भैक्षमपि चर्तुं श्रेय:' । एतच्च निश्चेतुमशक्यम्, -- किं जयं काङ्क्षाम: कि वा पराजयम्, जयोऽपि बन्धूनां विनाशात् ॥६॥
+
+---
+
+**कार्पण्यदोषोपहतस्वभावः <br>
+पृच्छामि त्वां धर्मसंमूढचेताः ।<br>
+यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे <br>
+शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥७॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| कार्पण्य | kārpaṇya | weakness / poverty |
+| सम्मूढचेतस् | sammūḍhacetas | troubled or infatuated in mind |
+| यच्छ्रेष्ट	 | yacchreṣṭa | best possible |
+| प्रपन्न | prapanna | surrendered |
+{:.table-customised}
+
+---
+
+**न हि प्रपश्यामि ममापनुद्या - <br>
+द्यः शोकमुच्छोषणमिन्द्रियाणाम् ।<br>
+अवाप्य भूमावसपत्नमृद्धं <br>
+राज्यं सुराणामपि चाधिपत्यम् ॥८॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| प्रपश्यमान | prapaśyamāna | intelligent |
+| अवाप्य | avāpya | having obtained |
+{:.table-customised}
+
+---
+
+**सञ्जय उवाच**
+
+**एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप ।<br>
+न योत्स्यानिति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥९॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| परन्तप | parantapa | destroying foes |
+| तूष्णीं | tūṣṇīṃ | silently |
+{:.table-customised}
+
 ---
 
 *Note : Reading in Progress*

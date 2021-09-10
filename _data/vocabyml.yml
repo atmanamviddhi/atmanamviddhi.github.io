@@ -154,6 +154,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: अवाप्य
+        eng_transliteration: avāpya
+        eng_meaning: having obtained
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: अस्मदीय
         eng_transliteration: asmadīya
@@ -403,6 +412,15 @@ dictionary:
           - sanskrit_sentence: रोदनं करोति
             sentence_eng_transliteration: rodanaṃ karoti
             sentence_eng_meaning: cry
+
+      - sanskrit_word: कार्पण्य
+        eng_transliteration: kārpaṇya
+        eng_meaning: weakness / poverty
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: कारित
         eng_transliteration: kārita
@@ -843,6 +861,27 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: तूष्णीं  
+        eng_transliteration: tūṣṇīṃ
+        eng_meaning: silently
+        sentences:
+          
+          - sanskrit_sentence: तूष्णीं भोजनं करोति वा?
+            sentence_eng_transliteration: tūṣṇīṃ bhojanaṃ karoti vā?
+            sentence_eng_meaning: Will you eat without comments?  
+
+          - sanskrit_sentence: पिता अस्ति, तूष्णीं उपविशन्तु
+            sentence_eng_transliteration: pitā asti, tūṣṇīṃ upaviśantu
+            sentence_eng_meaning: Daddy is in, be quiet.
+
+          - sanskrit_sentence: बालकाः बालिकाः च ! सर्वे तूष्णीं तिष्ठन्तु |
+            sentence_eng_transliteration: bālakāḥ bālikāḥ ca ! sarve tūṣṇīṃ tiṣṭhantu 
+            sentence_eng_meaning: All right, boys and girls, quiet now!
+
+          - sanskrit_sentence: अस्तु | छात्राः तूष्णीं भवन्तु | भवतां पुस्तकानि उद्घाटयन्तु |
+            sentence_eng_transliteration: astu | chātrāḥ tūṣṇīṃ bhavantu | bhavatāṃ pustakāni udghāṭayantu |
+            sentence_eng_meaning: Okay, class, settle down and open your books.
   
   - letter: द
     words:
@@ -1057,6 +1096,24 @@ dictionary:
       - sanskrit_word: प्रदुष्यति
         eng_transliteration: praduṣyati
         eng_meaning: commit an offence against / become faithless
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रपन्न
+        eng_transliteration: prapanna
+        eng_meaning: surrendered
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रपश्यमान
+        eng_transliteration: prapaśyamāna
+        eng_meaning: intelligent
         sentences:
           
           - sanskrit_sentence: 
@@ -1366,6 +1423,15 @@ dictionary:
   
   - letter: य
     words:
+
+      - sanskrit_word: यच्छ्रेष्ट
+        eng_transliteration: yacchreṣṭa
+        eng_meaning: best possible
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: यत्र
         eng_transliteration: yatra
@@ -1835,6 +1901,15 @@ dictionary:
       - sanskrit_word: सम्मत
         eng_transliteration: sammata
         eng_meaning: thought highly of
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: सम्मूढचेतस्
+        eng_transliteration: sammūḍhacetas
+        eng_meaning: troubled or infatuated in mind
         sentences:
           
           - sanskrit_sentence: 
