@@ -547,6 +547,35 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: गृहीत
+        eng_transliteration: gṛhīta
+        eng_meaning: seized / caught
+        sentences:
+          
+          - sanskrit_sentence: भवान् अन्यथा गृहीतवान्
+            sentence_eng_transliteration: bhavān anyathā gṛhītavān
+            sentence_eng_meaning: You have mistaken me.
+
+          - sanskrit_sentence: अहं अन्यद् उक्तवान्, भवान् अन्यद् गृहीतवान्
+            sentence_eng_transliteration: ahaṃ anyad uktavān, bhavān anyad gṛhītavān
+            sentence_eng_meaning: I told you one thing. You understood it differently.
+
+          - sanskrit_sentence: शालायां बीजगणितम् अहं सम्यक् न गृहीतवती
+            sentence_eng_transliteration: śālāyāṃ bījagaṇitam ahaṃ samyak na gṛhītavatī
+            sentence_eng_meaning: In school I(f) did not learn algebra well.
+
+          - sanskrit_sentence: ह्यः अत्र एकः धीवरः एकं स्थूलं मीनं गृहीतवान् |
+            sentence_eng_transliteration: hyaḥ atra ekaḥ dhīvaraḥ ekaṃ sthūlaṃ mīnaṃ gṛhītavān 
+            sentence_eng_meaning: Yesterday one fisherman caught a very big fish here.
+
+          - sanskrit_sentence: सा मां प्रति कन्दुकं क्षिप्तवती अहं तत् गृहीतवती च |
+            sentence_eng_transliteration: sā māṃ prati kandukaṃ kṣiptavatī ahaṃ tat gṛhītavatī ca 
+            sentence_eng_meaning: She threw a ball at me and I caught it.
+
+          - sanskrit_sentence: सा पृष्ठतः पतितवती | किन्तु सः समये तां गृहीतवान् |
+            sentence_eng_transliteration: sā pṛṣṭhataḥ patitavatī | kintu saḥ samaye tāṃ gṛhītavān |
+            sentence_eng_meaning: She fell backwards but he caught her in time.
+
   - letter: घ
     words:
 
@@ -1044,6 +1073,24 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: निवृत्त
+        eng_transliteration: nivṛtta
+        eng_meaning: having renounced or given up
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: नैक
+        eng_transliteration: naika
+        eng_meaning: not alone / various / numerous
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: प
     words:
@@ -1128,6 +1175,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: प्रविष्ट
+        eng_transliteration: praviṣṭa
+        eng_meaning: having entered
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: प्रस्ताव
         eng_transliteration: prastāva
@@ -1207,6 +1263,15 @@ dictionary:
       - sanskrit_word: प्रियचिकीर्षा
         eng_transliteration: priyacikīrṣā
         eng_meaning: desire of doing a kindness to 
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रहसन
+        eng_transliteration: prahasana
+        eng_meaning: sarcasm / satire
         sentences:
           
           - sanskrit_sentence: 
@@ -1844,6 +1909,35 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: स्वयम्
+        eng_transliteration: svayam
+        eng_meaning: himself / oneself / itself / herself
+        sentences:
+          
+          - sanskrit_sentence: स्वयमेव करोति वा?
+            sentence_eng_transliteration: svayameva karoti vā?
+            sentence_eng_meaning: Do you do it yourself?
+
+          - sanskrit_sentence: स्वयमेव करोति किम् ?
+            sentence_eng_transliteration: svayameva karoti kim ?
+            sentence_eng_meaning: Do you do it yourself?
+
+          - sanskrit_sentence: ते स्वयमेव पाकं कृतवन्तः|
+            sentence_eng_transliteration: te svayameva pākaṃ kṛtavantaḥ
+            sentence_eng_meaning: They did the cooking themselves.
+
+          - sanskrit_sentence: भवती स्वयमेव चोलं कल्पितवती वा?
+            sentence_eng_transliteration: bhavatī svayameva colaṃ kalpitavatī vā?
+            sentence_eng_meaning: Did you make the dress yourself?
+
+          - sanskrit_sentence: सः स्वयमेव गृहस्य निर्माणं कृतवान् |
+            sentence_eng_transliteration: saḥ svayameva gṛhasya nirmāṇaṃ kṛtavān |
+            sentence_eng_meaning: He built the house all by himself.
+
+          - sanskrit_sentence: दोषः अस्ति इति सा स्वयमेव अङ्ग्रीकृतवती |
+            sentence_eng_transliteration: doṣaḥ asti iti sā svayameva aṅgrīkṛtavatī |
+            sentence_eng_meaning: She herself admitted that it was wrong.
+
       - sanskrit_word: संमित
         eng_transliteration: saṃmita
         eng_meaning: symmetrical
@@ -1937,6 +2031,15 @@ dictionary:
       - sanskrit_word: समर
         eng_transliteration: samara
         eng_meaning: battle / war
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
+
+      - sanskrit_word: समवेक्षते { समवेक्ष् }
+        eng_transliteration: samavekṣate { samavekṣ}
+        eng_meaning: consider
         sentences:
           
           - sanskrit_sentence: 
@@ -2068,6 +2171,27 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: सूचयति
+        eng_transliteration: sūcayati
+        eng_meaning: express / reveal / suggest
+        sentences:
+          
+          - sanskrit_sentence: संस्कृत भाषां पठितुं का संस्थां सूचयति भवान् ?
+            sentence_eng_transliteration: saṃskṛta bhāṣāṃ paṭhituṃ kā saṃsthāṃ sūcayati bhavān ?
+            sentence_eng_meaning: Can you suggest an institution where I can learn Sanskrit ?
+
+          - sanskrit_sentence: नगरसभायाः घटी नववादनम् इति सूचयति |
+            sentence_eng_transliteration: nagarasabhāyāḥ ghaṭī navavādanam iti sūcayati 
+            sentence_eng_meaning: The town hall clock says 9 o'clock.
+
+          - sanskrit_sentence: क्षम्यताम् | भवान् स्थानकगमनार्थं मार्गं मां सूचयति वा?
+            sentence_eng_transliteration: kṣamyatām | bhavān sthānakagamanārthaṃ mārgaṃ māṃ sūcayati vā?
+            sentence_eng_meaning: I'm sorry to bother you, but could you direct me to the station?
+
+          - sanskrit_sentence: तत्र स्थितं चिह्नं पठितुम् अहं न शक्नोमि | किं सूचयति तत् ?
+            sentence_eng_transliteration: tatra sthitaṃ cihnaṃ paṭhitum ahaṃ na śaknomi | kiṃ sūcayati tat ?
+            sentence_eng_meaning: I can't read that sign over there - what does it say?
 
   - letter: ह
     words:

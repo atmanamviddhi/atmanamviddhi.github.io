@@ -146,6 +146,51 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**तमुवाच हृषीकेशः प्रहसन्निव भारत । <br>
+सेनयोरुभयोर्मध्ये सीदमानमिदं वचः ॥१०॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| प्रहसन | prahasana | sarcasm / satire |
+{:.table-customised}
+
+सेनयोरुभयोर्मध्ये - इत्यनेनेदं सूचयति - संशयाविष्टोऽर्जुना नैकपक्षेण युद्धान्निवृत्तो यत एवमाह स्म,-- 'शाधि मां त्वां प्रपन्नम्' इति ॥१०॥
+
+अत उभयोरपि ज्ञानाज्ञानयोर्म ध्यग: श्रीभगवतानुशिष्यते
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| सूचयति | sūcayati | express / reveal / suggest |
+| नैक | naika | not alone / various / numerous |
+| निवृत्त | nivṛtta | having renounced or given up |
+| प्रपन्न | prapanna | surrendered |
+{:.table-customised}
+
+---
+
+**श्री भगवानुवाच**
+
+**त्वं मानुष्येणोपहतान्तरात्मा <br>
+विषादमोहाभिभवाद्धिसंज्ञ: । <br>
+कृपागृहीतः समवेक्ष्य बन्धू- <br>
+भिप्रपन्नान्मुखमन्तकस्य  ॥११॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| गृहीत | gṛhīta | seized / caught |
+| समवेक्षते { समवेक्ष् } | samavekṣate { samavekṣ} | consider |
+{:.table-customised}
+
+मानुष्यं-मनुष्यभाव:। अन्तकमुखं स्वयमेते प्रविष्य इति तव को बाध: ॥११॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| स्वयम् | svayam | himself / oneself / itself / herself |
+| प्रविष्ट	| praviṣṭa | having entered |
+{:.table-customised}
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
