@@ -163,16 +163,7 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
-      
-      - sanskrit_word: अस्मदीय
-        eng_transliteration: asmadīya
-        eng_meaning: our
-        sentences:
-          
-          - sanskrit_sentence: 
-            sentence_eng_transliteration: 
-            sentence_eng_meaning: 
-      
+
       - sanskrit_word: अर्हति
         eng_transliteration: arhati
         eng_meaning: deserve / be able
@@ -185,6 +176,24 @@ dictionary:
           - sanskrit_sentence: भवान् एवं कर्तुं अर्हति वा?
             sentence_eng_transliteration: bhavān evaṃ kartuṃ arhati vā?
             sentence_eng_meaning: Can you do this?
+
+      - sanskrit_word: अशोच्य
+        eng_transliteration: aśocya
+        eng_meaning: not to be deplored
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+      
+      - sanskrit_word: अस्मदीय
+        eng_transliteration: asmadīya
+        eng_meaning: our
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: अस्माकम्
         eng_transliteration: asmākam
@@ -249,6 +258,15 @@ dictionary:
       - sanskrit_word: आनीय
         eng_transliteration: ānīya
         eng_meaning: having brought / bringing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: आसम्
+        eng_transliteration: āsam
+        eng_meaning: I was
         sentences:
           
           - sanskrit_sentence: 
@@ -358,7 +376,16 @@ dictionary:
           
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
-            sentence_eng_meaning: 
+            sentence_eng_meaning:
+
+      - sanskrit_word: कलेवर
+        eng_transliteration: kalevara
+        eng_meaning: body
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
 
       - sanskrit_word: क्लैब्य
         eng_transliteration: klaibya
@@ -466,6 +493,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: कौमार
+        eng_transliteration: kaumāra
+        eng_meaning: adolescence / youth
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: कृत्स्न
         eng_transliteration: kṛtsna
         eng_meaning: all / whole
@@ -505,6 +541,15 @@ dictionary:
       - sanskrit_word: गच्छति
         eng_transliteration: gacchati
         eng_meaning: he / she / it goes
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: गतासु
+        eng_transliteration: gatāsu
+        eng_meaning: dead
         sentences:
           
           - sanskrit_sentence: 
@@ -639,6 +684,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: जनाधिप
+        eng_transliteration: janādhipa
+        eng_meaning: king
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: जय्य
         eng_transliteration: jayya
         eng_meaning: to be conquered or gained
@@ -651,6 +705,24 @@ dictionary:
       - sanskrit_word: जयति
         eng_transliteration: jayati
         eng_meaning: win / be victorious
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: जरा
+        eng_transliteration: jarā
+        eng_meaning: age
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: न जातु 
+        eng_transliteration: na jātu 
+        eng_meaning: never
         sentences:
           
           - sanskrit_sentence: 
@@ -989,6 +1061,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: धीर
+        eng_transliteration: dhīra
+        eng_meaning: brave / strong
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: न
     words:
@@ -1083,6 +1164,16 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: नेम
+        eng_transliteration: nema
+        eng_meaning: time
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+
       - sanskrit_word: नैक
         eng_transliteration: naika
         eng_meaning: not alone / various / numerous
@@ -1091,6 +1182,35 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: नैव { न एव }
+        eng_transliteration: naiva { na eva}
+        eng_meaning: not at all / hardly
+        sentences:
+          
+          - sanskrit_sentence: नैव, चिन्ता नास्ति
+            sentence_eng_transliteration: naiva, cintā nāsti
+            sentence_eng_meaning: No, no trouble / botheration.
+
+          - sanskrit_sentence: नैव, सर्वे विभक्ताः 
+            sentence_eng_transliteration: naiva, sarve vibhaktāḥ
+            sentence_eng_meaning: No, we live separately.
+
+          - sanskrit_sentence: नैव, इदानीमपि एकाकी
+            sentence_eng_transliteration: naiva, idānīmapi ekākī
+            sentence_eng_meaning: No, still a bachelor.
+
+          - sanskrit_sentence: नैव, गतवर्षे एव क्रीतवती
+            sentence_eng_transliteration: naiva, gatavarṣe eva krītavatī
+            sentence_eng_meaning: No, it was bought last year.
+
+          - sanskrit_sentence: नैव, तत्र विवादः एव नास्ति
+            sentence_eng_transliteration: naiva, tatra vivādaḥ eva nāsti 
+            sentence_eng_meaning: No, there is no haggling at all. 
+
+          - sanskrit_sentence: नैव, अत्रैव सञ्चरामि किल!
+            sentence_eng_transliteration: naiva, atraiva sañcarāmi kila!
+            sentence_eng_meaning: No, I have been moving about right here! 
   
   - letter: प
     words:
@@ -1107,6 +1227,15 @@ dictionary:
       - sanskrit_word: प्रगीत
         eng_transliteration: pragīta
         eng_meaning: sing-song or drawling recitation / one who has begun to sing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रज्ञावत्
+        eng_transliteration: prajñāvat
+        eng_meaning: wise / intelligent
         sentences:
           
           - sanskrit_sentence: 
@@ -1480,6 +1609,15 @@ dictionary:
       - sanskrit_word: महेष्वास
         eng_transliteration: maheṣvāsa
         eng_meaning: great archer
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: मुह्यति
+        eng_transliteration: muhyati
+        eng_meaning: be bewildered or perplexed
         sentences:
           
           - sanskrit_sentence: 
@@ -1873,6 +2011,15 @@ dictionary:
       - sanskrit_word: शूर
         eng_transliteration: śūra
         eng_meaning: brave man
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: शोचित
+        eng_transliteration: śocita
+        eng_meaning: worried
         sentences:
           
           - sanskrit_sentence: 

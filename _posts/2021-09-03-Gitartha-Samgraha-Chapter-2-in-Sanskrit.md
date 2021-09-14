@@ -191,6 +191,65 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**अशोच्यानन्वशोचस्त्वं प्रज्ञावन्नाभिभाषसे । <br>
+गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ॥१२॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अशोच्य | aśocya | not to be deplored |
+| प्रज्ञावत् | prajñāvat | wise / intelligent |
+| गतासु | gatāsu | dead |
+{:.table-customised}
+
+शोचितुमशक्यं कलेवरं-सदा नश्वरत्वात्, अशोचनार्हमात्मानं च शोचसि । न कश्चित् गतासु:-मृतः, अगतासु:-जीवन्वा शोच्योऽस्ति। तथाहि-आत्मा तावदविनाशी, नानाशरीरेषु संचरत: कास्य शोच्यता। न च देहन्तरसंचारे एव शोच्यता। एवं हि यौवनादावपि शोच्यता भवेत् ॥१२॥
+
+एवमर्थद्वयमाह
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| शोचित | śocita | worried |
+| कलेवर | kalevara | body |
+{:.table-customised}
+
+---
+
+**नह्येवाहं जातु नासं न त्वं नेमे जनाधिपाः । <br>
+न चैव न भविष्यामः सर्वे वयमतः परम् ॥१३॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| न जातु | na jātu | never |
+| नेम | nema | time |
+| जनाधिप | janādhipa | king |
+{:.table-customised}
+
+---
+
+**देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा । <br>
+तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥१४॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| जरा | jarā | age |
+| मुह्यति | muhyati | be bewildered or perplexed |
+{:.table-customised}
+
+
+अहं हि नैव नासम् अपि तु आसम् । एवं त्वम् अमी च राजान: ॥१३॥ आकारान्तरे च सति यदि शोच्यता, तर्हि कौमारात् यौवनावाप्तौ किमिति न शोच्यते । यो धीर:, स न शोचति। धैर्यं च एतच्छरीरेऽपि यस्यास्था नास्ति, तेन सुकरम् ।
+अतस्त्वं धैर्यमन्विच्छ ॥१४॥
+
+अधीरास्तु मात्राशब्दवाच्यैरर्थैर्ये कृता: स्पर्शा इन्द्रियद्वारेणात्मना संबन्धा:, तत्कृता या: शीतोष्णसुखदु:खाद्यावस्था अनित्या: तास्वपि शोचन्ति। न त्वेवं धीरा इत्याह
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| नैव { न एव } | naiva { na eva}	| not at all / hardly |
+| आसम् | āsam | I was |
+| कौमार | kaumāra	| adolescence / youth |
+| धीर | dhīra | brave / strong |
+{:.table-customised}
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
