@@ -118,6 +118,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: अनील
+        eng_transliteration: anīla
+        eng_meaning: white
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: अनुग्राहक
         eng_transliteration: anugrāhaka
@@ -131,6 +140,15 @@ dictionary:
       - sanskrit_word: अपर्याप्त
         eng_transliteration: aparyāpta
         eng_meaning: unbounded / insufficient
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: अपाय
+        eng_transliteration: apāya
+        eng_meaning: danger
         sentences:
           
           - sanskrit_sentence: 
@@ -237,9 +255,27 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: आगमापायिन्
+        eng_transliteration: āgamāpāyin
+        eng_meaning: coming and going / transient
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: आततायिन्
         eng_transliteration: ātatāyin
         eng_meaning: one whose bow is drawn to take another's life
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: आद्य
+        eng_transliteration: ādya
+        eng_meaning: immediately preceding / first
         sentences:
           
           - sanskrit_sentence: 
@@ -378,6 +414,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning:
 
+      - sanskrit_word: कल्पते
+        eng_transliteration: kalpate
+        eng_meaning: consider as
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
+
       - sanskrit_word: कलेवर
         eng_transliteration: kalevara
         eng_meaning: body
@@ -422,6 +467,15 @@ dictionary:
             sentence_eng_transliteration: kalahaṃ karoti
             sentence_eng_meaning: quarrel
 
+      - sanskrit_word: कश्चिद्
+        eng_transliteration: kaścid
+        eng_meaning: someone
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: कश्मलमय
         eng_transliteration: kaśmalamaya
         eng_meaning: filled with or producing distress of mind
@@ -436,9 +490,9 @@ dictionary:
         eng_meaning: desire
         sentences:
           
-          - sanskrit_sentence: रोदनं करोति
-            sentence_eng_transliteration: rodanaṃ karoti
-            sentence_eng_meaning: cry
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: कार्पण्य
         eng_transliteration: kārpaṇya
@@ -452,6 +506,15 @@ dictionary:
       - sanskrit_word: कारित
         eng_transliteration: kārita
         eng_meaning: caused to be made or done
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: किं वृत्तम्?
+        eng_transliteration: kiṃ vṛttam?
+        eng_meaning: What is the news?
         sentences:
           
           - sanskrit_sentence: 
@@ -986,6 +1049,14 @@ dictionary:
   
   - letter: द
     words:
+      - sanskrit_word: दशाविशेष
+        eng_transliteration: daśāviśeṣa
+        eng_meaning: any particular state
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: दाध्मायते { धम् }
         eng_transliteration: dādhmāyate { dham}
@@ -1083,6 +1154,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: ननु
+        eng_transliteration: nanu
+        eng_meaning: indeed / no doubt 
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: नरकायते
         eng_transliteration: narakāyate
         eng_meaning: resemble or be similar to hell 
@@ -1104,6 +1184,15 @@ dictionary:
       - sanskrit_word: नान्तरीयक
         eng_transliteration: nāntarīyaka
         eng_meaning: not external / contained or inherent in
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: नित्यस्थ
+        eng_transliteration: nityastha
+        eng_meaning: always abiding in
         sentences:
           
           - sanskrit_sentence: 
@@ -1772,6 +1861,24 @@ dictionary:
   
   - letter: व
     words:
+
+      - sanskrit_word: व्यतिरिक्त
+        eng_transliteration: vyatirikta
+        eng_meaning: withheld / with drawn / free from
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: व्यथयति
+        eng_transliteration: vyathayati
+        eng_meaning: pain
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: व्यवसित
         eng_transliteration: vyavasita
@@ -1780,7 +1887,16 @@ dictionary:
           
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
-            sentence_eng_meaning: 
+            sentence_eng_meaning:
+
+      - sanskrit_word: व्यावर्त
+        eng_transliteration: vyāvarta
+        eng_meaning: separating
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
 
       - sanskrit_word: व्यूढ
         eng_transliteration: vyūḍha
@@ -1998,6 +2114,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: शीतोष्ण
+        eng_transliteration: śītoṣṇa
+        eng_meaning: cold and hot
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: शीर्षक
         eng_transliteration: śīrṣaka
@@ -2011,6 +2136,15 @@ dictionary:
       - sanskrit_word: शूर
         eng_transliteration: śūra
         eng_meaning: brave man
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: शोच्य
+        eng_transliteration: śocya
+        eng_meaning: regrettable / unfortunate
         sentences:
           
           - sanskrit_sentence: 
@@ -2286,6 +2420,15 @@ dictionary:
       - sanskrit_word: सशर
         eng_transliteration: sarvajña
         eng_meaning: omniscient / all-knowing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: सहस्वत्
+        eng_transliteration: sahasvat
+        eng_meaning: victorious
         sentences:
           
           - sanskrit_sentence: 

@@ -250,6 +250,56 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । <br>
+आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ! ॥१५॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| शीतोष्ण | śītoṣṇa | cold and hot |
+| आगमापायिन् | āgamāpāyin | coming and going / transient |
+| नित्यस्थ	 | nityastha | always abiding in |
+{:.table-customised}
+
+अथवा-मात्राभि:-इन्द्रियैर्येषां स्पर्शों न तु साक्षात्परमात्मना। आगमः-उत्पत्तिः।। अपायो-विनाश:। एतद्युक्रांस्तितिक्षस्व-सहस्व ॥१५॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| अपाय | apāya | danger |
+| सहस्वत्	| sahasvat | victorious |
+{:.table-customised}
+
+---
+
+**यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ ! ।<br>
+समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥१६॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| व्यथयति | vyathayati | pain |
+| कल्पते | kalpate | consider as |
+{:.table-customised}
+
+ननु यत एवागमापायिन एते सर्वे दशाविशेषास्तत एव शोच्यन्ते ? मैवम् । तथाहि, कोऽयमागमो नाम? उत्पत्तिरिति चेत् । सापि का ? असत आत्मलाभ: सा, इति त्वसत् । असत्स्वभावता हि निःस्वभावता निरात्मता। निरात्मा च निःस्वभावः कथं स स्वभावीकर्तु शक्य:; अनीलं हि न नीलीकर्तुं शक्यम्-स्वभावान्तरापत्ते-र्दुष्टत्वात् । तथा च शासत्रम्
+
+'नहि स्वभावो भावानां व्यावर्तेतौष्ण्यवद्रवे:' ।
+
+इति। अथ सत एवात्मलाभ उत्पत्ति:, तदा लब्धात्मनोऽस्य जात्वपि अनभावात् नित्यतैवेत्यागमे का शोच्यता। एवमपायोऽपि सतोऽसतो वा। असत्तावदसदेव । सत्स्वभावस्यापि कथमसत्तास्वभाव:। द्वितीये क्षणेऽसावसत्स्वभाव:--इति चेत्, आद्येऽपि तथा स्यादिति न कश्चिद्भाव: स्यात्; स्वभावस्यात्यागात्। अथ मुद्ररादिनास्य नाश: क्रियते। स यदि व्यतिरिक्त:, भावस्य किं वृत्तम्? न दृश्यते-इति चेत्, मा नाम दर्शि भाव:। न त्वन्यथाभूतः पटावृत इव। अव्यतिरिक्तस्तु नासावित्युक्तम् । तदेतत्संक्षिप्याह
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| ननु | nanu | indeed / no doubt |
+| दशाविशेष	| daśāviśeṣa | any particular state |
+| शोच्य | śocya | regrettable / unfortunate |
+| अनील | anīla | white |
+| व्यावर्त	| vyāvarta | separating |
+| आद्य | ādya | immediately preceding / first |
+| कश्चिद्	| kaścid | someone |
+| व्यतिरिक्त | vyatirikta | withheld / with drawn / free from |
+| किं वृत्तम्? | kiṃ vṛttam?	| What is the news? |
+{:.table-customised}
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
