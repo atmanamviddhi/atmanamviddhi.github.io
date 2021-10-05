@@ -300,6 +300,36 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**नासतो विद्यते भावो नाभावो विद्यते सतः ।<br>
+उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः  ॥१७॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| विद्यते | vidyate | exist |
+| उभय | ubhaya | in both ways |
+{:.table-customised}
+
+अथ च लोककवृत्तेनेदमाह - असतो - नित्यविनाशिन: शरीरस्य न भाव: - अनवरतमवस्थाभि: परिणामित्वात् ।  नित्यसतश्च - परमात्मनो नास्ति कदाचिद्विनाशोऽपरिणामधर्मत्वात् । तथा च वेद: 
+
+'अविनाशी वा अरेऽयमात्मानुच्छित्तिधर्मा' इति। (बृ. आ. ४। ५। १४)
+
+अनयो: सदसतोरन्त: - प्रतिष्ठापदं यत्रानयोर्विश्रान्ति: ॥ १७॥
+
+यस्तत्त्वदर्शिभिदृष्ट: स खलु नित्योऽनित्यो वा - इत्याशङ्क्याह
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| नित्य | nitya | eternal |
+| विनाशिन्	 | vināśin	| undergoing transformation |
+| अनवरतम्	 | anavaratam | incessantly |
+| अनयोः | anayoḥ | of these two |
+| सदसत्	| sadasat	| good and bad / real and unreal |
+| यस्त | yasta | entrusted |
+| खलु | khalu | Is it not? / verily |
+{:.table-customised}
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
