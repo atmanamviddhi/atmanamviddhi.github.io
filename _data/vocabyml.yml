@@ -917,6 +917,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: ततम
+        eng_transliteration: tatama
+        eng_meaning: that one
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: ततः
         eng_transliteration: tataḥ
@@ -954,6 +963,15 @@ dictionary:
               tasyāḥ netrau nimīlitau | tathā'pi sā na nidrāti iti ahaṃ
               jñātavatī
             sentence_eng_meaning: Her eyes were closed but I knew she was not asleep.
+
+      - sanskrit_word: तद्विद्
+        eng_transliteration: tadvid
+        eng_meaning: knowing that
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: तदा
         eng_transliteration: tadā

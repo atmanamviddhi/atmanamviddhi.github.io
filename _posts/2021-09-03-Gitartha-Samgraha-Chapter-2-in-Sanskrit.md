@@ -330,6 +330,19 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् ।<br>
+विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति  ॥१८॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| तद्विद् | tadvid | knowing that |
+| ततम | tatama | that one |
+{:.table-customised}
+
+तुश्चार्थे । आत्मा च अविनाशी ॥१८॥ तुश्चार्थे । आत्मा च अविनाशी ॥१८॥
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
