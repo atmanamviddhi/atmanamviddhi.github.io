@@ -66,6 +66,35 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: अन्ते
+        eng_transliteration: ante
+        eng_meaning: in the end
+        sentences:
+          
+          - sanskrit_sentence: अस्य अनुच्छेदस्य अन्ते समापयामः
+            sentence_eng_transliteration: asya anucchedasya ante samāpayāmaḥ
+            sentence_eng_meaning: Let us stop at the end of this paragraph.
+
+          - sanskrit_sentence: अन्ते मौखिकपरीक्षा एका भविष्यति |
+            sentence_eng_transliteration: ante maukhikaparīkṣā ekā bhaviṣyati |
+            sentence_eng_meaning: There will be an oral exam in the end.
+
+          - sanskrit_sentence: मार्गस्य अन्ते एकः आपणः अस्ति |
+            sentence_eng_transliteration: mārgasya ante ekaḥ āpaṇaḥ asti |
+            sentence_eng_meaning: There's a store at the end of the street.
+
+          - sanskrit_sentence: अन्ते अहं लोकयाने गन्तुं निर्णयं कृतवान् |
+            sentence_eng_transliteration: ante ahaṃ lokayāne gantuṃ nirṇayaṃ kṛtavān |
+            sentence_eng_meaning: In the end I decided to go by bus.
+
+          - sanskrit_sentence: तानि सर्वाणि एकः युवकः एव अन्ते कृतवान् |
+            sentence_eng_transliteration: tāni sarvāṇi ekaḥ yuvakaḥ eva ante kṛtavān |
+            sentence_eng_meaning: In the end it was just a teenage boy who did all that!
+
+          - sanskrit_sentence: मेलनस्य अनन्तरम् अन्ते कोऽपि न सन्तुष्टः |
+            sentence_eng_transliteration: melanasya anantaram ante ko'pi na santuṣṭaḥ |
+            sentence_eng_meaning: In the end, no one was happy after the meeting.
       
       - sanskrit_word: अन्वय
         eng_transliteration: anvaya
@@ -972,6 +1001,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: तदन्य
+        eng_transliteration: tadanya
+        eng_meaning: other than that
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: तदा
         eng_transliteration: tadā
@@ -1225,6 +1263,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: नवत्व
+        eng_transliteration: navatva
+        eng_meaning: newness / novelty
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: नान्तरीयक
         eng_transliteration: nāntarīyaka
@@ -1292,6 +1339,15 @@ dictionary:
       - sanskrit_word: निर्मूल
         eng_transliteration: nirmūla
         eng_meaning: rootless / baseless
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: निरुपाख्य
+        eng_transliteration: nirupākhya
+        eng_meaning: unreal
         sentences:
           
           - sanskrit_sentence: 
@@ -1385,6 +1441,24 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: प्रतिक्षणम्
+        eng_transliteration: pratikṣaṇam
+        eng_meaning: every moment
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रतिभेद
+        eng_transliteration: pratibheda
+        eng_meaning: dividing
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: प्रतीकार
         eng_transliteration: pratīkāra
         eng_meaning: revenge
@@ -1433,6 +1507,15 @@ dictionary:
       - sanskrit_word: प्रपश्यमान
         eng_transliteration: prapaśyamāna
         eng_meaning: intelligent
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: प्रमेय
+        eng_transliteration: prameya
+        eng_meaning: measurable
         sentences:
           
           - sanskrit_sentence: 
@@ -1642,6 +1725,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: पृथगर्थ
+        eng_transliteration: pṛthagartha
+        eng_meaning: having separate or distinct meanings
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
   
   - letter: ब
     words:
@@ -1661,6 +1753,15 @@ dictionary:
       - sanskrit_word: भगवत्
         eng_transliteration: bhagavat
         eng_meaning: glorious / prosperous / holy
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: भागिनः 
+        eng_transliteration: bhāginaḥ
+        eng_meaning: participants
         sentences:
           
           - sanskrit_sentence: 
@@ -2045,6 +2146,15 @@ dictionary:
       - sanskrit_word: विपर्यस्त
         eng_transliteration: viparyasta
         eng_meaning: reversed / opposite / inverted
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: विभाव्यते
+        eng_transliteration: vibhāvyate
+        eng_meaning: appear
         sentences:
           
           - sanskrit_sentence: 
@@ -2507,6 +2617,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: सर्वभाव
+        eng_transliteration: sarvabhāva
+        eng_meaning: whole heart or soul / whole being or nature / complete satisfaction
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: सशर
         eng_transliteration: sarvajña
         eng_meaning: omniscient / all-knowing
@@ -2573,6 +2692,15 @@ dictionary:
             sentence_eng_transliteration: tatra sthitaṃ cihnaṃ paṭhitum ahaṃ na śaknomi | kiṃ sūcayati tat ?
             sentence_eng_meaning: I can't read that sign over there - what does it say?
 
+      - sanskrit_word: सौक्ष्म्य
+        eng_transliteration: saukṣmya
+        eng_meaning: fineness
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
   - letter: ह
     words:
 
@@ -2632,6 +2760,15 @@ dictionary:
 
   - letter: क्ष
     words:
+
+      - sanskrit_word: क्षणे क्षणे
+        eng_transliteration: kṣaṇe kṣaṇe
+        eng_meaning: every moment
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: क्षय
         eng_transliteration: kṣaya

@@ -343,6 +343,44 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः । <br>
+विनाशिनोऽप्रमेयस्य तस्माद्युध्दयस्व भारत !॥१९॥**
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| प्रमेय | prameya	| measurable |
+{:.table-customised}
+
+निरुपाख्यताकाले स्थूलविनाशयोगिन: तदन्यथानुपपत्तेरेव च विनाशिन: - प्रतिक्षणमवस्थान्तरभागिन: । यदुक्तं 
+
+अन्ते पुराणतां दृष्ट्वा प्रतिक्षणं नवत्वहानिरनुमीयते ।
+
+इति । मुनिनापि
+
+कलानां पृथगर्थानां प्रतिभेद: क्षणे क्षणे। <br>
+वर्तते सर्वभावेषु सौक्ष्म्यात्तु न विभाव्यते ॥
+
+इति । पृथगर्थानामिति - पृथगर्थक्रियाकारित्वादिति यावत् । देहा अन्तवन्तो विनाशिनश्च। आत्मा तु नित्य:, यतोऽप्रमेय: | प्रमेयस्य तु जडस्य परिणामित्वं न त्वजडस्य चिदेकरूपस्य, स्वभावान्तरायोगात् । एवं देहा नित्यमन्तवन्तः, इति शोचितुमशक्या:। आत्मा नित्यमविनाशी, तेन न शोचनार्हः । तन्‍त्रेणायमके: कृत्यप्रत्ययो द्वयोरर्थयोर्मुनिना दर्शित 'अशोच्यान्, इति ॥१९॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| निरुपाख्य | nirupākhya | unreal |
+| तदन्य | tadanya | other than that |
+| प्रतिक्षणम् | pratikṣaṇam	| every moment |
+| भागिनः | bhāginaḥ | participants |
+| अन्ते | ante | in the end |
+| नवत्व | navatva	| newness / novelty |
+| पृथगर्थ	| pṛthagartha	| having separate or distinct meanings |
+| प्रतिभेद | pratibheda | dividing |
+| क्षणे क्षणे | kṣaṇe kṣaṇe	| every moment |
+| सर्वभाव	| sarvabhāva | whole heart or soul / whole being or nature / complete satisfaction|
+| सौक्ष्म्य	| saukṣmya | fineness |
+| विभाव्यते | vibhāvyate | appear |
+| यावत् | yāvat | until |
+{:.table-customised}
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
