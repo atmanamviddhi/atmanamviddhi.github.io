@@ -1806,6 +1806,15 @@ dictionary:
   
   - letter: म
     words:
+
+      - sanskrit_word: मन्यते
+        eng_transliteration: manyate
+        eng_meaning: think
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: मय
         eng_transliteration: maya
@@ -2097,6 +2106,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning:  
+
+      - sanskrit_word: विजानीते
+        eng_transliteration: vijānīte
+        eng_meaning: know
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:  
       
       - sanskrit_word: वितत
         eng_transliteration: vitata
@@ -2236,6 +2254,15 @@ dictionary:
       - sanskrit_word: विसृज्य
         eng_transliteration: visṛjya
         eng_meaning: to be sent out or let go / to be produced or effected
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: वेत्ति
+        eng_transliteration: vetti
+        eng_meaning: know
         sentences:
           
           - sanskrit_sentence: 
@@ -2721,6 +2748,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: हन्ति
+        eng_transliteration: hanti
+        eng_meaning: kill
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning:
 
       - sanskrit_word: हन्तुमनस्
         eng_transliteration: hantumanas
