@@ -1759,6 +1759,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: भवित
+        eng_transliteration: bhavita
+        eng_meaning: been
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: भागिनः 
         eng_transliteration: bhāginaḥ
         eng_meaning: participants
@@ -1785,6 +1794,15 @@ dictionary:
           - sanskrit_sentence: 
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
+
+      - sanskrit_word: भूय
+        eng_transliteration: bhūya
+        eng_meaning: being / becoming
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
       
       - sanskrit_word: भूयसा
         eng_transliteration: bhūyasā
@@ -1806,6 +1824,15 @@ dictionary:
   
   - letter: म
     words:
+
+      - sanskrit_word: म्रियते
+        eng_transliteration: mriyate
+        eng_meaning: die
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
 
       - sanskrit_word: मन्यते
         eng_transliteration: manyate
@@ -2390,6 +2417,15 @@ dictionary:
             sentence_eng_transliteration: 
             sentence_eng_meaning: 
 
+      - sanskrit_word: स्फुटयति
+        eng_transliteration: sphuṭayati
+        eng_meaning: make clear or evident
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
       - sanskrit_word: स्यन्दन
         eng_transliteration: syandana
         eng_meaning: war-chariot
@@ -2770,6 +2806,15 @@ dictionary:
       - sanskrit_word: हन्यते { हन् }
         eng_transliteration: hanyate { han}
         eng_meaning: be struck or killed
+        sentences:
+          
+          - sanskrit_sentence: 
+            sentence_eng_transliteration: 
+            sentence_eng_meaning: 
+
+      - sanskrit_word: हन्यमान
+        eng_transliteration: hanyamāna
+        eng_meaning: being killed or slain
         sentences:
           
           - sanskrit_sentence: 

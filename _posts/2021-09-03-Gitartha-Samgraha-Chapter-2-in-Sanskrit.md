@@ -398,6 +398,29 @@ Gītārtha-Saṁgraha - Chapter 2 in Sanskrit with english meaning of each word.
 
 ---
 
+**न जायते म्रियते वा कदाचि- <br>
+न्नायं भूत्वा भविता वा न भूयः ।<br>
+अजो नित्यः शाश्वतोऽयं पुराणो <br>
+न हन्यते हन्यमाने शरीरे ॥२१॥**<br>
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| जायते | jāyate | happen |
+| म्रियते | mriyate | die |
+| भवित | bhavita | been |
+| भूय | bhūya | being / becoming |
+| हन्यमान	| hanyamāna | being killed or slain |
+{:.table-customised}
+
+एतदेव स्फुटयति - नायं भूत्वा - इति । अयमात्मा न न भूत्वा भविता, अपितु भूत्वैव । अतो न जायते । न च म्रियते - यतो भूत्वा न न भविता, अपितु भवितैव ॥२१॥
+
+| Sanskrit Word | Transliteration | English Meaning | 
+|:--------------:|:---------------:|:--------------:|
+| स्फुटयति | sphuṭayati | make clear or evident |
+{:.table-customised}
+
+---
+
 *Note : Reading in Progress*
 
 Meanings from [Learnsanskrit](https://www.learnsanskrit.cc/)
