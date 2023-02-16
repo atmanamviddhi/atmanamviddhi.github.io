@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000//blog/2022/07/02/Tantras%C4%81ra-of-Abhinavagupta</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/06/20/A-Trident-of-Wisdom-Translation-of-Par%C4%81tr%C4%ABs%C3%ADk%C4%81-vivara%E1%B9%87a</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/06/10/Lord-%C5%9Aivas-Song-The-%C4%AA%C5%9Bvara-G%C4%ABt%C4%81</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/05/29/Excerpts-from-Changadev-Pasashti</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/05/24/Excerpts-from-Vair%C4%81gya-%C5%9Aatakam-of-Bhart%E1%B9%9Bhari</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/05/14/Excerpts-from-Sri-Devikalottara-Part-2</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/05/11/Excerpts-from-Sri-Devikalottara-Part-1</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/05/05/Excerpts-from-Amrit%C4%81nubhava-Part-2</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2022/04/29/Excerpts-from-Amrit%C4%81nubhava-Part-1</loc>
+    </url>
+    
+    <url>
         <loc>http://localhost:4000//blog/2021/09/03/Gitartha-Samgraha-Chapter-2-in-Sanskrit</loc>
     </url>
     
@@ -41,20 +77,40 @@
         <loc>http://localhost:4000//blog/2021/05/29/Notes-from-%C5%9Avet%C4%81%C5%9Bvatara-Upani%E1%B9%A3ad</loc>
     </url>
     
+    <url>
+        <loc>http://localhost:4000//blog/2020/07/22/Excerpts-from-Shri-Shiva-Rahasya-Part-1</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2020/07/20/Excerpts-from-Shri-Shiva-Rahasya-Part-1</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2020/07/10/Excerpts-from-%C5%9Aiva-S%C5%ABtra-The-Supreme-Awakening-Part-2</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2020/06/30/Excerpts-from-%C5%9Aiva-S%C5%ABtra-The-Supreme-Awakening-Part-1</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2020/06/20/The-Ubiquitous-%C5%9Aiva</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2020/06/10/Excerpts-from-Sri-tantraloka-part-2</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000//blog/2020/05/29/Excerpts-from-Sri-tantraloka-part-1</loc>
+    </url>
+    
 
     
     
     
     <url>
         <loc>http://localhost:4000//404.html</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000//blog/</loc>
     </url>
     
     
@@ -77,13 +133,9 @@
     
     
     
-    
-    
-    
-    
-    
-    
-    
+    <url>
+        <loc>http://localhost:4000//blog/</loc>
+    </url>
     
     
     
@@ -96,6 +148,52 @@
     <url>
         <loc>http://localhost:4000//page2/</loc>
     </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000//page3/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000//page4/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000//page5/</loc>
+    </url>
+    
+    
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000//page6/</loc>
+    </url>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
