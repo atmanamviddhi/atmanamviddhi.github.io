@@ -14,6 +14,15 @@ date: 2021-06-15
 <h3> The Bhagavad Gita or Divine Song </h3> - <a target="_blank" href="https://www.amazon.in/gp/product/8129304376/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=8129304376&linkCode=as2&tag=0106d-21&linkId=774a9e13d6affe03d8beed6598b0b74a">Buy on Amazon</a>
 
 ---
+<h3> Samkhya </h3>
+
+- **Sāṁkhya Across The Millenniums** <a target="_blank" href="https://amzn.to/42hArhl">Buy on Amazon</a>,  [PDF](https://archive.org/details/sankhyaacrossmilleniumswamihariharanandaaranya_202003_699_C){:target="_blank"}
+
+- **The Samkhya Philosophy** by Nandalal Sinha <a target="_blank" href="https://amzn.to/3VpD6Ua">Buy on Amazon</a>,  [PDF](https://archive.org/details/thesamkhyaphilosophysinha/The%20Samkhya%20Philosophy_Sinha/page/n9/mode/2up){:target="_blank"}
+
+- **Patanjali Yoga Sutras** tr. & comm. by Swami Vivekananda <a target="_blank" href="https://amzn.to/42fV4dV">Buy on Amazon</a>,  [PDF](https://archive.org/details/PatanjaliYogaSutraBySwamiVivekananda){:target="_blank"}
+
+---
 <h3> Shaivism </h3>
 
 - **Amritānubhava : Jnaneshvar** Translation by Swami Abhayananda - <a target="_blank" href="https://www.amazon.in/gp/product/0914557025/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0914557025&linkCode=as2&tag=0106d-21&linkId=ab10dee2ba61b528d703adabb2791eda">Buy on Amazon</a>,  [PDF](https://holybooks.com/jnaneshvar-life-works-mystic-poet/){:target="_blank"}
@@ -104,6 +113,8 @@ date: 2021-06-15
 ---
 
 <h3> Others </h3>
+
+- **A SHORT HISTORY OF RELIGIOUS AND PHILOSOPHICAL THOUGHT IN INDIA** [PDF](https://www.swami-krishnananda.org/hist_0.html){:target="_blank"}
 
 - **The Red Book - Liber Novus** by C.G. Jung (Not a philosophy book) - <a target="_blank" href="https://www.amazon.in/gp/product/0393089088/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=0393089088&linkCode=as2&tag=0106d-21&linkId=592165ee594e00de981553be2cdb264f">Buy on Amazon</a>,  [PDF](https://archive.org/details/RedBookByJung/mode/2up){:target="_blank"}
 
