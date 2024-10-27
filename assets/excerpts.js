@@ -21,11 +21,17 @@ function displayExcerpt(excerpt) {
     const text = excerpt.text.includes('\n') ? excerpt.text.replace(/\n/g, '<br>') : excerpt.text;
     document.getElementById('quote-text').innerHTML = excerpt.text;
     // Create book title with Amazon link
-    const bookTitle = `~ ${excerpt.metadata.title} <span style="font-size: 1.2rem;"><a href="${excerpt.metadata.amazonLink}" target="_blank">Buy on Amazon</a></span>`;
+    const bookTitle = `~ ${excerpt.metadata.title}`;
     document.getElementById('book-title').innerHTML = bookTitle;
-    
-    // Hide the separate Amazon button since it's now inline
-    document.getElementById('book-link').style.display = 'none';
+
+    // Show Amazon button only if link exists
+    const amazonButton = document.getElementById('book-link');
+    if (excerpt.metadata.amazonLink && excerpt.metadata.amazonLink.trim() !== '') {
+        amazonButton.style.display = 'inline-block';
+        amazonButton.href = excerpt.metadata.amazonLink;
+    } else {
+        amazonButton.style.display = 'none';
+    }
 }
 
 // Event listeners
