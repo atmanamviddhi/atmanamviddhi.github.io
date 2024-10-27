@@ -691,11 +691,60 @@ table, tr, td, th {
  -webkit-appearance:checkbox;
 }
 
-      
-
-
 @font-face {
   font-family: 'Times New Roman';
   src: url(../fonts/times-new-roman.ttf) format('truetype');
 }
 
+/* excerpt css code */
+
+.excerpt-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 20px;
+}
+
+.random-excerpt-box {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+.excerpt-content {
+  font-size: 1.8rem;
+  line-height: 1.6;
+  margin-bottom: 15px;
+  color: #000000;
+}
+
+.book-meta {
+  padding-top: 10px;
+  color: #000000;
+}
+
+.quote-button {
+  background: #2c3e50;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background 0.3s;
+}
+
+.quote-button:hover {
+  background: #34495e;
+}
+
+.amazon-button {
+  display: inline-block;
+  background: #ff9900;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
