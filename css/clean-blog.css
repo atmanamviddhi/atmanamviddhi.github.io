@@ -724,31 +724,42 @@ table, tr, td, th {
   color: #000000;
 }
 
-.quote-button:hover {
-  background: #34495e;
+.excerpt-button-group {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
 }
 
-.quote-button, .amazon-button {
+.quote-button, .amazon-button, .share-button {
   min-width: 200px;
   padding: 12px 24px;
   font-size: 1.5rem;
   text-align: center;
   display: inline-block;
   border-radius: 5px;
-}
-
-.amazon-button {
-  background: #ff9900;
-  color: white;
-  text-decoration: none;
   border: none;
+  cursor: pointer;
+  text-decoration: none;
 }
 
 .quote-button {
   background: #2c3e50;
   color: white;
-  border: none;
-  cursor: pointer;
+}
+
+.amazon-button {
+  background: #ff9900;
+  color: white;
+}
+
+.share-button {
+  background: #4CAF50;
+  color: white;
+}
+
+.quote-button:hover, .amazon-button:hover, .share-button:hover {
+  opacity: 0.9;
 }
 
 #quote-text {
@@ -762,3 +773,5 @@ table, tr, td, th {
   padding-top: 10px;
   color: #808080;
 }
+
+

@@ -1,4 +1,7 @@
 // Function to fetch and parse a random excerpt file
+let currentFile = null;
+let currentIndex = null;
+
 async function getRandomExcerpt() {
     try {
         const response = await fetch('/excerpts/files.json');
@@ -8,10 +11,17 @@ async function getRandomExcerpt() {
         const excerptData = await excerptResponse.json();
         
         // Get random excerpt and include file metadata
-        const randomExcerpt = excerptData.excerpts[Math.floor(Math.random() * excerptData.excerpts.length)];
+        const randomIndex = Math.floor(Math.random() * excerptData.excerpts.length);
+        const randomExcerpt = excerptData.excerpts[randomIndex];
         randomExcerpt.metadata = excerptData.metadata;
         
+        // Store current file and index without showing in URL
+        currentFile = randomFile;
+        currentIndex = randomIndex;
+        
         displayExcerpt(randomExcerpt);
+        // Remove parameters from URL when showing random quote
+        window.history.pushState({}, '', window.location.pathname);
     } catch (error) {
         console.log('Error loading excerpt:', error);
     }
@@ -20,7 +30,8 @@ async function getRandomExcerpt() {
 function displayExcerpt(excerpt) {
     const text = excerpt.text.includes('\n') ? excerpt.text.replace(/\n/g, '<br>') : excerpt.text;
     document.getElementById('quote-text').innerHTML = excerpt.text;
-    // Create book title with Amazon link
+    
+    // Create book title
     const bookTitle = `~ ${excerpt.metadata.title}`;
     document.getElementById('book-title').innerHTML = bookTitle;
 
@@ -34,11 +45,78 @@ function displayExcerpt(excerpt) {
     }
 }
 
+function getExcerptFromUrl() {
+    const urlParams = new URLSearchParams(window.location.search);
+    return {
+        file: urlParams.get('file'),
+        index: urlParams.get('index')
+    };
+}
+
+function getShareableUrl() {
+    const url = new URL(window.location);
+    url.searchParams.set('file', currentFile);
+    url.searchParams.set('index', currentIndex);
+    return url.toString();
+}
+
+async function loadSpecificExcerpt(filename, index) {
+    try {
+        const excerptResponse = await fetch(`/excerpts/${filename}`);
+        const excerptData = await excerptResponse.json();
+        const excerpt = excerptData.excerpts[index];
+        excerpt.metadata = excerptData.metadata;
+        
+        displayExcerpt(excerpt);
+    } catch (error) {
+        console.log('Error loading specific excerpt:', error);
+        getRandomExcerpt(); // Fallback to random if specific excerpt not found
+    }
+}
+
 // Event listeners
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     const newQuoteButton = document.getElementById('new-quote');
-    newQuoteButton.addEventListener('click', getRandomExcerpt);
+    const shareButton = document.getElementById('share-quote');
     
-    // Display first random excerpt on page load
-    getRandomExcerpt();
+    newQuoteButton.addEventListener('click', getRandomExcerpt);
+    shareButton.addEventListener('click', () => {
+        navigator.clipboard.writeText(getShareableUrl());
+        showToast('Link copied to clipboard!');
+    });
+
+function showToast(message) {
+    const toast = document.createElement('div');
+    toast.textContent = message;
+    toast.style.cssText = `
+        position: fixed;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: #333;
+        color: white;
+        padding: 12px 24px;
+        border-radius: 4px;
+        z-index: 1000;
+        opacity: 0;
+        transition: opacity 0.3s ease-in-out;
+    `;
+    document.body.appendChild(toast);
+    
+    // Fade in
+    setTimeout(() => toast.style.opacity = '1', 10);
+    
+    // Remove after 2 seconds
+    setTimeout(() => {
+        toast.style.opacity = '0';
+        setTimeout(() => document.body.removeChild(toast), 300);
+    }, 2000);
+}    
+    // Check URL parameters and load appropriate excerpt
+    const {file, index} = getExcerptFromUrl();
+    if (file && index !== null) {
+        await loadSpecificExcerpt(file, parseInt(index));
+    } else {
+        await getRandomExcerpt();
+    }
 });
