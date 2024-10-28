@@ -43,8 +43,15 @@ function displayExcerpt(excerpt) {
     } else {
         amazonButton.style.display = 'none';
     }
-}
 
+    // Generate quote image URL
+    const imageUrl = `/api/generate-quote-image?text=${encodeURIComponent(excerpt.text)}&title=${encodeURIComponent(excerpt.metadata.title)}`;
+
+    // Update OG tags
+    document.getElementById('og-description').content = excerpt.text;
+    document.getElementById('og-url').content = window.location.href;
+    document.getElementById('og-image').content = imageUrl;
+}
 function getExcerptFromUrl() {
     const urlParams = new URLSearchParams(window.location.search);
     return {
