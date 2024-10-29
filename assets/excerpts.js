@@ -29,10 +29,11 @@ async function getRandomExcerpt() {
 
 function displayExcerpt(excerpt) {
     const text = excerpt.text.includes('\n') ? excerpt.text.replace(/\n/g, '<br>') : excerpt.text;
+    document.getElementById('quote-text').style.fontStyle = 'normal';
     document.getElementById('quote-text').innerHTML = excerpt.text;
     
     // Create book title
-    const bookTitle = `~ ${excerpt.metadata.title}`;
+    const bookTitle = `<i>~ ${excerpt.metadata.title}</i>`;
     document.getElementById('book-title').innerHTML = bookTitle;
 
     // Show Amazon button only if link exists
