@@ -44,14 +44,6 @@ function displayExcerpt(excerpt) {
     } else {
         amazonButton.style.display = 'none';
     }
-
-    // Generate quote image URL
-    const imageUrl = `/api/generate-quote-image?text=${encodeURIComponent(excerpt.text)}&title=${encodeURIComponent(excerpt.metadata.title)}`;
-
-    // Update OG tags
-    document.getElementById('og-description').content = excerpt.text;
-    document.getElementById('og-url').content = window.location.href;
-    document.getElementById('og-image').content = imageUrl;
 }
 function getExcerptFromUrl() {
     const urlParams = new URLSearchParams(window.location.search);
@@ -65,11 +57,6 @@ function getShareableUrl() {
     const url = new URL(window.location);
     url.searchParams.set('file', currentFile);
     url.searchParams.set('index', currentIndex);
-
-    const shareableUrl = url.toString();
-
-    // Generate preview image
-    //generatePreviewImage(shareableUrl);
 
     return url.toString();
 }
@@ -97,7 +84,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     shareButton.addEventListener('click', () => {
         navigator.clipboard.writeText(getShareableUrl());
         showToast('Link copied to clipboard!');
-        generatePreviewImage(getShareableUrl());
     });
 
 function showToast(message) {
@@ -135,35 +121,3 @@ function showToast(message) {
         await getRandomExcerpt();
     }
 });
-
-function generatePreviewImage(url) {
-    const quoteElement = document.querySelector('.quote');
-    const quoteImage = document.createElement('canvas');
-    const ctx = quoteImage.getContext('2d');
-  
-    // Set the canvas dimensions to match the quote element
-    quoteImage.width = quoteElement.offsetWidth;
-    quoteImage.height = quoteElement.offsetHeight;
-  
-    // Draw the quote element onto the canvas
-    ctx.drawImage(quoteElement, 0, 0);
-  
-    // Get the image data
-    const imageData = quoteImage.toDataURL();
-  
-    // Create a meta tag with the og:image property
-    const metaTag = document.createElement('meta');
-    metaTag.property = 'og:image';
-    metaTag.content = imageData;
-  
-    // Add the meta tag to the HTML head
-    document.head.appendChild(metaTag);
-  
-    // Create a meta tag with the og:url property
-    const urlMetaTag = document.createElement('meta');
-    urlMetaTag.property = 'og:url';
-    urlMetaTag.content = url;
-  
-    // Add the meta tag to the HTML head
-    document.head.appendChild(urlMetaTag);
-}
