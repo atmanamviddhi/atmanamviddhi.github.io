@@ -27,6 +27,71 @@ async function getRandomExcerpt() {
     }
 }
 
+function updateMetaTags(description, url) {
+    // Update meta description
+    let metaDescription = document.querySelector('meta[name="description"]');
+    if (!metaDescription) {
+        metaDescription = document.createElement('meta');
+        metaDescription.name = 'description';
+        document.head.appendChild(metaDescription);
+    }
+    metaDescription.content = description;
+
+    // Update Open Graph description
+    let ogDescription = document.querySelector('meta[property="og:description"]');
+    if (!ogDescription) {
+        ogDescription = document.createElement('meta');
+        ogDescription.setAttribute('property', 'og:description');
+        document.head.appendChild(ogDescription);
+    }
+    ogDescription.content = description;
+
+    // Update canonical URL
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+        canonicalLink = document.createElement('link');
+        canonicalLink.rel = 'canonical';
+        document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.href = url;
+
+    // Update Open Graph URL
+    let ogUrl = document.querySelector('meta[property="og:url"]');
+    if (!ogUrl) {
+        ogUrl = document.createElement('meta');
+        ogUrl.setAttribute('property', 'og:url');
+        document.head.appendChild(ogUrl);
+    }
+    ogUrl.content = url;
+
+    // Optionally update Twitter description if needed
+    let twitterDescription = document.querySelector('meta[name="twitter:description"]');
+    if (!twitterDescription) {
+        twitterDescription = document.createElement('meta');
+        twitterDescription.name = 'twitter:description';
+        document.head.appendChild(twitterDescription);
+    }
+    twitterDescription.content = description;
+
+    // Update Open Graph title
+    let ogTitle = document.querySelector('meta[property="og:title"]');
+    if (!ogTitle) {
+        ogTitle = document.createElement('meta');
+        ogTitle.setAttribute('property', 'og:title');
+        document.head.appendChild(ogTitle);
+    }
+    ogTitle.content = "Wisdom Whisperer";
+
+    // Update Twitter title
+    let twitterTitle = document.querySelector('meta[name="twitter:title"]');
+    if (!twitterTitle) {
+        twitterTitle = document.createElement('meta');
+        twitterTitle.name = 'twitter:title';
+        document.head.appendChild(twitterTitle);
+    }
+    twitterTitle.content = "Wisdom Whisperer";
+}
+
 function displayExcerpt(excerpt) {
     const text = excerpt.text.includes('\n') ? excerpt.text.replace(/\n/g, '<br>') : excerpt.text;
     document.getElementById('quote-text').style.fontStyle = 'normal';
@@ -44,7 +109,11 @@ function displayExcerpt(excerpt) {
     } else {
         amazonButton.style.display = 'none';
     }
+
+    // Update meta description and canonical URL
+    updateMetaTags(text, getShareableUrl());
 }
+
 function getExcerptFromUrl() {
     const urlParams = new URLSearchParams(window.location.search);
     return {
