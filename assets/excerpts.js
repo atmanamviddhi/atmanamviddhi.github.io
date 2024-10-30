@@ -65,7 +65,13 @@ function getShareableUrl() {
     const url = new URL(window.location);
     url.searchParams.set('file', currentFile);
     url.searchParams.set('index', currentIndex);
-    return url.toString();
+
+    const shareableUrl = url.toString();
+
+    // Generate preview image
+     generatePreviewImage(shareableUrl);
+
+    return shareableUrl;
 }
 
 async function loadSpecificExcerpt(filename, index) {
@@ -128,3 +134,35 @@ function showToast(message) {
         await getRandomExcerpt();
     }
 });
+
+function generatePreviewImage(url) {
+    const quoteElement = document.querySelector('.quote');
+    const quoteImage = document.createElement('canvas');
+    const ctx = quoteImage.getContext('2d');
+  
+    // Set the canvas dimensions to match the quote element
+    quoteImage.width = quoteElement.offsetWidth;
+    quoteImage.height = quoteElement.offsetHeight;
+  
+    // Draw the quote element onto the canvas
+    ctx.drawImage(quoteElement, 0, 0);
+  
+    // Get the image data
+    const imageData = quoteImage.toDataURL();
+  
+    // Create a meta tag with the og:image property
+    const metaTag = document.createElement('meta');
+    metaTag.property = 'og:image';
+    metaTag.content = imageData;
+  
+    // Add the meta tag to the HTML head
+    document.head.appendChild(metaTag);
+  
+    // Create a meta tag with the og:url property
+    const urlMetaTag = document.createElement('meta');
+    urlMetaTag.property = 'og:url';
+    urlMetaTag.content = url;
+  
+    // Add the meta tag to the HTML head
+    document.head.appendChild(urlMetaTag);
+  }
