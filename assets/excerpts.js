@@ -69,9 +69,9 @@ function getShareableUrl() {
     const shareableUrl = url.toString();
 
     // Generate preview image
-     generatePreviewImage(shareableUrl);
+    //generatePreviewImage(shareableUrl);
 
-    return shareableUrl;
+    return url.toString();
 }
 
 async function loadSpecificExcerpt(filename, index) {
@@ -97,6 +97,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     shareButton.addEventListener('click', () => {
         navigator.clipboard.writeText(getShareableUrl());
         showToast('Link copied to clipboard!');
+        generatePreviewImage(getShareableUrl());
     });
 
 function showToast(message) {
@@ -165,4 +166,4 @@ function generatePreviewImage(url) {
   
     // Add the meta tag to the HTML head
     document.head.appendChild(urlMetaTag);
-  }
+}
