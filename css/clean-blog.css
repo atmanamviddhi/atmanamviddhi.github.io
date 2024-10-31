@@ -719,7 +719,7 @@ table, tr, td, th {
 }
 
 .excerpt-content {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   line-height: 1.6;
   margin-bottom: 0;
   color: #000000;
@@ -728,6 +728,7 @@ table, tr, td, th {
 .book-meta {
   padding-top: 0;
   color: #000000;
+  font-size: 1.3rem;
 }
 
 .excerpt-button-group {
@@ -738,9 +739,8 @@ table, tr, td, th {
 }
 
 .quote-button, .amazon-button, .share-button {
-  min-width: 200px;
   padding: 12px 24px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
   text-align: center;
   display: inline-block;
