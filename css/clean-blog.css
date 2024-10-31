@@ -741,6 +741,7 @@ table, tr, td, th {
   min-width: 200px;
   padding: 12px 24px;
   font-size: 1.5rem;
+  font-weight: bold;
   text-align: center;
   display: inline-block;
   border-radius: 5px;
@@ -750,18 +751,18 @@ table, tr, td, th {
 }
 
 .quote-button {
-  background: #2c3e50;
-  color: white;
+  background: #9ec29e;
+  color: rgb(0, 0, 0);
 }
 
 .amazon-button {
   background: #ff9900;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .share-button {
   background: #4CAF50;
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
 .quote-button:hover, .amazon-button:hover, .share-button:hover {
