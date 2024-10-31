@@ -189,4 +189,72 @@ function showToast(message) {
     } else {
         await getRandomExcerpt();
     }
+
+    // Ask for notifications only if user hasn't declined before
+    if (!localStorage.getItem('notificationDeclined')) {
+        askForNotificationSubscription();
+    }
+
+    // Schedule daily notification at 9 AM if the user is subscribed
+    const isSubscribed = localStorage.getItem('isSubscribed');
+    if (isSubscribed) {
+        scheduleDailyNotification();
+    }
 });
+
+function scheduleDailyNotification() {
+    const now = new Date();
+    let next9AM = new Date();
+    next9AM.setHours(9, 0, 0, 0);  // Set to 9:00:00 AM
+
+    // If 9 AM has already passed today, schedule for the next day
+    if (now > next9AM) {
+        next9AM.setDate(next9AM.getDate() + 1);
+    }
+
+    const timeUntilNext9AM = next9AM - now;
+
+    // Set a timeout to send the first notification at the next 9 AM
+    setTimeout(() => {
+        sendDailyNotification();
+        
+        // Set an interval to repeat every 24 hours
+        setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
+    }, timeUntilNext9AM);
+}
+
+function sendDailyNotification() {
+    if (Notification.permission === 'granted') {
+        const notificationOptions = {
+            body: "Tap to reveal today's enlightening excerpt!",
+            icon: '/path-to-icon.png'
+        };
+        new Notification("Today's Wisdom Awaits", notificationOptions);
+    } else {
+        console.warn("Notifications are not enabled.");
+    }
+}
+
+async function askForNotificationSubscription() {
+    // Ask user if they want notifications
+    const userConsent = confirm("Would you like to receive daily wisdom notifications?");
+    if (userConsent) {
+        await requestNotificationPermission();
+        // Save subscription status
+        localStorage.setItem('isSubscribed', 'true');
+        scheduleDailyNotification();
+    } else {
+        localStorage.setItem('notificationDeclined', 'true');
+    }
+}
+
+async function requestNotificationPermission() {
+    try {
+        const permission = await Notification.requestPermission();
+        if (permission === 'granted') {
+            console.log("Notifications enabled.");
+        }
+    } catch (error) {
+        console.error("Notification permission error:", error);
+    }
+}
