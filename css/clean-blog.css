@@ -738,7 +738,7 @@ table, tr, td, th {
   justify-content: center;
 }
 
-.quote-button, .amazon-button, .share-button {
+.quote-button, .amazon-button, .share-button, .subscribe-button {
   padding: 12px 24px;
   font-size: 1.2rem;
   font-weight: bold;
@@ -748,6 +748,7 @@ table, tr, td, th {
   border: none;
   cursor: pointer;
   text-decoration: none;
+  transition: background-color 0.3s ease;
 }
 
 .quote-button {
@@ -765,7 +766,28 @@ table, tr, td, th {
   color: rgb(0, 0, 0);
 }
 
-.quote-button:hover, .amazon-button:hover, .share-button:hover {
+.subscribe-button {
+  background: #6A5ACD;
+  color: white;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+}
+
+.subscribe-button .icon {
+  margin-right: 8px;
+}
+
+.subscribe-button.inactive {
+  background-color: #999;
+  cursor: not-allowed;
+}
+
+.subscribe-button.inactive .icon {
+  color: #ccc;
+}
+
+.quote-button:hover, .amazon-button:hover, .share-button:hover, .subscribe-button:hover {
   opacity: 0.9;
 }
 

@@ -148,12 +148,42 @@ async function loadSpecificExcerpt(filename, index) {
 document.addEventListener('DOMContentLoaded', async () => {
     const newQuoteButton = document.getElementById('new-quote');
     const shareButton = document.getElementById('share-quote');
-    
+    const subscribeButton = document.getElementById('subscribeButton');
+
     newQuoteButton.addEventListener('click', getRandomExcerpt);
     shareButton.addEventListener('click', () => {
         navigator.clipboard.writeText(getShareableUrl());
         showToast('Link copied to clipboard!');
     });
+
+    // Check if user is subscribed and update button state
+    if (localStorage.getItem('isSubscribed')) {
+        updateButtonState(true);
+        scheduleDailyNotification();
+    } else {
+        updateButtonState(false);
+    }
+
+    // Subscribe button click event
+    subscribeButton.addEventListener('click', async () => {
+        if (!localStorage.getItem('isSubscribed')) {
+            const subscribed = await requestNotificationPermission();
+            if (subscribed) {
+                localStorage.setItem('isSubscribed', 'true');
+                updateButtonState(true);
+                scheduleDailyNotification();
+            }
+        }
+    });
+
+    // Load appropriate excerpt on page load
+    const { file, index } = getExcerptFromUrl();
+    if (file && index !== null) {
+        await loadSpecificExcerpt(file, parseInt(index));
+    } else {
+        await getRandomExcerpt();
+    }
+});
 
 function showToast(message) {
     const toast = document.createElement('div');
@@ -172,89 +202,65 @@ function showToast(message) {
         transition: opacity 0.3s ease-in-out;
     `;
     document.body.appendChild(toast);
-    
-    // Fade in
+
     setTimeout(() => toast.style.opacity = '1', 10);
-    
-    // Remove after 2 seconds
+
     setTimeout(() => {
         toast.style.opacity = '0';
         setTimeout(() => document.body.removeChild(toast), 300);
     }, 2000);
-}    
-    // Check URL parameters and load appropriate excerpt
-    const {file, index} = getExcerptFromUrl();
-    if (file && index !== null) {
-        await loadSpecificExcerpt(file, parseInt(index));
-    } else {
-        await getRandomExcerpt();
-    }
+}
 
-    // Ask for notifications only if user hasn't declined before
-    if (!localStorage.getItem('notificationDeclined')) {
-        askForNotificationSubscription();
-    }
-
-    // Schedule daily notification at 9 AM if the user is subscribed
-    const isSubscribed = localStorage.getItem('isSubscribed');
+function updateButtonState(isSubscribed) {
+    const subscribeButton = document.getElementById('subscribeButton');
+    const icon = subscribeButton.querySelector('.icon');
+    
     if (isSubscribed) {
-        scheduleDailyNotification();
+        subscribeButton.textContent = "Daily Wisdom @ 9AM";
+        subscribeButton.prepend(icon);
+        subscribeButton.classList.add('inactive');
+        subscribeButton.disabled = true;
+    } else {
+        subscribeButton.textContent = "Wisdom Notifications";
+        subscribeButton.prepend(icon);
+        subscribeButton.classList.remove('inactive');
+        subscribeButton.disabled = false;
     }
-});
+}
+
+
+async function requestNotificationPermission() {
+    try {
+        const permission = await Notification.requestPermission();
+        return permission === 'granted';
+    } catch (error) {
+        console.error("Notification permission error:", error);
+        return false;
+    }
+}
 
 function scheduleDailyNotification() {
     const now = new Date();
     let next9AM = new Date();
-    next9AM.setHours(9, 0, 0, 0);  // Set to 9:00:00 AM
+    next9AM.setHours(9, 0, 0, 0);
 
-    // If 9 AM has already passed today, schedule for the next day
     if (now > next9AM) {
         next9AM.setDate(next9AM.getDate() + 1);
     }
 
     const timeUntilNext9AM = next9AM - now;
 
-    // Set a timeout to send the first notification at the next 9 AM
     setTimeout(() => {
         sendDailyNotification();
-        
-        // Set an interval to repeat every 24 hours
         setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
     }, timeUntilNext9AM);
 }
 
 function sendDailyNotification() {
     if (Notification.permission === 'granted') {
-        const notificationOptions = {
+        new Notification("Today's Wisdom Awaits", {
             body: "Tap to reveal today's enlightening excerpt!",
             icon: '/path-to-icon.png'
-        };
-        new Notification("Today's Wisdom Awaits", notificationOptions);
-    } else {
-        console.warn("Notifications are not enabled.");
-    }
-}
-
-async function askForNotificationSubscription() {
-    // Ask user if they want notifications
-    const userConsent = confirm("Would you like to receive daily wisdom notifications?");
-    if (userConsent) {
-        await requestNotificationPermission();
-        // Save subscription status
-        localStorage.setItem('isSubscribed', 'true');
-        scheduleDailyNotification();
-    } else {
-        localStorage.setItem('notificationDeclined', 'true');
-    }
-}
-
-async function requestNotificationPermission() {
-    try {
-        const permission = await Notification.requestPermission();
-        if (permission === 'granted') {
-            console.log("Notifications enabled.");
-        }
-    } catch (error) {
-        console.error("Notification permission error:", error);
+        });
     }
 }
