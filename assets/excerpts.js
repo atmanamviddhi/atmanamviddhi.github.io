@@ -182,25 +182,25 @@ document.addEventListener('DOMContentLoaded', async () => {
         showToast('Link copied to clipboard!');
     });
 
-    // Check if user is subscribed and update button state
-    if (localStorage.getItem('isSubscribed')) {
-        updateButtonState(true);
-        checkNextNotification(); // Check if a notification should be sent
-    } else {
-        updateButtonState(false);
-    }
+    // // Check if user is subscribed and update button state
+    // if (localStorage.getItem('isSubscribed')) {
+    //     updateButtonState(true);
+    //     checkNextNotification(); // Check if a notification should be sent
+    // } else {
+    //     updateButtonState(false);
+    // }
 
-    // Subscribe button click event
-    subscribeButton.addEventListener('click', async () => {
-        if (!localStorage.getItem('isSubscribed')) {
-            const subscribed = await requestNotificationPermission();
-            if (subscribed) {
-                localStorage.setItem('isSubscribed', 'true');
-                updateButtonState(true);
-                scheduleDailyNotification(); // Schedule notification
-            }
-        }
-    });
+    // // Subscribe button click event
+    // subscribeButton.addEventListener('click', async () => {
+    //     if (!localStorage.getItem('isSubscribed')) {
+    //         const subscribed = await requestNotificationPermission();
+    //         if (subscribed) {
+    //             localStorage.setItem('isSubscribed', 'true');
+    //             updateButtonState(true);
+    //             scheduleDailyNotification(); // Schedule notification
+    //         }
+    //     }
+    // });
 
     // Load appropriate excerpt on page load
     const { file, index } = getExcerptFromUrl();
@@ -211,85 +211,85 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
-function updateButtonState(isSubscribed) {
-    const subscribeButton = document.getElementById('subscribeButton');
-    const icon = subscribeButton.querySelector('.icon');
+// function updateButtonState(isSubscribed) {
+//     const subscribeButton = document.getElementById('subscribeButton');
+//     const icon = subscribeButton.querySelector('.icon');
     
-    if (isSubscribed) {
-        subscribeButton.textContent = "Daily Wisdom @ 3PM";
-        subscribeButton.prepend(icon);
-        subscribeButton.classList.add('inactive');
-        subscribeButton.disabled = true;
-    } else {
-        subscribeButton.textContent = "Wisdom Notifications";
-        subscribeButton.prepend(icon);
-        subscribeButton.classList.remove('inactive');
-        subscribeButton.disabled = false;
-    }
-}
+//     if (isSubscribed) {
+//         subscribeButton.textContent = "Daily Wisdom @ 3PM";
+//         subscribeButton.prepend(icon);
+//         subscribeButton.classList.add('inactive');
+//         subscribeButton.disabled = true;
+//     } else {
+//         subscribeButton.textContent = "Wisdom Notifications";
+//         subscribeButton.prepend(icon);
+//         subscribeButton.classList.remove('inactive');
+//         subscribeButton.disabled = false;
+//     }
+// }
 
-async function requestNotificationPermission() {
-    try {
-        const permission = await Notification.requestPermission();
-        return permission === 'granted';
-    } catch (error) {
-        console.error("Notification permission error:", error);
-        return false;
-    }
-}
+// async function requestNotificationPermission() {
+//     try {
+//         const permission = await Notification.requestPermission();
+//         return permission === 'granted';
+//     } catch (error) {
+//         console.error("Notification permission error:", error);
+//         return false;
+//     }
+// }
 
-function scheduleDailyNotification() {
-    const now = new Date();
-    let next3_30PM = new Date();
-    next3_30PM.setHours(15, 30, 0, 0); // Set to 3:30 PM
+// function scheduleDailyNotification() {
+//     const now = new Date();
+//     let next3_30PM = new Date();
+//     next3_30PM.setHours(15, 30, 0, 0); // Set to 3:30 PM
 
-    // If 3:30 PM has already passed today, schedule for the next day
-    if (now > next3_30PM) {
-        next3_30PM.setDate(next3_30PM.getDate() + 1);
-    }
+//     // If 3:30 PM has already passed today, schedule for the next day
+//     if (now > next3_30PM) {
+//         next3_30PM.setDate(next3_30PM.getDate() + 1);
+//     }
 
-    // Save the next notification time in localStorage
-    localStorage.setItem('nextNotification', next3_30PM.toISOString());
+//     // Save the next notification time in localStorage
+//     localStorage.setItem('nextNotification', next3_30PM.toISOString());
 
-    const timeUntilNext3_30PM = next3_30PM - now;
+//     const timeUntilNext3_30PM = next3_30PM - now;
 
-    // Set a timeout to send the first notification at the next 3:30 PM
-    setTimeout(() => {
-        sendDailyNotification();
-        // Set an interval to repeat every 24 hours
-        setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
-    }, timeUntilNext3_30PM);
-}
+//     // Set a timeout to send the first notification at the next 3:30 PM
+//     setTimeout(() => {
+//         sendDailyNotification();
+//         // Set an interval to repeat every 24 hours
+//         setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
+//     }, timeUntilNext3_30PM);
+// }
 
 
-function checkNextNotification() {
-    const nextNotificationTime = localStorage.getItem('nextNotification');
-    if (nextNotificationTime) {
-        const nextTime = new Date(nextNotificationTime);
-        const now = new Date();
-        // If the scheduled time has passed, send the notification immediately
-        if (now >= nextTime) {
-            sendDailyNotification();
-            scheduleDailyNotification(); // Reschedule for the next day
-        }
-    }
-}
+// function checkNextNotification() {
+//     const nextNotificationTime = localStorage.getItem('nextNotification');
+//     if (nextNotificationTime) {
+//         const nextTime = new Date(nextNotificationTime);
+//         const now = new Date();
+//         // If the scheduled time has passed, send the notification immediately
+//         if (now >= nextTime) {
+//             sendDailyNotification();
+//             scheduleDailyNotification(); // Reschedule for the next day
+//         }
+//     }
+// }
 
-function sendDailyNotification() {
-    if (Notification.permission === 'granted') {
-        const notification = new Notification("Today's Wisdom Awaits", {
-            body: "Tap to reveal today's Wisdom!",
-            data: {
-                url: window.location.href  // Set the URL to your website
-            }
-        });
+// function sendDailyNotification() {
+//     if (Notification.permission === 'granted') {
+//         const notification = new Notification("Today's Wisdom Awaits", {
+//             body: "Tap to reveal today's Wisdom!",
+//             data: {
+//                 url: window.location.href  // Set the URL to your website
+//             }
+//         });
 
-        // Add click event to the notification
-        notification.onclick = function(event) {
-            event.preventDefault(); // Prevent the default behavior
-            window.open(notification.data.url, '_blank'); // Open the website in a new tab
-        };
-    } else {
-        console.warn("Notifications are not enabled or permission was denied.");
-    }
-}
+//         // Add click event to the notification
+//         notification.onclick = function(event) {
+//             event.preventDefault(); // Prevent the default behavior
+//             window.open(notification.data.url, '_blank'); // Open the website in a new tab
+//         };
+//     } else {
+//         console.warn("Notifications are not enabled or permission was denied.");
+//     }
+// }
