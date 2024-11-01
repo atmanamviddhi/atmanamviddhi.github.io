@@ -241,19 +241,22 @@ async function requestNotificationPermission() {
 
 function scheduleDailyNotification() {
     const now = new Date();
-    let next9AM = new Date();
-    next9AM.setHours(9, 0, 0, 0);
+    let next2PM = new Date();
+    next2PM.setHours(14, 0, 0, 0);  // Set to 2:00:00 PM
 
-    if (now > next9AM) {
-        next9AM.setDate(next9AM.getDate() + 1);
+    // If 2 PM has already passed today, schedule for the next day
+    if (now > next2PM) {
+        next2PM.setDate(next2PM.getDate() + 1);
     }
 
-    const timeUntilNext9AM = next9AM - now;
+    const timeUntilNext2PM = next2PM - now;
 
+    // Set a timeout to send the first notification at the next 2 PM
     setTimeout(() => {
         sendDailyNotification();
+        // Set an interval to repeat every 24 hours
         setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
-    }, timeUntilNext9AM);
+    }, timeUntilNext2PM);
 }
 
 function sendDailyNotification() {
