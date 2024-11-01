@@ -241,31 +241,41 @@ async function requestNotificationPermission() {
 
 function scheduleDailyNotification() {
     const now = new Date();
-    let next2_30PM = new Date();
-    next2_30PM.setHours(14, 30, 0, 0);  // Set to 2:30:00 PM
+    let next3PM = new Date();
+    next3PM.setHours(15, 0, 0, 0);  // Set to 3:00:00 PM
 
-    // If 2:30 PM has already passed today, schedule for the next day
-    if (now > next2_30PM) {
-        next2_30PM.setDate(next2_30PM.getDate() + 1);
+    // If 3 PM has already passed today, schedule for the next day
+    if (now > next3PM) {
+        next3PM.setDate(next3PM.getDate() + 1);
     }
 
-    const timeUntilNext2_30PM = next2_30PM - now;
+    const timeUntilNext3PM = next3PM - now;
 
-    // Set a timeout to send the first notification at the next 2:30 PM
+    // Set a timeout to send the first notification at the next 3 PM
     setTimeout(() => {
         sendDailyNotification();
         // Set an interval to repeat every 24 hours
         setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
-    }, timeUntilNext2_30PM);
+    }, timeUntilNext3PM);
 }
-
 
 function sendDailyNotification() {
     if (Notification.permission === 'granted') {
-        new Notification("Today's Wisdom Awaits", {
-            body: "Tap to reveal today's Wisdom!"
+        const notification = new Notification("Today's Wisdom Awaits", {
+            // You can add an icon if you have one
+            // icon: '/path-to-icon.png',
+            data: {
+                url: window.location.href  // Set the URL to your website
+            }
         });
+
+        // Add click event to the notification
+        notification.onclick = function(event) {
+            event.preventDefault(); // Prevent the default behavior
+            window.open(notification.data.url, '_blank'); // Open the website in a new tab
+        };
     } else {
         console.warn("Notifications are not enabled or permission was denied.");
     }
 }
+
