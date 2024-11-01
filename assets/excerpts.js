@@ -259,8 +259,9 @@ function scheduleDailyNotification() {
 function sendDailyNotification() {
     if (Notification.permission === 'granted') {
         new Notification("Today's Wisdom Awaits", {
-            body: "Tap to reveal today's enlightening excerpt!",
-            icon: '/path-to-icon.png'
+            body: "Tap to reveal today's Wisdom!"
         });
+    } else {
+        console.warn("Notifications are not enabled or permission was denied.");
     }
 }
