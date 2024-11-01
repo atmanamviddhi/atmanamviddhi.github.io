@@ -144,47 +144,6 @@ async function loadSpecificExcerpt(filename, index) {
     }
 }
 
-// Event listeners
-document.addEventListener('DOMContentLoaded', async () => {
-    const newQuoteButton = document.getElementById('new-quote');
-    const shareButton = document.getElementById('share-quote');
-    const subscribeButton = document.getElementById('subscribeButton');
-
-    newQuoteButton.addEventListener('click', getRandomExcerpt);
-    shareButton.addEventListener('click', () => {
-        navigator.clipboard.writeText(getShareableUrl());
-        showToast('Link copied to clipboard!');
-    });
-
-    // Check if user is subscribed and update button state
-    if (localStorage.getItem('isSubscribed')) {
-        updateButtonState(true);
-        scheduleDailyNotification();
-    } else {
-        updateButtonState(false);
-    }
-
-    // Subscribe button click event
-    subscribeButton.addEventListener('click', async () => {
-        if (!localStorage.getItem('isSubscribed')) {
-            const subscribed = await requestNotificationPermission();
-            if (subscribed) {
-                localStorage.setItem('isSubscribed', 'true');
-                updateButtonState(true);
-                scheduleDailyNotification();
-            }
-        }
-    });
-
-    // Load appropriate excerpt on page load
-    const { file, index } = getExcerptFromUrl();
-    if (file && index !== null) {
-        await loadSpecificExcerpt(file, parseInt(index));
-    } else {
-        await getRandomExcerpt();
-    }
-});
-
 function showToast(message) {
     const toast = document.createElement('div');
     toast.textContent = message;
@@ -211,12 +170,53 @@ function showToast(message) {
     }, 2000);
 }
 
+// Event listeners
+document.addEventListener('DOMContentLoaded', async () => {
+    const newQuoteButton = document.getElementById('new-quote');
+    const shareButton = document.getElementById('share-quote');
+    const subscribeButton = document.getElementById('subscribeButton');
+
+    newQuoteButton.addEventListener('click', getRandomExcerpt);
+    shareButton.addEventListener('click', () => {
+        navigator.clipboard.writeText(getShareableUrl());
+        showToast('Link copied to clipboard!');
+    });
+
+    // Check if user is subscribed and update button state
+    if (localStorage.getItem('isSubscribed')) {
+        updateButtonState(true);
+        checkNextNotification(); // Check if a notification should be sent
+    } else {
+        updateButtonState(false);
+    }
+
+    // Subscribe button click event
+    subscribeButton.addEventListener('click', async () => {
+        if (!localStorage.getItem('isSubscribed')) {
+            const subscribed = await requestNotificationPermission();
+            if (subscribed) {
+                localStorage.setItem('isSubscribed', 'true');
+                updateButtonState(true);
+                scheduleDailyNotification(); // Schedule notification
+            }
+        }
+    });
+
+    // Load appropriate excerpt on page load
+    const { file, index } = getExcerptFromUrl();
+    if (file && index !== null) {
+        await loadSpecificExcerpt(file, parseInt(index));
+    } else {
+        await getRandomExcerpt();
+    }
+});
+
 function updateButtonState(isSubscribed) {
     const subscribeButton = document.getElementById('subscribeButton');
     const icon = subscribeButton.querySelector('.icon');
     
     if (isSubscribed) {
-        subscribeButton.textContent = "Daily Wisdom @ 9AM";
+        subscribeButton.textContent = "Daily Wisdom @ 3PM";
         subscribeButton.prepend(icon);
         subscribeButton.classList.add('inactive');
         subscribeButton.disabled = true;
@@ -227,7 +227,6 @@ function updateButtonState(isSubscribed) {
         subscribeButton.disabled = false;
     }
 }
-
 
 async function requestNotificationPermission() {
     try {
@@ -241,29 +240,45 @@ async function requestNotificationPermission() {
 
 function scheduleDailyNotification() {
     const now = new Date();
-    let next3PM = new Date();
-    next3PM.setHours(15, 0, 0, 0);  // Set to 3:00:00 PM
+    let next3_30PM = new Date();
+    next3_30PM.setHours(15, 30, 0, 0); // Set to 3:30 PM
 
-    // If 3 PM has already passed today, schedule for the next day
-    if (now > next3PM) {
-        next3PM.setDate(next3PM.getDate() + 1);
+    // If 3:30 PM has already passed today, schedule for the next day
+    if (now > next3_30PM) {
+        next3_30PM.setDate(next3_30PM.getDate() + 1);
     }
 
-    const timeUntilNext3PM = next3PM - now;
+    // Save the next notification time in localStorage
+    localStorage.setItem('nextNotification', next3_30PM.toISOString());
 
-    // Set a timeout to send the first notification at the next 3 PM
+    const timeUntilNext3_30PM = next3_30PM - now;
+
+    // Set a timeout to send the first notification at the next 3:30 PM
     setTimeout(() => {
         sendDailyNotification();
         // Set an interval to repeat every 24 hours
         setInterval(sendDailyNotification, 24 * 60 * 60 * 1000);
-    }, timeUntilNext3PM);
+    }, timeUntilNext3_30PM);
+}
+
+
+function checkNextNotification() {
+    const nextNotificationTime = localStorage.getItem('nextNotification');
+    if (nextNotificationTime) {
+        const nextTime = new Date(nextNotificationTime);
+        const now = new Date();
+        // If the scheduled time has passed, send the notification immediately
+        if (now >= nextTime) {
+            sendDailyNotification();
+            scheduleDailyNotification(); // Reschedule for the next day
+        }
+    }
 }
 
 function sendDailyNotification() {
     if (Notification.permission === 'granted') {
         const notification = new Notification("Today's Wisdom Awaits", {
-            // You can add an icon if you have one
-            // icon: '/path-to-icon.png',
+            body: "Tap to reveal today's Wisdom!",
             data: {
                 url: window.location.href  // Set the URL to your website
             }
@@ -278,4 +293,3 @@ function sendDailyNotification() {
         console.warn("Notifications are not enabled or permission was denied.");
     }
 }
-
