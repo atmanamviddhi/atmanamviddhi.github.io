@@ -3,7 +3,7 @@ footer, article, body {
   font-size: 18px;
   color: #e6e6fa;
   line-height: 1.5;
-  background-color: #4B0082;
+  background-color: #1a1e2b;
   background-attachment: fixed;
 }
 
@@ -717,10 +717,12 @@ table, tr, td, th {
 
 .random-excerpt-box {
   background: #6a5acd;
+  background: linear-gradient(135deg, #0d1120 0%, #1e2a55 43%, #0d1120 100%);
   border-radius: 10px;
   box-shadow: 0 2px 15px rgba(0,0,0,0.1);
   padding: 2rem;
   margin: 2rem 0;
+  box-shadow:  0 4px 15px #aeaeb0;
 }
 
 .excerpt-content {
@@ -797,13 +799,13 @@ table, tr, td, th {
 #quote-text {
   margin-bottom: 5px;
   padding-bottom: 2px;
-  color: #FAFAFA;
+  color: #E0E0E0;
 }
 
 #book-title {
   margin-top: 2px;
   padding-top: 10px;
-  color: #e3e8e8;
+  color: #FFFFE0;
 }
 
 
