@@ -12,15 +12,18 @@ async function loadComponents() {
     if (element) element.innerHTML = html;
   }
   
-  // Load ad content
-  const adResponse = await fetch('../assets/ads-card.html');
-  const adHtml = await adResponse.text();
-  
-  // Find all ad containers and populate them
-  const adContainers = document.querySelectorAll('.ads-container');
-  adContainers.forEach(container => {
-    container.innerHTML = adHtml;
-  });
+  // Handle the ads containers with class selector
+  try {
+    const adResponse = await fetch('../assets/ads-card.html');
+    const adHtml = await adResponse.text();
+    
+    const adContainers = document.querySelectorAll('.ads-container');
+    adContainers.forEach(container => {
+      container.innerHTML = adHtml;
+    });
+  } catch (error) {
+    console.error('Failed to load ads:', error);
+  }
 }
 
 document.addEventListener('DOMContentLoaded', loadComponents);
