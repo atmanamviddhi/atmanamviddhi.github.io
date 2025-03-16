@@ -1,1 +1,1 @@
-# atmanamviddhi.github.io
+[https://atmanamviddhi.in/](https://atmanamviddhi.in/)
